@@ -1,0 +1,77 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "395436",
+            "ChassisNumber": "PBNODJZO908103966",
+            "CarModel": "BMW X3",
+            "NumberPlate": "BQ6869",
+            "CompletionDate": "02.04.2020",
+            "OrderNumber": "52342",
+            "ImmatriculationDate": "12.02.2022",
+            "Mileage": "70297"
+        },
+        "items": [
+            {
+                "ItemName": "COMPATIBLE MISSION-CRITICAL GRAPHIC",
+                "ItemID": 95451542,
+                "CostNet": 130.23,
+                "CostGross": "535.43",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CLONED HYBRID THROUGHPUT",
+                "ItemID": 36054138,
+                "CostNet": 88.15,
+                "CostGross": "440.07",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DIVERSE MULTI-STATE HIERARCHY",
+                "ItemID": 52763260,
+                "CostNet": 252.35,
+                "CostGross": "367.35",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED NEXT GENERATION ADA",
+                "ItemID": 51337540,
+                "CostNet": 172.95,
+                "CostGross": "502.6",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "INTUITIVE SOLUTION-ORIENTED HUB",
+                "ItemID": 25657993,
+                "CostNet": 136.02,
+                "CostGross": "582.24",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FRONT-LINE COMPOSITE FIRMWARE",
+                "ItemID": 31863826,
+                "CostNet": 268.64,
+                "CostGross": "450.62",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED MULTI-TASKING ACCESS",
+                "ItemID": 20610204,
+                "CostNet": 168.6,
+                "CostGross": "436.46",
+                "Discount": "5.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "17.25",
+            "GrossAmount": "967.05",
+            "NetAmount1": "681.51"
+        }
+    }
+}

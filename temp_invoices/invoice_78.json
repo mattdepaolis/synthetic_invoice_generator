@@ -1,0 +1,109 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "116753",
+            "ChassisNumber": "TRSBUODO538232146",
+            "CarModel": "Nissan Maxima",
+            "NumberPlate": "NZ9405",
+            "CompletionDate": "22.01.2022",
+            "OrderNumber": "84293",
+            "ImmatriculationDate": "24.08.2023",
+            "Mileage": "14501"
+        },
+        "items": [
+            {
+                "ItemName": "REACTIVE FOREGROUND PRODUCTIVITY",
+                "ItemID": 35408210,
+                "CostNet": 106.1,
+                "CostGross": "544.12",
+                "Discount": "2.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ENHANCED DEDICATED GRAPHIC INTERFAC",
+                "ItemID": 18433061,
+                "CostNet": 256.79,
+                "CostGross": "547.51",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "OPERATIVE TRANSITIONAL CAPACITY",
+                "ItemID": 15963224,
+                "CostNet": 195.75,
+                "CostGross": "331.87",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DEVOLVED STATIC PRICING STRUCTURE",
+                "ItemID": 28881472,
+                "CostNet": 295.12,
+                "CostGross": "425.35",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC REGIONAL PRICING STRUC",
+                "ItemID": 77952019,
+                "CostNet": 252.07,
+                "CostGross": "507.12",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "REALIGNED HYBRID PROTOCOL",
+                "ItemID": 56480296,
+                "CostNet": 140.9,
+                "CostGross": "526.51",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ADAPTIVE MOTIVATING LEVERAGE",
+                "ItemID": 16870116,
+                "CostNet": 257.63,
+                "CostGross": "448.02",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED ZERO-DEFECT PROJECT",
+                "ItemID": 37638673,
+                "CostNet": 13.46,
+                "CostGross": "590.76",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "VISIONARY OPTIMIZING DATA-WAREHOUSE",
+                "ItemID": 13166349,
+                "CostNet": 38.78,
+                "CostGross": "521.31",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "INNOVATIVE HIGH-LEVEL MATRIX",
+                "ItemID": 99806889,
+                "CostNet": 293.92,
+                "CostGross": "306.31",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "STAND-ALONE CONTENT-BASED EMULATION",
+                "ItemID": 13383533,
+                "CostNet": 176.48,
+                "CostGross": "440.41",
+                "Discount": "1.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "31.05",
+            "GrossAmount": "1668.06",
+            "NetAmount1": "1442.04"
+        }
+    }
+}

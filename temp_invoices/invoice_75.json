@@ -1,0 +1,181 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "870369",
+            "ChassisNumber": "YSLHOKSK062590381",
+            "CarModel": "Mazda 3",
+            "NumberPlate": "UA4716",
+            "CompletionDate": "09.11.2020",
+            "OrderNumber": "79942",
+            "ImmatriculationDate": "15.07.2023",
+            "Mileage": "59792"
+        },
+        "items": [
+            {
+                "ItemName": "INNOVATIVE ZERO-DEFECT COMPLEXITY",
+                "ItemID": 66894128,
+                "CostNet": 217.01,
+                "CostGross": "463.13",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "REDUCED COHERENT INFO-MEDIARIES",
+                "ItemID": 62538086,
+                "CostNet": 231.94,
+                "CostGross": "503.73",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "VIRTUAL EXUDING FUNCTIONALITIES",
+                "ItemID": 58680779,
+                "CostNet": 206.32,
+                "CostGross": "585.99",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROFOUND NON-VOLATILE INITIATIVE",
+                "ItemID": 35193738,
+                "CostNet": 63.24,
+                "CostGross": "514.54",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SEAMLESS RESPONSIVE KNOWLEDGE USER",
+                "ItemID": 29431029,
+                "CostNet": 72.88,
+                "CostGross": "370.84",
+                "Discount": "7.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE BANDWIDTH-MONITORED ANA",
+                "ItemID": 73039120,
+                "CostNet": 84.43,
+                "CostGross": "460.77",
+                "Discount": "14.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE ASYMMETRIC SUPPORT",
+                "ItemID": 75948603,
+                "CostNet": 228.61,
+                "CostGross": "370.09",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE OBJECT-ORIENTED THROUGHPU",
+                "ItemID": 91521270,
+                "CostNet": 291.27,
+                "CostGross": "529.55",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FRONT-LINE UPWARD-TRENDING SYSTEM E",
+                "ItemID": 54348198,
+                "CostNet": 214.36,
+                "CostGross": "589.75",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP HYBRID ATTITUDE",
+                "ItemID": 70667552,
+                "CostNet": 59.19,
+                "CostGross": "539.54",
+                "Discount": "6.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED TRANSITIONAL KNOWLE",
+                "ItemID": 88829368,
+                "CostNet": 234.81,
+                "CostGross": "389.6",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "STREAMLINED COHERENT CONGLOMERATION",
+                "ItemID": 54704877,
+                "CostNet": 258.56,
+                "CostGross": "597.73",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MANAGED 4THGENERATION PROCESS IMPRO",
+                "ItemID": 56224184,
+                "CostNet": 37.41,
+                "CostGross": "415.2",
+                "Discount": "11.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DEVOLVED 4THGENERATION CHALLENGE",
+                "ItemID": 39987706,
+                "CostNet": 229.29,
+                "CostGross": "433.87",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM ACTUATING CHALLENGE",
+                "ItemID": 15670731,
+                "CostNet": 197.92,
+                "CostGross": "405.7",
+                "Discount": "9.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "EXTENDED CONTENT-BASED NEURAL-NET",
+                "ItemID": 46710696,
+                "CostNet": 183.29,
+                "CostGross": "479.82",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE FAULT-TOLERANT P",
+                "ItemID": 61447462,
+                "CostNet": 248.52,
+                "CostGross": "363.85",
+                "Discount": "14.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PERSISTENT NEUTRAL SUPPORT",
+                "ItemID": 72776763,
+                "CostNet": 200.29,
+                "CostGross": "394.39",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ORGANIZED ASYMMETRIC CIRCUIT",
+                "ItemID": 19175798,
+                "CostNet": 268.62,
+                "CostGross": "565.5",
+                "Discount": "14.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED NEUTRAL DEFINITION",
+                "ItemID": 32841101,
+                "CostNet": 116.74,
+                "CostGross": "507.67",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "39.38",
+            "GrossAmount": "1540.76",
+            "NetAmount1": "1165.23"
+        }
+    }
+}

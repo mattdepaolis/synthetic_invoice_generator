@@ -1,0 +1,125 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "118536",
+            "ChassisNumber": "GYBDKNXC323739353",
+            "CarModel": "Mercedes G-Class",
+            "NumberPlate": "MF1231",
+            "CompletionDate": "03.01.2022",
+            "OrderNumber": "86489",
+            "ImmatriculationDate": "12.06.2023",
+            "Mileage": "6801"
+        },
+        "items": [
+            {
+                "ItemName": "INNOVATIVE MAXIMIZED ALGORITHM",
+                "ItemID": 73768037,
+                "CostNet": 232.99,
+                "CostGross": "426.83",
+                "Discount": "9.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CLONED BANDWIDTH-MONITORED EXTRANET",
+                "ItemID": 68429129,
+                "CostNet": 95.24,
+                "CostGross": "505.77",
+                "Discount": "12.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "STAND-ALONE BANDWIDTH-MONITORED DAT",
+                "ItemID": 46732955,
+                "CostNet": 229.87,
+                "CostGross": "497.9",
+                "Discount": "1.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE EVEN-KEELED MIDDLEWARE",
+                "ItemID": 53066796,
+                "CostNet": 193.2,
+                "CostGross": "490.18",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FRONT-LINE ZERO-DEFECT ARTIFICIAL I",
+                "ItemID": 82451411,
+                "CostNet": 154.3,
+                "CostGross": "332.31",
+                "Discount": "1.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ASSIMILATED SCALABLE BUDGETARY MANA",
+                "ItemID": 58600986,
+                "CostNet": 21.87,
+                "CostGross": "419.44",
+                "Discount": "12.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "REDUCED WEB-ENABLED WEBSITE",
+                "ItemID": 20541072,
+                "CostNet": 275.76,
+                "CostGross": "347.26",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SECURED LOGISTICAL CAPABILITY",
+                "ItemID": 50278266,
+                "CostNet": 167.65,
+                "CostGross": "379.73",
+                "Discount": "4.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC BI-DIRECTIONAL INFO-ME",
+                "ItemID": 37136257,
+                "CostNet": 65.02,
+                "CostGross": "423.4",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "MONITORED NEEDS-BASED KNOWLEDGE USE",
+                "ItemID": 51937130,
+                "CostNet": 225.03,
+                "CostGross": "478.81",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED SCALABLE PRICING STRUCTU",
+                "ItemID": 78048208,
+                "CostNet": 91.54,
+                "CostGross": "466.56",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "UPGRADABLE FAULT-TOLERANT WEBSITE",
+                "ItemID": 73709616,
+                "CostNet": 119.12,
+                "CostGross": "512.25",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UP-SIZED SYSTEMATIC FUNCTION",
+                "ItemID": 49609676,
+                "CostNet": 42.21,
+                "CostGross": "305.26",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "17.12",
+            "GrossAmount": "1372.05",
+            "NetAmount1": "677.21"
+        }
+    }
+}

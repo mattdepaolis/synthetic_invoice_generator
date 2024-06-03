@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "598953",
+            "ChassisNumber": "ODTUVIUL195305731",
+            "CarModel": "Maserati Quattroporte",
+            "NumberPlate": "XD4970",
+            "CompletionDate": "07.05.2020",
+            "OrderNumber": "96737",
+            "ImmatriculationDate": "08.10.2020",
+            "Mileage": "17229"
+        },
+        "items": [
+            {
+                "ItemName": "REDUCED DIDACTIC APPLICATION",
+                "ItemID": 88298746,
+                "CostNet": 134.57,
+                "CostGross": "442.68",
+                "Discount": "14.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PERSEVERING CONTEXT-SENSITIVE GRAPH",
+                "ItemID": 70465574,
+                "CostNet": 183.4,
+                "CostGross": "343.82",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED INTERMEDIATE MIGRATION",
+                "ItemID": 13822802,
+                "CostNet": 238.92,
+                "CostGross": "581.4",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DIVERSE 24HOUR CORE",
+                "ItemID": 73896602,
+                "CostNet": 161.66,
+                "CostGross": "511.9",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED STATIC CORE",
+                "ItemID": 57625116,
+                "CostNet": 141.11,
+                "CostGross": "402.6",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ADAPTIVE BOTTOM-LINE FORECAST",
+                "ItemID": 24808303,
+                "CostNet": 91.4,
+                "CostGross": "359.86",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "INNOVATIVE ANALYZING SUPPORT",
+                "ItemID": 56522660,
+                "CostNet": 229.06,
+                "CostGross": "434.44",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "OPERATIVE LOCAL GROUPWARE",
+                "ItemID": 12866125,
+                "CostNet": 286.3,
+                "CostGross": "383.38",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "48.9",
+            "GrossAmount": "1459.59",
+            "NetAmount1": "1030.65"
+        }
+    }
+}

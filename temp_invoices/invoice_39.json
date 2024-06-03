@@ -1,0 +1,149 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "767036",
+            "ChassisNumber": "PXNQKXTS835865753",
+            "CarModel": "Jeep Wrangler",
+            "NumberPlate": "HG1956",
+            "CompletionDate": "26.03.2020",
+            "OrderNumber": "18555",
+            "ImmatriculationDate": "03.01.2021",
+            "Mileage": "94670"
+        },
+        "items": [
+            {
+                "ItemName": "DE-ENGINEERED CLIENT-DRIVEN DEFINIT",
+                "ItemID": 35371887,
+                "CostNet": 229.67,
+                "CostGross": "413.66",
+                "Discount": "7.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED 24HOUR LOCAL AREA NETWO",
+                "ItemID": 74428624,
+                "CostNet": 54.4,
+                "CostGross": "575.32",
+                "Discount": "1.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE MOBILE INFO-MEDIARIES",
+                "ItemID": 11972566,
+                "CostNet": 150.08,
+                "CostGross": "464.26",
+                "Discount": "3.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "VERSATILE HOLISTIC COMPLEXITY",
+                "ItemID": 90892590,
+                "CostNet": 283.68,
+                "CostGross": "428.28",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SEAMLESS ASYNCHRONOUS CONGLOMERATIO",
+                "ItemID": 98241614,
+                "CostNet": 110.98,
+                "CostGross": "455.41",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PHASED 6THGENERATION METHODOLOGY",
+                "ItemID": 53633596,
+                "CostNet": 269.94,
+                "CostGross": "478.81",
+                "Discount": "15.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED HUMAN-RESOURCE PROJECTI",
+                "ItemID": 18130336,
+                "CostNet": 148.89,
+                "CostGross": "323.42",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "UPGRADABLE EXUDING NEURAL-NET",
+                "ItemID": 20175271,
+                "CostNet": 78.67,
+                "CostGross": "509.39",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL SCALABLE ENCODING",
+                "ItemID": 13749411,
+                "CostNet": 186.12,
+                "CostGross": "342.84",
+                "Discount": "11.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS CLIENT-SERVER MIDDLEWAR",
+                "ItemID": 35993591,
+                "CostNet": 291.3,
+                "CostGross": "467.34",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SEAMLESS ZERO-DEFECT OPEN SYSTEM",
+                "ItemID": 53653374,
+                "CostNet": 201.2,
+                "CostGross": "323.99",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DIGITIZED NON-VOLATILE BENCHMARK",
+                "ItemID": 69875159,
+                "CostNet": 26.73,
+                "CostGross": "345.15",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CLONED 4THGENERATION SUPPORT",
+                "ItemID": 90631856,
+                "CostNet": 190.73,
+                "CostGross": "543.0",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PERSISTENT HOMOGENEOUS MORATORIUM",
+                "ItemID": 26634882,
+                "CostNet": 285.46,
+                "CostGross": "567.56",
+                "Discount": "11.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "STREAMLINED DISINTERMEDIATE PROTOCO",
+                "ItemID": 20757910,
+                "CostNet": 154.36,
+                "CostGross": "364.33",
+                "Discount": "12.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED FULL-RANGE GRAPHIC IN",
+                "ItemID": 45794855,
+                "CostNet": 123.36,
+                "CostGross": "500.0",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "17.5",
+            "GrossAmount": "1798.94",
+            "NetAmount1": "1437.6"
+        }
+    }
+}

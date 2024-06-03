@@ -1,0 +1,133 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "595463",
+            "ChassisNumber": "IXMPHATO033963237",
+            "CarModel": "Mercedes G-Class",
+            "NumberPlate": "UZ9547",
+            "CompletionDate": "12.09.2021",
+            "OrderNumber": "79308",
+            "ImmatriculationDate": "11.01.2023",
+            "Mileage": "92358"
+        },
+        "items": [
+            {
+                "ItemName": "SEAMLESS RECIPROCAL EXTRANET",
+                "ItemID": 94338510,
+                "CostNet": 12.98,
+                "CostGross": "553.58",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL HYBRID MIGRATION",
+                "ItemID": 69141505,
+                "CostNet": 237.69,
+                "CostGross": "403.05",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE ANALYZING ATTITU",
+                "ItemID": 14362024,
+                "CostNet": 56.64,
+                "CostGross": "565.49",
+                "Discount": "4.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC FOREGROUND CORE",
+                "ItemID": 39920037,
+                "CostNet": 39.31,
+                "CostGross": "514.03",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SYNCHRONIZED RESPONSIVE MORATORIUM",
+                "ItemID": 40870423,
+                "CostNet": 178.73,
+                "CostGross": "597.57",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE MOBILE MODERATOR",
+                "ItemID": 14951081,
+                "CostNet": 86.62,
+                "CostGross": "370.67",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SHARABLE HEURISTIC SOLUTION",
+                "ItemID": 16414881,
+                "CostNet": 298.05,
+                "CostGross": "486.18",
+                "Discount": "14.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CLONED VALUE-ADDED INSTRUCTION SET",
+                "ItemID": 21340746,
+                "CostNet": 257.86,
+                "CostGross": "350.0",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ROBUST BANDWIDTH-MONITORED FOCUS GR",
+                "ItemID": 19616537,
+                "CostNet": 292.36,
+                "CostGross": "409.0",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ORGANIZED MULTI-STATE APPLICATION",
+                "ItemID": 34156661,
+                "CostNet": 215.6,
+                "CostGross": "338.66",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "SWITCHABLE REAL-TIME ARRAY",
+                "ItemID": 94539728,
+                "CostNet": 176.21,
+                "CostGross": "417.09",
+                "Discount": "3.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED HYBRID MONITORING",
+                "ItemID": 87012365,
+                "CostNet": 56.03,
+                "CostGross": "543.79",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED DISCRETE BENCHMARK",
+                "ItemID": 12324045,
+                "CostNet": 56.75,
+                "CostGross": "594.54",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED OPTIMIZING CORE",
+                "ItemID": 83958242,
+                "CostNet": 239.49,
+                "CostGross": "495.24",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "20.03",
+            "GrossAmount": "1271.43",
+            "NetAmount1": "865.78"
+        }
+    }
+}

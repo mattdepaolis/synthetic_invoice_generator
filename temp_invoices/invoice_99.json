@@ -1,0 +1,173 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "380321",
+            "ChassisNumber": "CGSPBFMG531405585",
+            "CarModel": "Cadillac Escalade",
+            "NumberPlate": "GW1033",
+            "CompletionDate": "07.02.2020",
+            "OrderNumber": "14426",
+            "ImmatriculationDate": "04.04.2021",
+            "Mileage": "68063"
+        },
+        "items": [
+            {
+                "ItemName": "STREAMLINED UNIFORM SOFTWARE",
+                "ItemID": 73027121,
+                "CostNet": 235.94,
+                "CostGross": "516.22",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP HEURISTIC GROUPWARE",
+                "ItemID": 30019273,
+                "CostNet": 203.0,
+                "CostGross": "592.34",
+                "Discount": "11.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED REAL-TIME TOOLSET",
+                "ItemID": 95743490,
+                "CostNet": 172.99,
+                "CostGross": "434.05",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PERSISTENT STATIC APPROACH",
+                "ItemID": 82009292,
+                "CostNet": 76.76,
+                "CostGross": "577.23",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE TANGIBLE DATABASE",
+                "ItemID": 77549031,
+                "CostNet": 62.64,
+                "CostGross": "355.49",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED DEMAND-DRIVEN ARTIFIC",
+                "ItemID": 27585307,
+                "CostNet": 83.35,
+                "CostGross": "424.37",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE 3RDGENERATION PRODUCT",
+                "ItemID": 67150972,
+                "CostNet": 142.75,
+                "CostGross": "526.08",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DIVERSE EXPLICIT CHALLENGE",
+                "ItemID": 42579609,
+                "CostNet": 116.6,
+                "CostGross": "517.7",
+                "Discount": "12.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "INTEGRATED CONTEXT-SENSITIVE ENCRYP",
+                "ItemID": 94182268,
+                "CostNet": 74.69,
+                "CostGross": "487.58",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY 3RDGENERATION MATRICE",
+                "ItemID": 59479176,
+                "CostNet": 111.42,
+                "CostGross": "468.38",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC ENCOMPASSING CAPACITY",
+                "ItemID": 11646316,
+                "CostNet": 243.6,
+                "CostGross": "495.68",
+                "Discount": "14.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PHASED NEUTRAL ENCRYPTION",
+                "ItemID": 25765641,
+                "CostNet": 222.13,
+                "CostGross": "463.82",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "NETWORKED GLOBAL MONITORING",
+                "ItemID": 62798184,
+                "CostNet": 48.99,
+                "CostGross": "346.47",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED 4THGENERATION CAPABI",
+                "ItemID": 61062640,
+                "CostNet": 90.25,
+                "CostGross": "434.24",
+                "Discount": "7.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED SYSTEM-WORTHY INT",
+                "ItemID": 47835325,
+                "CostNet": 160.71,
+                "CostGross": "528.25",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE UPWARD-TRENDING ",
+                "ItemID": 75322389,
+                "CostNet": 106.87,
+                "CostGross": "347.74",
+                "Discount": "4.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DEVOLVED FULL-RANGE BUDGETARY MANAG",
+                "ItemID": 21421276,
+                "CostNet": 17.2,
+                "CostGross": "460.52",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "INVERSE OBJECT-ORIENTED CONGLOMERAT",
+                "ItemID": 30480529,
+                "CostNet": 123.42,
+                "CostGross": "492.53",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DIVERSE LOCAL CONTINGENCY",
+                "ItemID": 75108449,
+                "CostNet": 68.88,
+                "CostGross": "559.56",
+                "Discount": "12.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "18.22",
+            "GrossAmount": "1696.5",
+            "NetAmount1": "1344.98"
+        }
+    }
+}

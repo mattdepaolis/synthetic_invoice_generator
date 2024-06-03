@@ -1,0 +1,93 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "550677",
+            "ChassisNumber": "TFINFNSO848224672",
+            "CarModel": "Bentley Continental",
+            "NumberPlate": "TC3067",
+            "CompletionDate": "28.01.2021",
+            "OrderNumber": "78327",
+            "ImmatriculationDate": "27.09.2023",
+            "Mileage": "11411"
+        },
+        "items": [
+            {
+                "ItemName": "IMPLEMENTED USER-FACING DATA-WAREHO",
+                "ItemID": 72675507,
+                "CostNet": 78.58,
+                "CostGross": "354.21",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "VERSATILE 3RDGENERATION FLEXIBILITY",
+                "ItemID": 78454023,
+                "CostNet": 284.29,
+                "CostGross": "453.72",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED COMPOSITE CUSTOMER ",
+                "ItemID": 81695025,
+                "CostNet": 213.49,
+                "CostGross": "427.53",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM MULTIMEDIA ENCODING",
+                "ItemID": 14285012,
+                "CostNet": 135.13,
+                "CostGross": "312.53",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED COHESIVE GRAPHIC ",
+                "ItemID": 44099637,
+                "CostNet": 176.0,
+                "CostGross": "351.01",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "UNIVERSAL FOREGROUND MATRICES",
+                "ItemID": 55039669,
+                "CostNet": 219.24,
+                "CostGross": "400.8",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING TANGIBLE ENCRYPTION",
+                "ItemID": 26486928,
+                "CostNet": 35.32,
+                "CostGross": "368.47",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CENTRALIZED BACKGROUND FRAME",
+                "ItemID": 50251655,
+                "CostNet": 96.12,
+                "CostGross": "432.66",
+                "Discount": "8.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROFOUND LOCAL CUSTOMER LOYALTY",
+                "ItemID": 41832955,
+                "CostNet": 226.41,
+                "CostGross": "343.63",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "45.02",
+            "GrossAmount": "1322.28",
+            "NetAmount1": "1206.69"
+        }
+    }
+}

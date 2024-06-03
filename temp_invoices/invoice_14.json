@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "348879",
+            "ChassisNumber": "OALXCXTC555927076",
+            "CarModel": "Hyundai Sonata",
+            "NumberPlate": "HL4299",
+            "CompletionDate": "01.08.2022",
+            "OrderNumber": "82398",
+            "ImmatriculationDate": "13.04.2023",
+            "Mileage": "54273"
+        },
+        "items": [
+            {
+                "ItemName": "EXPANDED HIGH-LEVEL MODERATOR",
+                "ItemID": 66493611,
+                "CostNet": 165.18,
+                "CostGross": "571.03",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED DIDACTIC INSTRUCTION SET",
+                "ItemID": 53294329,
+                "CostNet": 190.85,
+                "CostGross": "497.13",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE MULTI-STATE SECURED LI",
+                "ItemID": 51674780,
+                "CostNet": 191.48,
+                "CostGross": "573.11",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED STABLE WORKFORCE",
+                "ItemID": 82931698,
+                "CostNet": 204.76,
+                "CostGross": "352.75",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING MULTI-STATE HUB",
+                "ItemID": 60527367,
+                "CostNet": 14.98,
+                "CostGross": "356.27",
+                "Discount": "3.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED EXPLICIT FLEXIBILITY",
+                "ItemID": 13041414,
+                "CostNet": 43.1,
+                "CostGross": "341.34",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "HORIZONTAL DYNAMIC DATA-WAREHOUSE",
+                "ItemID": 33205729,
+                "CostNet": 186.15,
+                "CostGross": "399.95",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CLONED VALUE-ADDED PARALLELISM",
+                "ItemID": 33915461,
+                "CostNet": 10.71,
+                "CostGross": "326.17",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "NETWORKED SYSTEMATIC WEBSITE",
+                "ItemID": 80127738,
+                "CostNet": 185.59,
+                "CostGross": "430.2",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM ASYNCHRONOUS SUPPORT",
+                "ItemID": 81542789,
+                "CostNet": 62.17,
+                "CostGross": "425.7",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ORGANIC NEEDS-BASED INTRANET",
+                "ItemID": 58925079,
+                "CostNet": 16.01,
+                "CostGross": "431.99",
+                "Discount": "3.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE NATIONAL COLLABORATION",
+                "ItemID": 91517167,
+                "CostNet": 88.41,
+                "CostGross": "446.08",
+                "Discount": "15.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ADAPTIVE SYSTEMIC PROTOCOL",
+                "ItemID": 27047691,
+                "CostNet": 91.12,
+                "CostGross": "316.31",
+                "Discount": "15.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "AUTOMATED HOLISTIC CONGLOMERATION",
+                "ItemID": 40766791,
+                "CostNet": 100.12,
+                "CostGross": "507.99",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ADAPTIVE ZERO ADMINISTRATION ENCRYP",
+                "ItemID": 40851265,
+                "CostNet": 292.71,
+                "CostGross": "350.53",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "15.47",
+            "GrossAmount": "1121.67",
+            "NetAmount1": "1032.43"
+        }
+    }
+}

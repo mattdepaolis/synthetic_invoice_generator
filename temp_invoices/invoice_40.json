@@ -1,0 +1,157 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "805874",
+            "ChassisNumber": "MDVQRVOJ751825195",
+            "CarModel": "Toyota Corolla",
+            "NumberPlate": "RN1687",
+            "CompletionDate": "26.01.2020",
+            "OrderNumber": "81892",
+            "ImmatriculationDate": "01.10.2020",
+            "Mileage": "53418"
+        },
+        "items": [
+            {
+                "ItemName": "RE-ENGINEERED 24HOUR FLEXIBILITY",
+                "ItemID": 88554184,
+                "CostNet": 237.71,
+                "CostGross": "337.12",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED NON-VOLATILE OPEN ",
+                "ItemID": 66195737,
+                "CostNet": 53.56,
+                "CostGross": "573.89",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED DEDICATED CONCEPT",
+                "ItemID": 14184965,
+                "CostNet": 72.2,
+                "CostGross": "582.16",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SHARABLE WELL-MODULATED OPEN ARCHIT",
+                "ItemID": 69499693,
+                "CostNet": 167.07,
+                "CostGross": "432.54",
+                "Discount": "5.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "OPERATIVE LEADINGEDGE HIERARCHY",
+                "ItemID": 83940386,
+                "CostNet": 11.99,
+                "CostGross": "361.89",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "INVERSE IMPACTFUL MORATORIUM",
+                "ItemID": 79495960,
+                "CostNet": 261.0,
+                "CostGross": "498.91",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "UPGRADABLE NEXT GENERATION SOFTWARE",
+                "ItemID": 58320271,
+                "CostNet": 296.41,
+                "CostGross": "441.38",
+                "Discount": "14.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SEAMLESS UNIFORM POLICY",
+                "ItemID": 16818477,
+                "CostNet": 109.46,
+                "CostGross": "512.24",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "IMPLEMENTED FRESH-THINKING ABILITY",
+                "ItemID": 93995679,
+                "CostNet": 113.15,
+                "CostGross": "567.64",
+                "Discount": "10.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "SECURED DISCRETE DATA-WAREHOUSE",
+                "ItemID": 45877056,
+                "CostNet": 231.88,
+                "CostGross": "471.36",
+                "Discount": "1.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DEVOLVED EXUDING CUSTOMER LOYALTY",
+                "ItemID": 21222797,
+                "CostNet": 135.04,
+                "CostGross": "331.38",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "REALIGNED MOTIVATING FUNCTION",
+                "ItemID": 90667149,
+                "CostNet": 183.35,
+                "CostGross": "495.46",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "NETWORKED TANGIBLE ALGORITHM",
+                "ItemID": 72173018,
+                "CostNet": 13.66,
+                "CostGross": "382.26",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DIGITIZED INCREMENTAL THROUGHPUT",
+                "ItemID": 29571790,
+                "CostNet": 125.68,
+                "CostGross": "369.65",
+                "Discount": "2.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MONITORED VALUE-ADDED APPLICATION",
+                "ItemID": 91782443,
+                "CostNet": 142.14,
+                "CostGross": "309.97",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED REGIONAL INFO-MEDIARIE",
+                "ItemID": 83073349,
+                "CostNet": 235.86,
+                "CostGross": "462.45",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MONITORED HUMAN-RESOURCE STANDARDIZ",
+                "ItemID": 50303493,
+                "CostNet": 211.48,
+                "CostGross": "492.61",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "28.03",
+            "GrossAmount": "1116.37",
+            "NetAmount1": "526.7"
+        }
+    }
+}

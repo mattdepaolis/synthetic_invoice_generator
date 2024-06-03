@@ -1,0 +1,77 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "319821",
+            "ChassisNumber": "EQVEWRCT441357581",
+            "CarModel": "Nissan Altima",
+            "NumberPlate": "SU2656",
+            "CompletionDate": "08.01.2021",
+            "OrderNumber": "40812",
+            "ImmatriculationDate": "26.11.2020",
+            "Mileage": "17478"
+        },
+        "items": [
+            {
+                "ItemName": "ORGANIC HYBRID SUCCESS",
+                "ItemID": 67724090,
+                "CostNet": 243.41,
+                "CostGross": "528.53",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SEAMLESS SYSTEM-WORTHY ARCHITECTURE",
+                "ItemID": 81288326,
+                "CostNet": 297.08,
+                "CostGross": "314.34",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE INTERMEDIATE WEBSITE",
+                "ItemID": 69784966,
+                "CostNet": 169.48,
+                "CostGross": "322.76",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE ASYNCHRONOUS FLEXIBILIT",
+                "ItemID": 15933582,
+                "CostNet": 212.45,
+                "CostGross": "546.12",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED SCALABLE ARRAY",
+                "ItemID": 13893945,
+                "CostNet": 215.35,
+                "CostGross": "425.54",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY SYSTEM-WORTHY APPLICA",
+                "ItemID": 29357473,
+                "CostNet": 128.09,
+                "CostGross": "380.51",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED ECO-CENTRIC NEURAL-NET",
+                "ItemID": 80203111,
+                "CostNet": 96.48,
+                "CostGross": "413.47",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "25.14",
+            "GrossAmount": "1037.37",
+            "NetAmount1": "926.33"
+        }
+    }
+}

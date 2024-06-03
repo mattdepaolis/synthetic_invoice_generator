@@ -1,0 +1,101 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "574347",
+            "ChassisNumber": "BUREKXRK011662784",
+            "CarModel": "Tesla Model S",
+            "NumberPlate": "NP1629",
+            "CompletionDate": "02.09.2020",
+            "OrderNumber": "98251",
+            "ImmatriculationDate": "26.03.2021",
+            "Mileage": "36313"
+        },
+        "items": [
+            {
+                "ItemName": "INVERSE EMPOWERING SYNERGY",
+                "ItemID": 24866131,
+                "CostNet": 177.51,
+                "CostGross": "520.68",
+                "Discount": "1.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "STREAMLINED LOGISTICAL PORTAL",
+                "ItemID": 19424487,
+                "CostNet": 44.64,
+                "CostGross": "517.02",
+                "Discount": "2.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "OPERATIVE SECONDARY FLEXIBILITY",
+                "ItemID": 65013241,
+                "CostNet": 193.08,
+                "CostGross": "388.87",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY 24/7 ALLIANCE",
+                "ItemID": 90713251,
+                "CostNet": 43.65,
+                "CostGross": "395.23",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SECURED HYBRID CORE",
+                "ItemID": 34831286,
+                "CostNet": 247.5,
+                "CostGross": "520.7",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE LOCAL MONITORING",
+                "ItemID": 53301493,
+                "CostNet": 124.32,
+                "CostGross": "488.54",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING ANALYZING UTILIZATION",
+                "ItemID": 64477004,
+                "CostNet": 237.06,
+                "CostGross": "597.72",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DEVOLVED FRESH-THINKING STANDARDIZA",
+                "ItemID": 11469245,
+                "CostNet": 131.48,
+                "CostGross": "304.52",
+                "Discount": "15.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DIGITIZED GRID-ENABLED HIERARCHY",
+                "ItemID": 47097479,
+                "CostNet": 200.55,
+                "CostGross": "324.66",
+                "Discount": "1.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE SECONDARY ARCHIVE",
+                "ItemID": 58066808,
+                "CostNet": 242.43,
+                "CostGross": "548.72",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "35.02",
+            "GrossAmount": "1452.17",
+            "NetAmount1": "506.19"
+        }
+    }
+}

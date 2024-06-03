@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "694525",
+            "ChassisNumber": "YYMZJYHQ298333611",
+            "CarModel": "Toyota Camry",
+            "NumberPlate": "DZ2913",
+            "CompletionDate": "18.04.2021",
+            "OrderNumber": "92210",
+            "ImmatriculationDate": "06.07.2022",
+            "Mileage": "53927"
+        },
+        "items": [
+            {
+                "ItemName": "UPGRADABLE EMPOWERING APPROACH",
+                "ItemID": 54672857,
+                "CostNet": 113.05,
+                "CostGross": "365.24",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED LEADINGEDGE SUCCE",
+                "ItemID": 71583939,
+                "CostNet": 193.69,
+                "CostGross": "558.42",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CENTRALIZED ZERO TOLERANCE HIERARCH",
+                "ItemID": 53600577,
+                "CostNet": 151.7,
+                "CostGross": "501.43",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "REACTIVE DIRECTIONAL STRUCTURE",
+                "ItemID": 35795270,
+                "CostNet": 115.94,
+                "CostGross": "499.7",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE GLOBAL GROUPWARE",
+                "ItemID": 76250008,
+                "CostNet": 77.19,
+                "CostGross": "398.42",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "VERSATILE BANDWIDTH-MONITORED CUSTO",
+                "ItemID": 88988937,
+                "CostNet": 228.24,
+                "CostGross": "419.58",
+                "Discount": "2.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "PHASED COMPOSITE ENCODING",
+                "ItemID": 51368914,
+                "CostNet": 20.3,
+                "CostGross": "408.39",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "AUTOMATED EXECUTIVE IMPLEMENTATION",
+                "ItemID": 89547828,
+                "CostNet": 122.9,
+                "CostGross": "435.9",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY ATTITUDE-ORIENTED BENCHM",
+                "ItemID": 65805140,
+                "CostNet": 276.57,
+                "CostGross": "429.23",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED UNIFORM BUDGETARY MANAGE",
+                "ItemID": 27495918,
+                "CostNet": 145.79,
+                "CostGross": "499.09",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ENHANCED 3RDGENERATION COMPLEXITY",
+                "ItemID": 27838012,
+                "CostNet": 196.06,
+                "CostGross": "553.91",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "INTUITIVE NEXT GENERATION UTILIZATI",
+                "ItemID": 10260794,
+                "CostNet": 287.7,
+                "CostGross": "319.1",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ADVANCED BIFURCATED PROJECT",
+                "ItemID": 97469757,
+                "CostNet": 66.23,
+                "CostGross": "545.48",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE ATTITUDE-ORIENTED TIME-",
+                "ItemID": 53383145,
+                "CostNet": 30.08,
+                "CostGross": "577.08",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CLONED SYSTEMIC ARCHIVE",
+                "ItemID": 35467056,
+                "CostNet": 215.59,
+                "CostGross": "470.54",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "31.38",
+            "GrossAmount": "1025.34",
+            "NetAmount1": "858.44"
+        }
+    }
+}

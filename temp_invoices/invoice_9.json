@@ -1,0 +1,173 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "196470",
+            "ChassisNumber": "QPPIDXHR773003856",
+            "CarModel": "BMW M5",
+            "NumberPlate": "LI6085",
+            "CompletionDate": "18.01.2020",
+            "OrderNumber": "55708",
+            "ImmatriculationDate": "16.07.2020",
+            "Mileage": "88667"
+        },
+        "items": [
+            {
+                "ItemName": "VISION-ORIENTED INTERMEDIATE ANALYZ",
+                "ItemID": 84151285,
+                "CostNet": 280.29,
+                "CostGross": "356.57",
+                "Discount": "7.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "STREAMLINED 3RDGENERATION SERVICE-D",
+                "ItemID": 52709249,
+                "CostNet": 236.85,
+                "CostGross": "362.09",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE VALUE-ADDED SYNERGY",
+                "ItemID": 49642727,
+                "CostNet": 258.67,
+                "CostGross": "329.7",
+                "Discount": "13.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL RESPONSIVE ARTIFICIAL I",
+                "ItemID": 69316719,
+                "CostNet": 58.71,
+                "CostGross": "594.95",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED HYBRID ORCHESTRATIO",
+                "ItemID": 78252397,
+                "CostNet": 84.26,
+                "CostGross": "357.46",
+                "Discount": "2.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED IMPACTFUL ENCODING",
+                "ItemID": 74977455,
+                "CostNet": 22.38,
+                "CostGross": "521.83",
+                "Discount": "12.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SWITCHABLE REAL-TIME WORKFORCE",
+                "ItemID": 83194620,
+                "CostNet": 179.71,
+                "CostGross": "576.49",
+                "Discount": "7.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED RECIPROCAL HELP-DESK",
+                "ItemID": 65892220,
+                "CostNet": 132.3,
+                "CostGross": "482.12",
+                "Discount": "14.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED COHESIVE DATABASE",
+                "ItemID": 42402400,
+                "CostNet": 169.13,
+                "CostGross": "500.38",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED INTERACTIVE STRATEGY",
+                "ItemID": 53408704,
+                "CostNet": 25.67,
+                "CostGross": "458.7",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED WEB-ENABLED PRODUCT",
+                "ItemID": 21804711,
+                "CostNet": 112.83,
+                "CostGross": "375.59",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED DEMAND-DRIVEN PRODU",
+                "ItemID": 15408117,
+                "CostNet": 16.15,
+                "CostGross": "590.43",
+                "Discount": "1.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CENTRALIZED METHODICAL MODEL",
+                "ItemID": 32128819,
+                "CostNet": 152.95,
+                "CostGross": "343.66",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DIVERSE ATTITUDE-ORIENTED INTERFACE",
+                "ItemID": 50579574,
+                "CostNet": 12.38,
+                "CostGross": "395.33",
+                "Discount": "12.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS INTERACTIVE PROJECTION",
+                "ItemID": 27560541,
+                "CostNet": 246.84,
+                "CostGross": "435.74",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPTIMIZED ASYNCHRONOUS ABILITY",
+                "ItemID": 23186885,
+                "CostNet": 30.2,
+                "CostGross": "312.12",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "VERSATILE MODULAR DATA-WAREHOUSE",
+                "ItemID": 44909119,
+                "CostNet": 144.15,
+                "CostGross": "575.9",
+                "Discount": "9.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL TERTIARY GRAPHIC INTE",
+                "ItemID": 92228355,
+                "CostNet": 237.5,
+                "CostGross": "434.82",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM TANGIBLE ORCHESTRATI",
+                "ItemID": 12802697,
+                "CostNet": 58.98,
+                "CostGross": "334.42",
+                "Discount": "3.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "41.43",
+            "GrossAmount": "1723.97",
+            "NetAmount1": "1265.74"
+        }
+    }
+}

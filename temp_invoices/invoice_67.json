@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "321378",
+            "ChassisNumber": "MHMVDLTI498611319",
+            "CarModel": "Nissan Maxima",
+            "NumberPlate": "NJ0655",
+            "CompletionDate": "02.06.2020",
+            "OrderNumber": "13675",
+            "ImmatriculationDate": "03.12.2022",
+            "Mileage": "6840"
+        },
+        "items": [
+            {
+                "ItemName": "EXPANDED COHESIVE TIME-FRAME",
+                "ItemID": 49809587,
+                "CostNet": 298.81,
+                "CostGross": "474.09",
+                "Discount": "8.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED IMPACTFUL KNOWLEDGE US",
+                "ItemID": 12909099,
+                "CostNet": 22.87,
+                "CostGross": "512.42",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED DISCRETE WORKFORCE",
+                "ItemID": 45330378,
+                "CostNet": 201.01,
+                "CostGross": "344.03",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE FAULT-TOLERANT GRAPHIC ",
+                "ItemID": 66562082,
+                "CostNet": 118.55,
+                "CostGross": "349.97",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "AUTOMATED SYSTEMATIC BUDGETARY MANA",
+                "ItemID": 60036844,
+                "CostNet": 293.79,
+                "CostGross": "357.73",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DEVOLVED MODULAR CONTINGENCY",
+                "ItemID": 87622389,
+                "CostNet": 227.98,
+                "CostGross": "585.2",
+                "Discount": "8.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "ERGONOMIC OBJECT-ORIENTED APPLICATI",
+                "ItemID": 23689261,
+                "CostNet": 237.08,
+                "CostGross": "490.75",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "UP-SIZED COHESIVE CHALLENGE",
+                "ItemID": 85850929,
+                "CostNet": 120.99,
+                "CostGross": "465.42",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "INNOVATIVE USER-FACING MIDDLEWARE",
+                "ItemID": 57453609,
+                "CostNet": 139.21,
+                "CostGross": "461.13",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED DYNAMIC TASK-FORCE",
+                "ItemID": 61991824,
+                "CostNet": 72.84,
+                "CostGross": "319.3",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "VERSATILE FRESH-THINKING PRICING ST",
+                "ItemID": 89225546,
+                "CostNet": 138.1,
+                "CostGross": "474.43",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROACTIVE HUMAN-RESOURCE PROCESS IM",
+                "ItemID": 30373627,
+                "CostNet": 145.52,
+                "CostGross": "428.95",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INTUITIVE OPTIMAL CONTINGENCY",
+                "ItemID": 38502206,
+                "CostNet": 180.76,
+                "CostGross": "463.14",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ASSIMILATED BI-DIRECTIONAL CAPACITY",
+                "ItemID": 18677887,
+                "CostNet": 73.26,
+                "CostGross": "480.02",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED MULTI-STATE CAPABI",
+                "ItemID": 63967811,
+                "CostNet": 95.67,
+                "CostGross": "425.13",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "20.13",
+            "GrossAmount": "587.42",
+            "NetAmount1": "442.43"
+        }
+    }
+}

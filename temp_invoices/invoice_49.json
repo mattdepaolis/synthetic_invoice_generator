@@ -1,0 +1,69 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "113392",
+            "ChassisNumber": "XPCCRDTM742463501",
+            "CarModel": "Volkswagen Golf",
+            "NumberPlate": "VX9779",
+            "CompletionDate": "10.03.2020",
+            "OrderNumber": "74761",
+            "ImmatriculationDate": "06.05.2022",
+            "Mileage": "83250"
+        },
+        "items": [
+            {
+                "ItemName": "ENHANCED DISINTERMEDIATE UTILIZATIO",
+                "ItemID": 69267989,
+                "CostNet": 93.96,
+                "CostGross": "313.08",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED METHODICAL INITIATI",
+                "ItemID": 90231650,
+                "CostNet": 235.35,
+                "CostGross": "361.54",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED BACKGROUND ATTITUDE",
+                "ItemID": 17331541,
+                "CostNet": 274.38,
+                "CostGross": "329.73",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED TRANSITIONAL GROUPWARE",
+                "ItemID": 45924198,
+                "CostNet": 69.39,
+                "CostGross": "455.8",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED 6THGENERATION COLLA",
+                "ItemID": 93052321,
+                "CostNet": 286.99,
+                "CostGross": "547.62",
+                "Discount": "15.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE MISSION-CRITICAL DATABA",
+                "ItemID": 22074116,
+                "CostNet": 275.64,
+                "CostGross": "352.82",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "28.37",
+            "GrossAmount": "1120.25",
+            "NetAmount1": "1145.81"
+        }
+    }
+}

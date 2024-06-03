@@ -1,0 +1,77 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "379899",
+            "ChassisNumber": "RSLIIMLJ682298962",
+            "CarModel": "Subaru Impreza",
+            "NumberPlate": "ZA2583",
+            "CompletionDate": "29.07.2020",
+            "OrderNumber": "49899",
+            "ImmatriculationDate": "30.05.2022",
+            "Mileage": "98691"
+        },
+        "items": [
+            {
+                "ItemName": "PERSISTENT RESPONSIVE INTRANET",
+                "ItemID": 33017627,
+                "CostNet": 197.21,
+                "CostGross": "369.86",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "STREAMLINED DISCRETE ARCHITECTURE",
+                "ItemID": 36833934,
+                "CostNet": 82.85,
+                "CostGross": "599.52",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "UP-SIZED LOCAL SUPPORT",
+                "ItemID": 76682211,
+                "CostNet": 26.42,
+                "CostGross": "573.33",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED NEEDS-BASED CIRCUIT",
+                "ItemID": 69857884,
+                "CostNet": 56.86,
+                "CostGross": "316.94",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "INNOVATIVE COHESIVE SOFTWARE",
+                "ItemID": 94268051,
+                "CostNet": 57.16,
+                "CostGross": "338.43",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED NATIONAL ALLIANCE",
+                "ItemID": 73633822,
+                "CostNet": 55.8,
+                "CostGross": "511.13",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED BOTTOM-LINE PROJEC",
+                "ItemID": 31344600,
+                "CostNet": 243.29,
+                "CostGross": "429.87",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "16.5",
+            "GrossAmount": "1360.65",
+            "NetAmount1": "1347.57"
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "957242",
+            "ChassisNumber": "JKTZNYSB945148680",
+            "CarModel": "Audi A4",
+            "NumberPlate": "AP3953",
+            "CompletionDate": "20.09.2023",
+            "OrderNumber": "73606",
+            "ImmatriculationDate": "19.05.2023",
+            "Mileage": "75509"
+        },
+        "items": [
+            {
+                "ItemName": "USER-CENTRIC ZERO-DEFECT SYNERGY",
+                "ItemID": 73091208,
+                "CostNet": 252.85,
+                "CostGross": "485.14",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED SOLUTION-ORIENTED FLE",
+                "ItemID": 71510210,
+                "CostNet": 191.1,
+                "CostGross": "483.37",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED WEB-ENABLED PROJECT",
+                "ItemID": 93813162,
+                "CostNet": 129.69,
+                "CostGross": "496.85",
+                "Discount": "3.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-LAYERED EXECUTIVE WORKFORCE",
+                "ItemID": 98354585,
+                "CostNet": 123.74,
+                "CostGross": "442.78",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ORGANIZED INTERMEDIATE STANDARDIZAT",
+                "ItemID": 80832664,
+                "CostNet": 28.69,
+                "CostGross": "333.06",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "INNOVATIVE BACKGROUND STANDARDIZATI",
+                "ItemID": 69054452,
+                "CostNet": 22.09,
+                "CostGross": "521.88",
+                "Discount": "1.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ERGONOMIC NON-VOLATILE PROJECTION",
+                "ItemID": 79910189,
+                "CostNet": 14.62,
+                "CostGross": "369.22",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "INTEGRATED CONTEXT-SENSITIVE INTRAN",
+                "ItemID": 69962692,
+                "CostNet": 90.07,
+                "CostGross": "445.89",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ASSIMILATED COHERENT NEURAL-NET",
+                "ItemID": 87905766,
+                "CostNet": 199.25,
+                "CostGross": "512.31",
+                "Discount": "9.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED ATTITUDE-ORIENTED S",
+                "ItemID": 61256761,
+                "CostNet": 97.9,
+                "CostGross": "364.03",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED CLIENT-DRIVEN PRO",
+                "ItemID": 92574105,
+                "CostNet": 94.72,
+                "CostGross": "533.39",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED CONTENT-BASED SYNER",
+                "ItemID": 45833023,
+                "CostNet": 284.9,
+                "CostGross": "355.62",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE SYSTEMIC APPROACH",
+                "ItemID": 98955259,
+                "CostNet": 113.42,
+                "CostGross": "300.25",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "35.42",
+            "GrossAmount": "776.76",
+            "NetAmount1": "507.02"
+        }
+    }
+}

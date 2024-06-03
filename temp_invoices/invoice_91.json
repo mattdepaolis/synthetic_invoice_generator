@@ -1,0 +1,53 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "846347",
+            "ChassisNumber": "RXGTCAZI337063252",
+            "CarModel": "Dodge Charger",
+            "NumberPlate": "VX3317",
+            "CompletionDate": "22.04.2022",
+            "OrderNumber": "43568",
+            "ImmatriculationDate": "18.02.2023",
+            "Mileage": "99776"
+        },
+        "items": [
+            {
+                "ItemName": "PROFOUND CONTENT-BASED SOLUTION",
+                "ItemID": 60076962,
+                "CostNet": 126.42,
+                "CostGross": "553.48",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROFOUND LOGISTICAL CORE",
+                "ItemID": 34653789,
+                "CostNet": 291.71,
+                "CostGross": "339.15",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROFOUND METHODICAL ARRAY",
+                "ItemID": 14703139,
+                "CostNet": 199.03,
+                "CostGross": "317.35",
+                "Discount": "12.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED OPTIMIZING ENCODING",
+                "ItemID": 60365501,
+                "CostNet": 92.35,
+                "CostGross": "302.76",
+                "Discount": "14.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "13.12",
+            "GrossAmount": "855.8",
+            "NetAmount1": "883.56"
+        }
+    }
+}

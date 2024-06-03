@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "426361",
+            "ChassisNumber": "TZGUINDN477985947",
+            "CarModel": "Chevrolet Corvette",
+            "NumberPlate": "GJ0857",
+            "CompletionDate": "17.08.2021",
+            "OrderNumber": "73060",
+            "ImmatriculationDate": "01.02.2022",
+            "Mileage": "66572"
+        },
+        "items": [
+            {
+                "ItemName": "DECENTRALIZED DEMAND-DRIVEN FOCUS G",
+                "ItemID": 96917037,
+                "CostNet": 93.85,
+                "CostGross": "459.0",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED ANALYZING ALGORITHM",
+                "ItemID": 76891756,
+                "CostNet": 182.88,
+                "CostGross": "565.34",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE REAL-TIME FLEXIBILITY",
+                "ItemID": 21538726,
+                "CostNet": 288.57,
+                "CostGross": "433.4",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP NEXT GENERATION IMPLEME",
+                "ItemID": 87144657,
+                "CostNet": 30.55,
+                "CostGross": "514.99",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ADVANCED EXPLICIT HARDWARE",
+                "ItemID": 64415164,
+                "CostNet": 258.74,
+                "CostGross": "427.73",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC 3RDGENERATION KNOWLEDG",
+                "ItemID": 90720620,
+                "CostNet": 135.13,
+                "CostGross": "330.89",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED MULTI-STATE PRODUCTIV",
+                "ItemID": 77184613,
+                "CostNet": 189.24,
+                "CostGross": "397.88",
+                "Discount": "15.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FRONT-LINE MULTIMEDIA TASK-FORCE",
+                "ItemID": 22605316,
+                "CostNet": 86.13,
+                "CostGross": "364.32",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VERSATILE BOTTOM-LINE STRUCTURE",
+                "ItemID": 24629524,
+                "CostNet": 224.22,
+                "CostGross": "516.93",
+                "Discount": "14.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE MULTI-STATE MIDDLEWARE",
+                "ItemID": 64690128,
+                "CostNet": 163.7,
+                "CostGross": "538.07",
+                "Discount": "2.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ASSIMILATED DYNAMIC FUNCTIONALITIES",
+                "ItemID": 62068431,
+                "CostNet": 55.29,
+                "CostGross": "444.89",
+                "Discount": "15.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "EXPANDED 6THGENERATION PROJECT",
+                "ItemID": 82649947,
+                "CostNet": 209.17,
+                "CostGross": "458.31",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "43.05",
+            "GrossAmount": "1819.36",
+            "NetAmount1": "1434.5"
+        }
+    }
+}

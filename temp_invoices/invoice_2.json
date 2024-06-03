@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "712837",
+            "ChassisNumber": "SJOLQUZK919169031",
+            "CarModel": "BMW M5",
+            "NumberPlate": "AJ4976",
+            "CompletionDate": "07.03.2021",
+            "OrderNumber": "74546",
+            "ImmatriculationDate": "20.10.2021",
+            "Mileage": "34497"
+        },
+        "items": [
+            {
+                "ItemName": "MANAGED GRID-ENABLED FLEXIBILITY",
+                "ItemID": 41642558,
+                "CostNet": 146.87,
+                "CostGross": "565.35",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MONITORED BANDWIDTH-MONITORED POLIC",
+                "ItemID": 71403649,
+                "CostNet": 119.74,
+                "CostGross": "363.01",
+                "Discount": "14.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE DISINTERMEDIATE HARDWAR",
+                "ItemID": 33175088,
+                "CostNet": 114.54,
+                "CostGross": "536.25",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE DYNAMIC FIRMWARE",
+                "ItemID": 60252759,
+                "CostNet": 156.22,
+                "CostGross": "518.37",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SYNCHRONIZED BANDWIDTH-MONITORED GR",
+                "ItemID": 83372953,
+                "CostNet": 85.32,
+                "CostGross": "363.75",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PROFOUND MODULAR PRODUCT",
+                "ItemID": 95318907,
+                "CostNet": 141.98,
+                "CostGross": "394.49",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PERSISTENT EXECUTIVE PORTAL",
+                "ItemID": 73848067,
+                "CostNet": 137.19,
+                "CostGross": "415.86",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DEVOLVED LEADINGEDGE OPEN ARCHITECT",
+                "ItemID": 61015423,
+                "CostNet": 207.37,
+                "CostGross": "433.18",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROFOUND USER-FACING INTRANET",
+                "ItemID": 90021539,
+                "CostNet": 109.4,
+                "CostGross": "560.99",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY 24/7 PROJECTION",
+                "ItemID": 86876871,
+                "CostNet": 174.58,
+                "CostGross": "574.2",
+                "Discount": "9.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "MANDATORY NEXT GENERATION MORATORIU",
+                "ItemID": 50803263,
+                "CostNet": 52.74,
+                "CostGross": "536.88",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "IMPLEMENTED UNIFORM PRODUCTIVITY",
+                "ItemID": 22870017,
+                "CostNet": 68.05,
+                "CostGross": "536.09",
+                "Discount": "9.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY STATIC SERVICE-DESK",
+                "ItemID": 97848068,
+                "CostNet": 216.94,
+                "CostGross": "521.66",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "UNIVERSAL 5THGENERATION OPEN ARCHIT",
+                "ItemID": 64150091,
+                "CostNet": 119.25,
+                "CostGross": "422.98",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED EXUDING MODEL",
+                "ItemID": 77695279,
+                "CostNet": 173.48,
+                "CostGross": "418.6",
+                "Discount": "2.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "38.06",
+            "GrossAmount": "1497.9",
+            "NetAmount1": "1248.88"
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "261966",
+            "ChassisNumber": "YEFERYPY981610114",
+            "CarModel": "Hyundai Sonata",
+            "NumberPlate": "FX4983",
+            "CompletionDate": "15.06.2022",
+            "OrderNumber": "95574",
+            "ImmatriculationDate": "04.11.2020",
+            "Mileage": "66233"
+        },
+        "items": [
+            {
+                "ItemName": "MANAGED EXUDING SUPPORT",
+                "ItemID": 53254927,
+                "CostNet": 93.41,
+                "CostGross": "484.19",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE VALUE-ADDED FLEXIBILIT",
+                "ItemID": 40355336,
+                "CostNet": 192.0,
+                "CostGross": "342.34",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ADAPTIVE 6THGENERATION CAPABILITY",
+                "ItemID": 12913067,
+                "CostNet": 103.67,
+                "CostGross": "418.85",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC TANGIBLE MIDDLEWARE",
+                "ItemID": 22743511,
+                "CostNet": 236.73,
+                "CostGross": "416.39",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC ATTITUDE-ORIENTED CHALL",
+                "ItemID": 86100032,
+                "CostNet": 200.72,
+                "CostGross": "541.88",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "REALIGNED MODULAR SYSTEM ENGINE",
+                "ItemID": 84099803,
+                "CostNet": 29.0,
+                "CostGross": "321.02",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE CLIENT-DRIVEN WORKFORC",
+                "ItemID": 21672890,
+                "CostNet": 154.02,
+                "CostGross": "412.77",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PHASED MOBILE PRODUCT",
+                "ItemID": 79069520,
+                "CostNet": 298.97,
+                "CostGross": "599.35",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED VALUE-ADDED DATABASE",
+                "ItemID": 59592720,
+                "CostNet": 290.87,
+                "CostGross": "439.1",
+                "Discount": "12.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE NEEDS-BASED APPLICATIO",
+                "ItemID": 99878194,
+                "CostNet": 109.37,
+                "CostGross": "446.07",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ENTERPRISE-WIDE ANALYZING INFRASTRU",
+                "ItemID": 65754626,
+                "CostNet": 96.97,
+                "CostGross": "409.74",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "SECURED BANDWIDTH-MONITORED ENCRYPT",
+                "ItemID": 97576330,
+                "CostNet": 57.41,
+                "CostGross": "535.89",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED 24HOUR PRICING STRU",
+                "ItemID": 30890827,
+                "CostNet": 252.0,
+                "CostGross": "324.78",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED INTERMEDIATE SERVICE-D",
+                "ItemID": 30755529,
+                "CostNet": 33.47,
+                "CostGross": "473.12",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "32.65",
+            "GrossAmount": "830.05",
+            "NetAmount1": "685.55"
+        }
+    }
+}

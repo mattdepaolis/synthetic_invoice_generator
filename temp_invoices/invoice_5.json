@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "305852",
+            "ChassisNumber": "FHGOCXCD993011414",
+            "CarModel": "Volkswagen Passat",
+            "NumberPlate": "FV4438",
+            "CompletionDate": "14.09.2021",
+            "OrderNumber": "98301",
+            "ImmatriculationDate": "07.09.2023",
+            "Mileage": "43575"
+        },
+        "items": [
+            {
+                "ItemName": "PROFIT-FOCUSED WELL-MODULATED FRAME",
+                "ItemID": 21930317,
+                "CostNet": 191.4,
+                "CostGross": "388.39",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED LOGISTICAL FORECAST",
+                "ItemID": 20135451,
+                "CostNet": 223.88,
+                "CostGross": "400.35",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "REALIGNED COHERENT PARADIGM",
+                "ItemID": 66251273,
+                "CostNet": 184.85,
+                "CostGross": "513.55",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED EVEN-KEELED PROJECT",
+                "ItemID": 38418774,
+                "CostNet": 11.16,
+                "CostGross": "562.25",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "MONITORED MOTIVATING ANALYZER",
+                "ItemID": 15954725,
+                "CostNet": 157.0,
+                "CostGross": "525.78",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROFOUND EXECUTIVE FRAMEWORK",
+                "ItemID": 14404890,
+                "CostNet": 26.36,
+                "CostGross": "301.6",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED BACKGROUND STANDAR",
+                "ItemID": 72569303,
+                "CostNet": 120.23,
+                "CostGross": "419.95",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED HYBRID MATRICES",
+                "ItemID": 58568593,
+                "CostNet": 183.81,
+                "CostGross": "308.56",
+                "Discount": "14.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "PROACTIVE TANGIBLE WEBSITE",
+                "ItemID": 99629642,
+                "CostNet": 33.85,
+                "CostGross": "474.8",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC FRESH-THINKING CONCEPT",
+                "ItemID": 56509468,
+                "CostNet": 12.07,
+                "CostGross": "396.01",
+                "Discount": "6.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "IMPLEMENTED MOBILE CONTINGENCY",
+                "ItemID": 60616444,
+                "CostNet": 220.87,
+                "CostGross": "305.02",
+                "Discount": "7.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "DEVOLVED INTERACTIVE NEURAL-NET",
+                "ItemID": 87164320,
+                "CostNet": 33.51,
+                "CostGross": "541.38",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "26.29",
+            "GrossAmount": "1581.39",
+            "NetAmount1": "1393.72"
+        }
+    }
+}

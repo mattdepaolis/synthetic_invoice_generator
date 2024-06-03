@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "834284",
+            "ChassisNumber": "APZQGZZM851393400",
+            "CarModel": "Tesla Model Y",
+            "NumberPlate": "GG5635",
+            "CompletionDate": "08.04.2022",
+            "OrderNumber": "91827",
+            "ImmatriculationDate": "22.07.2022",
+            "Mileage": "69051"
+        },
+        "items": [
+            {
+                "ItemName": "GRASS-ROOTS HEURISTIC ENCODING",
+                "ItemID": 40062867,
+                "CostNet": 45.59,
+                "CostGross": "586.56",
+                "Discount": "1.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED DISINTERMEDIATE ACCESS",
+                "ItemID": 20773867,
+                "CostNet": 299.82,
+                "CostGross": "380.29",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED STATIC GRAPHICAL USER",
+                "ItemID": 70779538,
+                "CostNet": 149.11,
+                "CostGross": "442.96",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE BANDWIDTH-MONITORED PO",
+                "ItemID": 53490429,
+                "CostNet": 64.75,
+                "CostGross": "381.22",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UPGRADABLE EXECUTIVE CONTINGENCY",
+                "ItemID": 94482858,
+                "CostNet": 237.14,
+                "CostGross": "555.39",
+                "Discount": "4.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED TRANSITIONAL FRAME",
+                "ItemID": 65231913,
+                "CostNet": 44.16,
+                "CostGross": "575.9",
+                "Discount": "9.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE NON-VOLATILE MATRICES",
+                "ItemID": 92040821,
+                "CostNet": 121.43,
+                "CostGross": "492.14",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROACTIVE WELL-MODULATED SUPPORT",
+                "ItemID": 87840075,
+                "CostNet": 194.5,
+                "CostGross": "377.65",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "10.84",
+            "GrossAmount": "1048.47",
+            "NetAmount1": "808.65"
+        }
+    }
+}

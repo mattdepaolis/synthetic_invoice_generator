@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "407569",
+            "ChassisNumber": "VWNAHSCO790250638",
+            "CarModel": "Tesla Model S",
+            "NumberPlate": "YL2718",
+            "CompletionDate": "06.01.2023",
+            "OrderNumber": "54585",
+            "ImmatriculationDate": "31.01.2020",
+            "Mileage": "11773"
+        },
+        "items": [
+            {
+                "ItemName": "DEVOLVED TRANSITIONAL LEVERAGE",
+                "ItemID": 19219873,
+                "CostNet": 94.53,
+                "CostGross": "331.6",
+                "Discount": "1.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "VERSATILE TRANSITIONAL ARRAY",
+                "ItemID": 69767431,
+                "CostNet": 171.37,
+                "CostGross": "403.75",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP ANALYZING PRODUCTIVITY",
+                "ItemID": 91276372,
+                "CostNet": 118.86,
+                "CostGross": "476.59",
+                "Discount": "1.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "STREAMLINED CONTENT-BASED HUB",
+                "ItemID": 48056764,
+                "CostNet": 77.63,
+                "CostGross": "525.74",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SYNERGIZED WELL-MODULATED SYSTEM EN",
+                "ItemID": 76114326,
+                "CostNet": 22.46,
+                "CostGross": "399.43",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC REAL-TIME PROJECT",
+                "ItemID": 35572349,
+                "CostNet": 277.48,
+                "CostGross": "440.8",
+                "Discount": "14.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "VISIONARY 24HOUR BENCHMARK",
+                "ItemID": 17762857,
+                "CostNet": 25.23,
+                "CostGross": "332.09",
+                "Discount": "9.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE 4THGENERATION LOCAL ARE",
+                "ItemID": 16762196,
+                "CostNet": 241.46,
+                "CostGross": "348.33",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "SECURED MISSION-CRITICAL ALGORITHM",
+                "ItemID": 12443188,
+                "CostNet": 95.76,
+                "CostGross": "525.24",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "UPGRADABLE CLIENT-SERVER LEVERAGE",
+                "ItemID": 45481103,
+                "CostNet": 225.64,
+                "CostGross": "459.28",
+                "Discount": "13.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED NEUTRAL WEBSITE",
+                "ItemID": 83508438,
+                "CostNet": 46.35,
+                "CostGross": "353.9",
+                "Discount": "14.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "ADAPTIVE 24HOUR MIGRATION",
+                "ItemID": 13374981,
+                "CostNet": 78.57,
+                "CostGross": "404.92",
+                "Discount": "6.00%",
+                "Amount": "10.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "21.61",
+            "GrossAmount": "1749.23",
+            "NetAmount1": "956.47"
+        }
+    }
+}

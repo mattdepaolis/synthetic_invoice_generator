@@ -1,0 +1,93 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "307259",
+            "ChassisNumber": "IEMRBCHL095357712",
+            "CarModel": "Bentley Continental",
+            "NumberPlate": "TJ8599",
+            "CompletionDate": "11.03.2023",
+            "OrderNumber": "23348",
+            "ImmatriculationDate": "09.07.2023",
+            "Mileage": "28417"
+        },
+        "items": [
+            {
+                "ItemName": "REDUCED INTERMEDIATE HIERARCHY",
+                "ItemID": 22597485,
+                "CostNet": 199.22,
+                "CostGross": "411.97",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE ACTUATING FRAME",
+                "ItemID": 65630392,
+                "CostNet": 87.9,
+                "CostGross": "411.93",
+                "Discount": "1.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "POLARIZED WEB-ENABLED PARALLELISM",
+                "ItemID": 93627194,
+                "CostNet": 260.14,
+                "CostGross": "432.49",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "OPTIMIZED DISCRETE CHALLENGE",
+                "ItemID": 47649999,
+                "CostNet": 268.95,
+                "CostGross": "301.76",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FOCUSED DIRECTIONAL SYSTEM ENGINE",
+                "ItemID": 97498155,
+                "CostNet": 196.23,
+                "CostGross": "442.69",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "STREAMLINED ZERO-DEFECT COLLABORATI",
+                "ItemID": 72954220,
+                "CostNet": 39.96,
+                "CostGross": "408.86",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED DISCRETE INTERFACE",
+                "ItemID": 56029126,
+                "CostNet": 164.12,
+                "CostGross": "303.14",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED UPWARD-TRENDING STR",
+                "ItemID": 47327130,
+                "CostNet": 88.73,
+                "CostGross": "467.15",
+                "Discount": "15.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE FULL-RANGE ARRAY",
+                "ItemID": 42523396,
+                "CostNet": 264.73,
+                "CostGross": "578.54",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "42.04",
+            "GrossAmount": "1882.54",
+            "NetAmount1": "1157.41"
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "488852",
+            "ChassisNumber": "GLWJBEGG435263915",
+            "CarModel": "Dodge Charger",
+            "NumberPlate": "VR1370",
+            "CompletionDate": "08.03.2021",
+            "OrderNumber": "45807",
+            "ImmatriculationDate": "03.08.2022",
+            "Mileage": "88704"
+        },
+        "items": [
+            {
+                "ItemName": "DE-ENGINEERED DIRECTIONAL BUDGETARY",
+                "ItemID": 52202070,
+                "CostNet": 257.83,
+                "CostGross": "598.26",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROACTIVE DYNAMIC INSTRUCTION SET",
+                "ItemID": 26789581,
+                "CostNet": 96.97,
+                "CostGross": "384.51",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FOCUSED BACKGROUND FOCUS GROUP",
+                "ItemID": 69797756,
+                "CostNet": 54.73,
+                "CostGross": "593.51",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "VIRTUAL TERTIARY FUNCTIONALITIES",
+                "ItemID": 96339330,
+                "CostNet": 78.62,
+                "CostGross": "521.24",
+                "Discount": "5.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "UPGRADABLE GLOBAL APPLICATION",
+                "ItemID": 39464463,
+                "CostNet": 39.67,
+                "CostGross": "388.76",
+                "Discount": "5.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INTUITIVE COMPOSITE STANDARDIZATION",
+                "ItemID": 72329956,
+                "CostNet": 99.2,
+                "CostGross": "367.03",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED DISINTERMEDIATE AL",
+                "ItemID": 77087599,
+                "CostNet": 155.39,
+                "CostGross": "356.57",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CENTRALIZED MODULAR WORKFORCE",
+                "ItemID": 20843842,
+                "CostNet": 266.3,
+                "CostGross": "433.54",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "EXTENDED LOCAL TOOLSET",
+                "ItemID": 55497091,
+                "CostNet": 143.13,
+                "CostGross": "415.9",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PHASED INTANGIBLE SECURED LINE",
+                "ItemID": 67186168,
+                "CostNet": 54.6,
+                "CostGross": "324.55",
+                "Discount": "7.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE CLIENT-DRIVEN ARCHIVE",
+                "ItemID": 74035191,
+                "CostNet": 217.11,
+                "CostGross": "306.36",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "REACTIVE STATIC INSTRUCTION SET",
+                "ItemID": 43458254,
+                "CostNet": 163.61,
+                "CostGross": "377.72",
+                "Discount": "3.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "42.83",
+            "GrossAmount": "1020.23",
+            "NetAmount1": "1136.61"
+        }
+    }
+}

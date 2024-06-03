@@ -1,0 +1,61 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "828545",
+            "ChassisNumber": "OZIWDSJP130879218",
+            "CarModel": "Toyota Camry",
+            "NumberPlate": "XE8434",
+            "CompletionDate": "21.02.2022",
+            "OrderNumber": "80769",
+            "ImmatriculationDate": "03.03.2021",
+            "Mileage": "77267"
+        },
+        "items": [
+            {
+                "ItemName": "FACE-TO-FACE CONTENT-BASED MODEL",
+                "ItemID": 21542702,
+                "CostNet": 222.62,
+                "CostGross": "525.22",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE BIFURCATED PRODU",
+                "ItemID": 75887897,
+                "CostNet": 126.13,
+                "CostGross": "379.78",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "STREAMLINED ZERO-DEFECT PORTAL",
+                "ItemID": 93323430,
+                "CostNet": 277.36,
+                "CostGross": "385.3",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED SCALABLE FUNCTION",
+                "ItemID": 67598121,
+                "CostNet": 37.61,
+                "CostGross": "355.18",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ADVANCED VALUE-ADDED ANALYZER",
+                "ItemID": 29461043,
+                "CostNet": 236.33,
+                "CostGross": "555.87",
+                "Discount": "8.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "31.81",
+            "GrossAmount": "1389.66",
+            "NetAmount1": "1029.24"
+        }
+    }
+}

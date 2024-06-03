@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "678059",
+            "ChassisNumber": "KZQABJYL466262088",
+            "CarModel": "BMW M5",
+            "NumberPlate": "HC3215",
+            "CompletionDate": "22.03.2022",
+            "OrderNumber": "37817",
+            "ImmatriculationDate": "01.01.2022",
+            "Mileage": "95281"
+        },
+        "items": [
+            {
+                "ItemName": "QUALITY-FOCUSED GRID-ENABLED NEURAL",
+                "ItemID": 63006140,
+                "CostNet": 93.73,
+                "CostGross": "381.96",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "STREAMLINED TANGIBLE CONCEPT",
+                "ItemID": 25956764,
+                "CostNet": 83.18,
+                "CostGross": "333.8",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INTEGRATED MODULAR CONCEPT",
+                "ItemID": 21129897,
+                "CostNet": 221.6,
+                "CostGross": "437.68",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "STAND-ALONE ZERO TOLERANCE INSTALLA",
+                "ItemID": 73508120,
+                "CostNet": 186.29,
+                "CostGross": "537.14",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE MOTIVATING DATA-WAREHOUSE",
+                "ItemID": 93725443,
+                "CostNet": 96.89,
+                "CostGross": "550.04",
+                "Discount": "9.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE RECIPROCAL MATRICES",
+                "ItemID": 40499013,
+                "CostNet": 111.21,
+                "CostGross": "586.63",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE FAULT-TOLERANT OPEN AR",
+                "ItemID": 39997874,
+                "CostNet": 118.46,
+                "CostGross": "568.75",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED ECO-CENTRIC ATTITUDE",
+                "ItemID": 49525828,
+                "CostNet": 196.12,
+                "CostGross": "382.67",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "VERSATILE NATIONAL CORE",
+                "ItemID": 68465538,
+                "CostNet": 233.9,
+                "CostGross": "576.79",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED FOREGROUND TOOLSET",
+                "ItemID": 81579834,
+                "CostNet": 246.97,
+                "CostGross": "457.9",
+                "Discount": "3.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "AUTOMATED STATIC ENCRYPTION",
+                "ItemID": 23987556,
+                "CostNet": 285.74,
+                "CostGross": "581.93",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ORGANIC FULL-RANGE SYNERGY",
+                "ItemID": 85170374,
+                "CostNet": 186.24,
+                "CostGross": "385.39",
+                "Discount": "3.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "EXTENDED MULTIMEDIA SOFTWARE",
+                "ItemID": 14756428,
+                "CostNet": 86.32,
+                "CostGross": "383.2",
+                "Discount": "6.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM 24HOUR INFRASTRUCTUR",
+                "ItemID": 82269482,
+                "CostNet": 32.81,
+                "CostGross": "562.36",
+                "Discount": "12.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DIVERSE MULTI-STATE DEFINITION",
+                "ItemID": 65824439,
+                "CostNet": 183.38,
+                "CostGross": "441.52",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "19.84",
+            "GrossAmount": "619.19",
+            "NetAmount1": "1170.97"
+        }
+    }
+}

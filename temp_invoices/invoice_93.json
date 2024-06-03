@@ -1,0 +1,157 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "835901",
+            "ChassisNumber": "UEILHIPM411365405",
+            "CarModel": "Rolls Royce Phantom",
+            "NumberPlate": "FD4730",
+            "CompletionDate": "22.09.2022",
+            "OrderNumber": "43843",
+            "ImmatriculationDate": "19.04.2023",
+            "Mileage": "37854"
+        },
+        "items": [
+            {
+                "ItemName": "FACE-TO-FACE BACKGROUND INTRANET",
+                "ItemID": 37383568,
+                "CostNet": 168.17,
+                "CostGross": "593.88",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE SYSTEM-WORTHY IMPLEMEN",
+                "ItemID": 16978322,
+                "CostNet": 232.89,
+                "CostGross": "387.52",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY INCREMENTAL LEVERAGE",
+                "ItemID": 27775302,
+                "CostNet": 262.71,
+                "CostGross": "500.78",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED EXUDING HELP-DESK",
+                "ItemID": 85575475,
+                "CostNet": 183.62,
+                "CostGross": "557.62",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OPERATIVE RADICAL ENCODING",
+                "ItemID": 84533912,
+                "CostNet": 56.75,
+                "CostGross": "544.87",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE OBJECT-ORIENTED CAPACI",
+                "ItemID": 26750715,
+                "CostNet": 173.02,
+                "CostGross": "401.82",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "OPERATIVE INCREMENTAL PROCESS IMPRO",
+                "ItemID": 58231435,
+                "CostNet": 95.04,
+                "CostGross": "428.88",
+                "Discount": "3.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CLONED VALUE-ADDED FRAMEWORK",
+                "ItemID": 41176675,
+                "CostNet": 215.82,
+                "CostGross": "533.88",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "NETWORKED HOLISTIC HIERARCHY",
+                "ItemID": 18252191,
+                "CostNet": 136.74,
+                "CostGross": "550.18",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INTUITIVE IMPACTFUL MATRIX",
+                "ItemID": 10264111,
+                "CostNet": 14.18,
+                "CostGross": "367.79",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "UNIVERSAL CLEAR-THINKING EXTRANET",
+                "ItemID": 53642219,
+                "CostNet": 87.24,
+                "CostGross": "481.03",
+                "Discount": "6.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "REACTIVE ATTITUDE-ORIENTED INTERFAC",
+                "ItemID": 99838310,
+                "CostNet": 195.28,
+                "CostGross": "475.02",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM FAULT-TOLERANT NEURA",
+                "ItemID": 91600757,
+                "CostNet": 79.39,
+                "CostGross": "502.62",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE ASYNCHRONOUS CORE",
+                "ItemID": 58055249,
+                "CostNet": 101.16,
+                "CostGross": "416.92",
+                "Discount": "10.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "PERSISTENT TERTIARY INSTALLATION",
+                "ItemID": 23044542,
+                "CostNet": 19.37,
+                "CostGross": "495.45",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL FULL-RANGE ABILITY",
+                "ItemID": 13720744,
+                "CostNet": 237.89,
+                "CostGross": "547.78",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP STATIC HIERARCHY",
+                "ItemID": 53878074,
+                "CostNet": 129.67,
+                "CostGross": "567.89",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "48.21",
+            "GrossAmount": "611.24",
+            "NetAmount1": "486.68"
+        }
+    }
+}

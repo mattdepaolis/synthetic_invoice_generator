@@ -1,0 +1,69 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "324160",
+            "ChassisNumber": "DMVJKDYH553362352",
+            "CarModel": "Toyota Camry",
+            "NumberPlate": "TD7581",
+            "CompletionDate": "23.06.2022",
+            "OrderNumber": "62784",
+            "ImmatriculationDate": "09.05.2023",
+            "Mileage": "64195"
+        },
+        "items": [
+            {
+                "ItemName": "PROGRESSIVE STATIC MORATORIUM",
+                "ItemID": 15626764,
+                "CostNet": 74.14,
+                "CostGross": "547.4",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED LOGISTICAL INTERF",
+                "ItemID": 10879214,
+                "CostNet": 237.93,
+                "CostGross": "380.86",
+                "Discount": "12.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED ANALYZING WEBSITE",
+                "ItemID": 83117647,
+                "CostNet": 257.77,
+                "CostGross": "578.61",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "REALIGNED COHERENT UTILIZATION",
+                "ItemID": 72443745,
+                "CostNet": 11.23,
+                "CostGross": "560.91",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE MOBILE OPEN SYSTEM",
+                "ItemID": 74125237,
+                "CostNet": 58.64,
+                "CostGross": "562.72",
+                "Discount": "9.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MANAGED TANGIBLE STRATEGY",
+                "ItemID": 36827935,
+                "CostNet": 223.1,
+                "CostGross": "556.98",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "14.33",
+            "GrossAmount": "1468.64",
+            "NetAmount1": "1003.64"
+        }
+    }
+}

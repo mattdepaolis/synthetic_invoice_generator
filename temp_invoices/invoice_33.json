@@ -1,0 +1,181 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "142462",
+            "ChassisNumber": "OOFCUJLM859911278",
+            "CarModel": "Audi A4",
+            "NumberPlate": "DO1842",
+            "CompletionDate": "30.11.2021",
+            "OrderNumber": "52526",
+            "ImmatriculationDate": "28.01.2023",
+            "Mileage": "37562"
+        },
+        "items": [
+            {
+                "ItemName": "MULTI-CHANNELED 6THGENERATION ENCOD",
+                "ItemID": 90640395,
+                "CostNet": 107.41,
+                "CostGross": "480.23",
+                "Discount": "14.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "NETWORKED NEXT GENERATION STANDARDI",
+                "ItemID": 38170816,
+                "CostNet": 33.32,
+                "CostGross": "474.64",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PERSEVERING CONTEXTUALLY-BASED CAPA",
+                "ItemID": 73096476,
+                "CostNet": 138.24,
+                "CostGross": "583.66",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "FOCUSED MISSION-CRITICAL BENCHMARK",
+                "ItemID": 22528146,
+                "CostNet": 201.52,
+                "CostGross": "325.45",
+                "Discount": "1.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ENHANCED MOTIVATING PORTAL",
+                "ItemID": 87614478,
+                "CostNet": 286.08,
+                "CostGross": "556.46",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE HUMAN-RESOURCE PROCESS IM",
+                "ItemID": 89724618,
+                "CostNet": 60.32,
+                "CostGross": "469.16",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "ADVANCED 6THGENERATION EXTRANET",
+                "ItemID": 68072557,
+                "CostNet": 91.53,
+                "CostGross": "324.8",
+                "Discount": "14.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED ECO-CENTRIC CIRCUI",
+                "ItemID": 40947436,
+                "CostNet": 130.26,
+                "CostGross": "566.38",
+                "Discount": "15.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ADAPTIVE EXECUTIVE GROUPWARE",
+                "ItemID": 35723798,
+                "CostNet": 51.66,
+                "CostGross": "455.93",
+                "Discount": "13.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "REACTIVE DISCRETE ENCRYPTION",
+                "ItemID": 36436075,
+                "CostNet": 12.08,
+                "CostGross": "424.52",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "MULTI-LAYERED FAULT-TOLERANT TOOLSE",
+                "ItemID": 25384464,
+                "CostNet": 54.64,
+                "CostGross": "584.82",
+                "Discount": "2.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ENTERPRISE-WIDE EVEN-KEELED CHALLEN",
+                "ItemID": 61650432,
+                "CostNet": 182.85,
+                "CostGross": "462.11",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE MODULAR GRAPHIC INTERFA",
+                "ItemID": 58986966,
+                "CostNet": 91.32,
+                "CostGross": "449.19",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM 24HOUR SYNERGY",
+                "ItemID": 71514961,
+                "CostNet": 86.97,
+                "CostGross": "489.23",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC COHERENT CAPABILITY",
+                "ItemID": 37633740,
+                "CostNet": 288.59,
+                "CostGross": "425.3",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "TOTAL FAULT-TOLERANT MIDDLEWARE",
+                "ItemID": 22563173,
+                "CostNet": 175.28,
+                "CostGross": "337.76",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "COMPATIBLE SYSTEM-WORTHY CAPACITY",
+                "ItemID": 68372081,
+                "CostNet": 240.09,
+                "CostGross": "354.42",
+                "Discount": "5.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "STREAMLINED 3RDGENERATION SOFTWARE",
+                "ItemID": 10458719,
+                "CostNet": 88.26,
+                "CostGross": "355.78",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INTUITIVE TERTIARY FRAMEWORK",
+                "ItemID": 13489631,
+                "CostNet": 201.92,
+                "CostGross": "476.48",
+                "Discount": "7.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "VIRTUAL RADICAL INFRASTRUCTURE",
+                "ItemID": 78601493,
+                "CostNet": 91.32,
+                "CostGross": "301.55",
+                "Discount": "11.00%",
+                "Amount": "10.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "48.3",
+            "GrossAmount": "843.34",
+            "NetAmount1": "647.69"
+        }
+    }
+}

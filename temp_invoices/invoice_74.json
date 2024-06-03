@@ -1,0 +1,165 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "941531",
+            "ChassisNumber": "HUUSHUQE169103608",
+            "CarModel": "Kia Optima",
+            "NumberPlate": "UR1675",
+            "CompletionDate": "17.01.2020",
+            "OrderNumber": "89288",
+            "ImmatriculationDate": "30.11.2020",
+            "Mileage": "7765"
+        },
+        "items": [
+            {
+                "ItemName": "DECENTRALIZED HEURISTIC CHALLENGE",
+                "ItemID": 27999839,
+                "CostNet": 90.12,
+                "CostGross": "304.95",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED 24/7 INSTRUCTION S",
+                "ItemID": 48092760,
+                "CostNet": 58.78,
+                "CostGross": "547.79",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PERSEVERING LEADINGEDGE UTILIZATION",
+                "ItemID": 25709945,
+                "CostNet": 112.63,
+                "CostGross": "463.09",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED COMPOSITE CAPACITY",
+                "ItemID": 62187995,
+                "CostNet": 64.61,
+                "CostGross": "521.17",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED TRANSITIONAL PRICI",
+                "ItemID": 63550790,
+                "CostNet": 174.48,
+                "CostGross": "595.62",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED HOLISTIC DEFINITI",
+                "ItemID": 14328332,
+                "CostNet": 91.34,
+                "CostGross": "522.93",
+                "Discount": "10.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM ASYNCHRONOUS MONITOR",
+                "ItemID": 11995788,
+                "CostNet": 218.01,
+                "CostGross": "394.82",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "REDUCED HIGH-LEVEL PARADIGM",
+                "ItemID": 32805077,
+                "CostNet": 92.19,
+                "CostGross": "426.29",
+                "Discount": "9.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROACTIVE MULTI-STATE FRAME",
+                "ItemID": 35929310,
+                "CostNet": 114.17,
+                "CostGross": "441.8",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED CLIENT-SERVER IMPL",
+                "ItemID": 20634407,
+                "CostNet": 197.15,
+                "CostGross": "518.06",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "VISIONARY ZERO TOLERANCE SOFTWARE",
+                "ItemID": 25125408,
+                "CostNet": 172.03,
+                "CostGross": "338.9",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "SWITCHABLE DIRECTIONAL GRAPHIC INTE",
+                "ItemID": 65099616,
+                "CostNet": 38.56,
+                "CostGross": "361.73",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE OPTIMIZING BENCHMARK",
+                "ItemID": 45223566,
+                "CostNet": 94.81,
+                "CostGross": "325.79",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED ACTUATING CORE",
+                "ItemID": 45072047,
+                "CostNet": 78.47,
+                "CostGross": "392.36",
+                "Discount": "12.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED 5THGENERATION ARRAY",
+                "ItemID": 95556084,
+                "CostNet": 154.26,
+                "CostGross": "544.71",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FOCUSED MOBILE INFRASTRUCTURE",
+                "ItemID": 30064108,
+                "CostNet": 192.99,
+                "CostGross": "424.94",
+                "Discount": "6.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "OPERATIVE LOGISTICAL MODEL",
+                "ItemID": 35589741,
+                "CostNet": 274.03,
+                "CostGross": "496.96",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE TANGIBLE APPROACH",
+                "ItemID": 43392444,
+                "CostNet": 195.95,
+                "CostGross": "446.93",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "49.91",
+            "GrossAmount": "1649.31",
+            "NetAmount1": "1254.85"
+        }
+    }
+}

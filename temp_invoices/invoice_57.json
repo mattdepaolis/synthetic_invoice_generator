@@ -1,0 +1,109 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "342374",
+            "ChassisNumber": "TAEOMULD328341882",
+            "CarModel": "BMW M5",
+            "NumberPlate": "VK1830",
+            "CompletionDate": "19.02.2023",
+            "OrderNumber": "22609",
+            "ImmatriculationDate": "15.03.2023",
+            "Mileage": "48466"
+        },
+        "items": [
+            {
+                "ItemName": "VIRTUAL CONTEXT-SENSITIVE INITIATIV",
+                "ItemID": 55819030,
+                "CostNet": 198.03,
+                "CostGross": "345.2",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INTUITIVE HOMOGENEOUS LOCAL AREA NE",
+                "ItemID": 29853331,
+                "CostNet": 104.41,
+                "CostGross": "464.94",
+                "Discount": "3.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE UNIFORM TOOLSET",
+                "ItemID": 41542614,
+                "CostNet": 289.45,
+                "CostGross": "594.43",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CENTRALIZED COHERENT DATABASE",
+                "ItemID": 25711052,
+                "CostNet": 88.61,
+                "CostGross": "494.77",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PERSISTENT FAULT-TOLERANT HIERARCHY",
+                "ItemID": 26166634,
+                "CostNet": 38.01,
+                "CostGross": "593.26",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "AMELIORATED ATTITUDE-ORIENTED CIRCU",
+                "ItemID": 42034857,
+                "CostNet": 15.49,
+                "CostGross": "383.39",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ENHANCED EXPLICIT SOLUTION",
+                "ItemID": 79580967,
+                "CostNet": 119.45,
+                "CostGross": "350.71",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INNOVATIVE BI-DIRECTIONAL ENCODING",
+                "ItemID": 76489233,
+                "CostNet": 96.88,
+                "CostGross": "430.75",
+                "Discount": "1.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MULTI-LAYERED ENCOMPASSING PROCESS ",
+                "ItemID": 72340968,
+                "CostNet": 287.88,
+                "CostGross": "343.74",
+                "Discount": "13.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC WEB-ENABLED ALLIANCE",
+                "ItemID": 15533123,
+                "CostNet": 65.84,
+                "CostGross": "489.34",
+                "Discount": "9.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED HIGH-LEVEL HELP-DES",
+                "ItemID": 85559183,
+                "CostNet": 152.55,
+                "CostGross": "395.74",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "29.1",
+            "GrossAmount": "1877.95",
+            "NetAmount1": "618.1"
+        }
+    }
+}

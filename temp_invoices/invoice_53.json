@@ -1,0 +1,101 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "568285",
+            "ChassisNumber": "LWAPMTDC466084662",
+            "CarModel": "Porsche 911",
+            "NumberPlate": "SF1972",
+            "CompletionDate": "29.06.2023",
+            "OrderNumber": "85966",
+            "ImmatriculationDate": "23.11.2021",
+            "Mileage": "41598"
+        },
+        "items": [
+            {
+                "ItemName": "DOWN-SIZED RADICAL CONCEPT",
+                "ItemID": 74436803,
+                "CostNet": 117.91,
+                "CostGross": "333.52",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UP-SIZED NATIONAL ORCHESTRATION",
+                "ItemID": 80747790,
+                "CostNet": 63.66,
+                "CostGross": "576.42",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE STATIC METHODOLOGY",
+                "ItemID": 63580399,
+                "CostNet": 253.03,
+                "CostGross": "502.14",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ORGANIC LEADINGEDGE CONTINGENCY",
+                "ItemID": 96218005,
+                "CostNet": 207.18,
+                "CostGross": "319.01",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DEVOLVED ZERO ADMINISTRATION NEURAL",
+                "ItemID": 22552851,
+                "CostNet": 113.41,
+                "CostGross": "506.77",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "HORIZONTAL SYSTEMATIC FLEXIBILITY",
+                "ItemID": 60259294,
+                "CostNet": 290.93,
+                "CostGross": "562.78",
+                "Discount": "3.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MONITORED SYSTEMIC FUNCTION",
+                "ItemID": 83990510,
+                "CostNet": 116.38,
+                "CostGross": "435.29",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SWITCHABLE UPWARD-TRENDING ARRAY",
+                "ItemID": 61614049,
+                "CostNet": 87.96,
+                "CostGross": "385.92",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED GRID-ENABLED UTILIZ",
+                "ItemID": 59402309,
+                "CostNet": 275.82,
+                "CostGross": "597.56",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "BALANCED 4THGENERATION INFRASTRUCTU",
+                "ItemID": 26559622,
+                "CostNet": 230.12,
+                "CostGross": "438.6",
+                "Discount": "14.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "22.71",
+            "GrossAmount": "1325.78",
+            "NetAmount1": "821.92"
+        }
+    }
+}

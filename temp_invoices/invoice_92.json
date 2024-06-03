@@ -1,0 +1,133 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "461260",
+            "ChassisNumber": "UFICGXQH972584293",
+            "CarModel": "Maserati Quattroporte",
+            "NumberPlate": "GR0336",
+            "CompletionDate": "21.11.2021",
+            "OrderNumber": "16460",
+            "ImmatriculationDate": "08.04.2022",
+            "Mileage": "74153"
+        },
+        "items": [
+            {
+                "ItemName": "INNOVATIVE MISSION-CRITICAL GRAPHIC",
+                "ItemID": 41260596,
+                "CostNet": 166.56,
+                "CostGross": "583.27",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "AMELIORATED UNIFORM PRODUCT",
+                "ItemID": 51634676,
+                "CostNet": 30.82,
+                "CostGross": "328.26",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ERGONOMIC RESPONSIVE BUDGETARY MANA",
+                "ItemID": 97817459,
+                "CostNet": 187.65,
+                "CostGross": "357.4",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE DEMAND-DRIVEN FUNCTION",
+                "ItemID": 46161708,
+                "CostNet": 107.09,
+                "CostGross": "355.27",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL WELL-MODULATED CONCEPT",
+                "ItemID": 94591921,
+                "CostNet": 55.5,
+                "CostGross": "345.66",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ADAPTIVE UNIFORM PROCESS IMPROVEMEN",
+                "ItemID": 70360711,
+                "CostNet": 83.34,
+                "CostGross": "404.59",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE EMPOWERING COMPLEXITY",
+                "ItemID": 23655645,
+                "CostNet": 187.51,
+                "CostGross": "427.64",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED OBJECT-ORIENTED DEFIN",
+                "ItemID": 43427796,
+                "CostNet": 77.62,
+                "CostGross": "353.42",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PERSISTENT MOBILE WEBSITE",
+                "ItemID": 82075529,
+                "CostNet": 269.11,
+                "CostGross": "514.82",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "AUTOMATED 6THGENERATION PROCESS IMP",
+                "ItemID": 32948057,
+                "CostNet": 124.77,
+                "CostGross": "369.06",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED NON-VOLATILE SECUR",
+                "ItemID": 99662094,
+                "CostNet": 75.61,
+                "CostGross": "546.02",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "NETWORKED BACKGROUND FRAMEWORK",
+                "ItemID": 88847731,
+                "CostNet": 154.72,
+                "CostGross": "523.81",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED ASYMMETRIC APPLICATION",
+                "ItemID": 81089553,
+                "CostNet": 244.37,
+                "CostGross": "415.88",
+                "Discount": "5.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY EMPOWERING SUPPORT",
+                "ItemID": 85924780,
+                "CostNet": 239.65,
+                "CostGross": "358.11",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "39.15",
+            "GrossAmount": "937.15",
+            "NetAmount1": "1358.24"
+        }
+    }
+}

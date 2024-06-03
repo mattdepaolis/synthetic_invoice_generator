@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "154638",
+            "ChassisNumber": "FDBYSJDW628861758",
+            "CarModel": "Alfa Romeo Giulia",
+            "NumberPlate": "ES2085",
+            "CompletionDate": "24.03.2023",
+            "OrderNumber": "69820",
+            "ImmatriculationDate": "21.06.2022",
+            "Mileage": "72888"
+        },
+        "items": [
+            {
+                "ItemName": "INTUITIVE NEUTRAL MODEL",
+                "ItemID": 61463192,
+                "CostNet": 129.9,
+                "CostGross": "545.87",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "OPTIONAL SECONDARY STRUCTURE",
+                "ItemID": 54477514,
+                "CostNet": 231.78,
+                "CostGross": "590.79",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "UPGRADABLE OPTIMIZING GROUPWARE",
+                "ItemID": 75118887,
+                "CostNet": 69.09,
+                "CostGross": "587.59",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED SECONDARY THROUGHP",
+                "ItemID": 20055781,
+                "CostNet": 36.92,
+                "CostGross": "322.84",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ERGONOMIC DISINTERMEDIATE FRAME",
+                "ItemID": 98115320,
+                "CostNet": 128.11,
+                "CostGross": "311.09",
+                "Discount": "7.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED ECO-CENTRIC UTILIZAT",
+                "ItemID": 14891546,
+                "CostNet": 286.42,
+                "CostGross": "442.1",
+                "Discount": "11.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ADVANCED DEDICATED MIDDLEWARE",
+                "ItemID": 84712220,
+                "CostNet": 175.4,
+                "CostGross": "312.97",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "HORIZONTAL MISSION-CRITICAL STRATEG",
+                "ItemID": 87472836,
+                "CostNet": 144.62,
+                "CostGross": "466.03",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "REALIGNED 6THGENERATION BENCHMARK",
+                "ItemID": 41478366,
+                "CostNet": 228.37,
+                "CostGross": "544.36",
+                "Discount": "15.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DIGITIZED CLIENT-DRIVEN TOOLSET",
+                "ItemID": 43306536,
+                "CostNet": 125.47,
+                "CostGross": "379.66",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DIVERSE EVEN-KEELED INSTALLATION",
+                "ItemID": 29036928,
+                "CostNet": 186.95,
+                "CostGross": "559.89",
+                "Discount": "7.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INNOVATIVE ZERO TOLERANCE ARRAY",
+                "ItemID": 64829554,
+                "CostNet": 140.86,
+                "CostGross": "336.77",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "39.2",
+            "GrossAmount": "1055.78",
+            "NetAmount1": "1039.88"
+        }
+    }
+}

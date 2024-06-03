@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "601688",
+            "ChassisNumber": "HSGKXNHI351788965",
+            "CarModel": "Hyundai Sonata",
+            "NumberPlate": "BA9062",
+            "CompletionDate": "05.08.2023",
+            "OrderNumber": "32011",
+            "ImmatriculationDate": "24.04.2021",
+            "Mileage": "60276"
+        },
+        "items": [
+            {
+                "ItemName": "PHASED FOREGROUND DATA-WAREHOUSE",
+                "ItemID": 79994558,
+                "CostNet": 26.63,
+                "CostGross": "443.71",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "NETWORKED MULTIMEDIA MIGRATION",
+                "ItemID": 32189774,
+                "CostNet": 137.83,
+                "CostGross": "525.0",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INTEGRATED IMPACTFUL METHODOLOGY",
+                "ItemID": 83797032,
+                "CostNet": 41.29,
+                "CostGross": "373.77",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL SYSTEMATIC NEURAL-NET",
+                "ItemID": 90812553,
+                "CostNet": 85.93,
+                "CostGross": "438.79",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED UNIFORM FLEXIBILITY",
+                "ItemID": 90393435,
+                "CostNet": 159.21,
+                "CostGross": "395.25",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "AMELIORATED DIDACTIC PARALLELISM",
+                "ItemID": 14849377,
+                "CostNet": 46.96,
+                "CostGross": "304.56",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED EXUDING ORCHESTRA",
+                "ItemID": 24571692,
+                "CostNet": 93.79,
+                "CostGross": "514.1",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UPGRADABLE INTERACTIVE INTRANET",
+                "ItemID": 10871697,
+                "CostNet": 68.27,
+                "CostGross": "547.11",
+                "Discount": "15.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "44.97",
+            "GrossAmount": "1266.19",
+            "NetAmount1": "1368.56"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "293237",
+            "ChassisNumber": "QGAQJTTR291766992",
+            "CarModel": "Subaru Impreza",
+            "NumberPlate": "NZ5652",
+            "CompletionDate": "13.07.2021",
+            "OrderNumber": "78427",
+            "ImmatriculationDate": "16.01.2021",
+            "Mileage": "39145"
+        },
+        "items": [
+            {
+                "ItemName": "OPTIMIZED NEEDS-BASED CAPACITY",
+                "ItemID": 19213924,
+                "CostNet": 175.0,
+                "CostGross": "593.02",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DIGITIZED STABLE FUNCTIONALITIES",
+                "ItemID": 76101169,
+                "CostNet": 204.78,
+                "CostGross": "502.64",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE 3RDGENERATION GRAPHICA",
+                "ItemID": 28363718,
+                "CostNet": 282.04,
+                "CostGross": "325.49",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY ANALYZING WEBSITE",
+                "ItemID": 96297010,
+                "CostNet": 225.54,
+                "CostGross": "442.11",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "UP-SIZED EXECUTIVE CUSTOMER LOYALTY",
+                "ItemID": 55329418,
+                "CostNet": 50.38,
+                "CostGross": "550.48",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VIRTUAL BIFURCATED UTILIZATION",
+                "ItemID": 39266954,
+                "CostNet": 59.55,
+                "CostGross": "304.29",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "CENTRALIZED COHESIVE CONCEPT",
+                "ItemID": 16153400,
+                "CostNet": 44.65,
+                "CostGross": "373.29",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ADVANCED SCALABLE SOLUTION",
+                "ItemID": 50601759,
+                "CostNet": 116.53,
+                "CostGross": "393.89",
+                "Discount": "3.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "47.87",
+            "GrossAmount": "1138.15",
+            "NetAmount1": "787.19"
+        }
+    }
+}

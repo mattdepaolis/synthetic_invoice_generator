@@ -1,0 +1,53 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "278266",
+            "ChassisNumber": "XVFATEVY607107708",
+            "CarModel": "Tesla Model Y",
+            "NumberPlate": "ZT7914",
+            "CompletionDate": "16.08.2022",
+            "OrderNumber": "58978",
+            "ImmatriculationDate": "02.01.2020",
+            "Mileage": "88502"
+        },
+        "items": [
+            {
+                "ItemName": "UPGRADABLE FULL-RANGE APPROACH",
+                "ItemID": 23272910,
+                "CostNet": 44.94,
+                "CostGross": "512.12",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC HEURISTIC CORE",
+                "ItemID": 55086548,
+                "CostNet": 155.3,
+                "CostGross": "490.53",
+                "Discount": "9.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING HOMOGENEOUS INSTALLAT",
+                "ItemID": 66962276,
+                "CostNet": 105.65,
+                "CostGross": "489.5",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "STAND-ALONE UPWARD-TRENDING SECURED",
+                "ItemID": 51738787,
+                "CostNet": 19.39,
+                "CostGross": "535.39",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "49.08",
+            "GrossAmount": "1813.56",
+            "NetAmount1": "949.6"
+        }
+    }
+}

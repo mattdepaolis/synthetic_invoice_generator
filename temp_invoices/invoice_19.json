@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "979873",
+            "ChassisNumber": "QFZZOZKO752670408",
+            "CarModel": "Dodge Charger",
+            "NumberPlate": "NG5862",
+            "CompletionDate": "12.07.2023",
+            "OrderNumber": "40100",
+            "ImmatriculationDate": "28.11.2020",
+            "Mileage": "78648"
+        },
+        "items": [
+            {
+                "ItemName": "USER-CENTRIC ZERO-DEFECT SYNERGY",
+                "ItemID": 10119348,
+                "CostNet": 138.39,
+                "CostGross": "591.84",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "VERSATILE UPWARD-TRENDING ORCHESTRA",
+                "ItemID": 26505317,
+                "CostNet": 27.05,
+                "CostGross": "369.37",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SYNERGIZED 24HOUR CAPACITY",
+                "ItemID": 17377661,
+                "CostNet": 258.47,
+                "CostGross": "594.26",
+                "Discount": "13.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED CLIENT-DRIVEN KNOWLED",
+                "ItemID": 11080731,
+                "CostNet": 282.63,
+                "CostGross": "531.53",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "VIRTUAL EVEN-KEELED FRAME",
+                "ItemID": 70856490,
+                "CostNet": 295.77,
+                "CostGross": "413.88",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DIGITIZED TANGIBLE FOCUS GROUP",
+                "ItemID": 84659999,
+                "CostNet": 154.44,
+                "CostGross": "447.71",
+                "Discount": "12.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "MONITORED CLIENT-SERVER IMPLEMENTAT",
+                "ItemID": 81446497,
+                "CostNet": 241.58,
+                "CostGross": "389.15",
+                "Discount": "3.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED CLIENT-SERVER CAP",
+                "ItemID": 23327041,
+                "CostNet": 20.72,
+                "CostGross": "537.78",
+                "Discount": "13.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED STATIC BUDGETARY MANAGE",
+                "ItemID": 82109149,
+                "CostNet": 60.15,
+                "CostGross": "306.18",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED FULL-RANGE ABILITY",
+                "ItemID": 62316809,
+                "CostNet": 78.42,
+                "CostGross": "546.06",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED CONTENT-BASED ENCODIN",
+                "ItemID": 20483638,
+                "CostNet": 123.35,
+                "CostGross": "576.52",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE COMPOSITE DATA-WAREHOU",
+                "ItemID": 30051149,
+                "CostNet": 157.33,
+                "CostGross": "410.7",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED RESPONSIVE FOCUS GRO",
+                "ItemID": 19566851,
+                "CostNet": 227.8,
+                "CostGross": "344.82",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MANDATORY STATIC SUCCESS",
+                "ItemID": 77813038,
+                "CostNet": 113.5,
+                "CostGross": "342.77",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED HIGH-LEVEL POLICY",
+                "ItemID": 55359456,
+                "CostNet": 73.54,
+                "CostGross": "519.45",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "23.91",
+            "GrossAmount": "1005.53",
+            "NetAmount1": "999.58"
+        }
+    }
+}

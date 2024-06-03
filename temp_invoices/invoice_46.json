@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "683629",
+            "ChassisNumber": "KYZWDBME433491594",
+            "CarModel": "Kia Optima",
+            "NumberPlate": "VL9624",
+            "CompletionDate": "07.10.2020",
+            "OrderNumber": "96041",
+            "ImmatriculationDate": "04.08.2022",
+            "Mileage": "65087"
+        },
+        "items": [
+            {
+                "ItemName": "STAND-ALONE REAL-TIME HIERARCHY",
+                "ItemID": 99495153,
+                "CostNet": 161.34,
+                "CostGross": "302.71",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS METHODICAL IMPLEMENTATI",
+                "ItemID": 31839648,
+                "CostNet": 30.59,
+                "CostGross": "576.21",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED SYSTEM-WORTHY WORKFOR",
+                "ItemID": 73584966,
+                "CostNet": 14.22,
+                "CostGross": "398.19",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ERGONOMIC DEMAND-DRIVEN CONTINGENCY",
+                "ItemID": 64233407,
+                "CostNet": 218.3,
+                "CostGross": "357.16",
+                "Discount": "11.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE COMPOSITE FORECAST",
+                "ItemID": 49999313,
+                "CostNet": 281.04,
+                "CostGross": "544.55",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INNOVATIVE EVEN-KEELED APPLICATION",
+                "ItemID": 79969602,
+                "CostNet": 53.68,
+                "CostGross": "590.03",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "INTUITIVE BI-DIRECTIONAL PROJECTION",
+                "ItemID": 91286263,
+                "CostNet": 134.75,
+                "CostGross": "482.86",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "VIRTUAL ATTITUDE-ORIENTED MATRICES",
+                "ItemID": 80630818,
+                "CostNet": 158.9,
+                "CostGross": "365.98",
+                "Discount": "5.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "15.94",
+            "GrossAmount": "931.29",
+            "NetAmount1": "1075.82"
+        }
+    }
+}

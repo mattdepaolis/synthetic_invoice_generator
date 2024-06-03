@@ -1,0 +1,93 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "163067",
+            "ChassisNumber": "RFXEBCCH027901754",
+            "CarModel": "Cadillac Escalade",
+            "NumberPlate": "WE9213",
+            "CompletionDate": "17.08.2021",
+            "OrderNumber": "64945",
+            "ImmatriculationDate": "20.03.2022",
+            "Mileage": "72782"
+        },
+        "items": [
+            {
+                "ItemName": "FUNDAMENTAL VALUE-ADDED INTERFACE",
+                "ItemID": 92392338,
+                "CostNet": 158.38,
+                "CostGross": "341.51",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED CLIENT-SERVER BENCHMAR",
+                "ItemID": 72733543,
+                "CostNet": 297.31,
+                "CostGross": "408.23",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UPGRADABLE ZERO-DEFECT GRAPHICAL US",
+                "ItemID": 42603938,
+                "CostNet": 296.45,
+                "CostGross": "507.29",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROACTIVE RADICAL THROUGHPUT",
+                "ItemID": 67300601,
+                "CostNet": 180.4,
+                "CostGross": "570.66",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "REACTIVE ENCOMPASSING SUPPORT",
+                "ItemID": 51190533,
+                "CostNet": 148.85,
+                "CostGross": "397.61",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ASSIMILATED FOREGROUND THROUGHPUT",
+                "ItemID": 93118382,
+                "CostNet": 15.08,
+                "CostGross": "301.85",
+                "Discount": "13.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED STABLE SUPERSTRUCTURE",
+                "ItemID": 21698348,
+                "CostNet": 69.75,
+                "CostGross": "507.81",
+                "Discount": "15.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "OPTIMIZED ATTITUDE-ORIENTED DATABAS",
+                "ItemID": 65495941,
+                "CostNet": 97.87,
+                "CostGross": "342.59",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "INTEGRATED SYSTEMIC SUPERSTRUCTURE",
+                "ItemID": 61260832,
+                "CostNet": 52.63,
+                "CostGross": "331.69",
+                "Discount": "9.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "28.34",
+            "GrossAmount": "1550.31",
+            "NetAmount1": "971.28"
+        }
+    }
+}

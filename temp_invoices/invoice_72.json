@@ -1,0 +1,93 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "261430",
+            "ChassisNumber": "HFCRXFXL666326762",
+            "CarModel": "Mercedes G-Class",
+            "NumberPlate": "GS0439",
+            "CompletionDate": "19.01.2020",
+            "OrderNumber": "96567",
+            "ImmatriculationDate": "19.09.2021",
+            "Mileage": "85420"
+        },
+        "items": [
+            {
+                "ItemName": "ENHANCED ANALYZING PROJECTION",
+                "ItemID": 95373661,
+                "CostNet": 12.05,
+                "CostGross": "337.99",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DIVERSE NEUTRAL OPEN ARCHITECTURE",
+                "ItemID": 93926406,
+                "CostNet": 172.94,
+                "CostGross": "453.16",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "SECURED 6THGENERATION COLLABORATION",
+                "ItemID": 68327685,
+                "CostNet": 179.55,
+                "CostGross": "468.94",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "COMPATIBLE OPTIMIZING PARALLELISM",
+                "ItemID": 14807948,
+                "CostNet": 165.41,
+                "CostGross": "538.18",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED USER-FACING INSTALLATIO",
+                "ItemID": 97215446,
+                "CostNet": 116.08,
+                "CostGross": "402.27",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE FAULT-TOLERANT PRICING",
+                "ItemID": 54749905,
+                "CostNet": 83.49,
+                "CostGross": "519.92",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED SOLUTION-ORIENTED SERVI",
+                "ItemID": 69055682,
+                "CostNet": 119.77,
+                "CostGross": "344.36",
+                "Discount": "3.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED COHERENT ENCRYPTION",
+                "ItemID": 68100627,
+                "CostNet": 295.67,
+                "CostGross": "336.78",
+                "Discount": "11.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SECURED EMPOWERING INSTRUCTION SET",
+                "ItemID": 94642239,
+                "CostNet": 27.92,
+                "CostGross": "399.25",
+                "Discount": "14.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "42.39",
+            "GrossAmount": "1492.55",
+            "NetAmount1": "784.94"
+        }
+    }
+}

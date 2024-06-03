@@ -1,0 +1,101 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "489435",
+            "ChassisNumber": "RSWGYWXE280824919",
+            "CarModel": "Honda Accord",
+            "NumberPlate": "UD8019",
+            "CompletionDate": "25.03.2022",
+            "OrderNumber": "14210",
+            "ImmatriculationDate": "28.02.2024",
+            "Mileage": "35671"
+        },
+        "items": [
+            {
+                "ItemName": "OPTIMIZED CLEAR-THINKING LEVERAGE",
+                "ItemID": 57156286,
+                "CostNet": 46.24,
+                "CostGross": "562.53",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "OPTIONAL VALUE-ADDED ENCRYPTION",
+                "ItemID": 69342233,
+                "CostNet": 48.28,
+                "CostGross": "403.57",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED EXECUTIVE HELP-DESK",
+                "ItemID": 79398152,
+                "CostNet": 82.97,
+                "CostGross": "322.06",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UNIVERSAL SCALABLE FUNCTIONALITIES",
+                "ItemID": 76395486,
+                "CostNet": 63.05,
+                "CostGross": "310.67",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED DEMAND-DRIVEN AT",
+                "ItemID": 83253367,
+                "CostNet": 23.41,
+                "CostGross": "548.47",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE BACKGROUND SYNERGY",
+                "ItemID": 91437479,
+                "CostNet": 230.52,
+                "CostGross": "360.42",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "UNIVERSAL LEADINGEDGE ANALYZER",
+                "ItemID": 96714483,
+                "CostNet": 146.47,
+                "CostGross": "534.6",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL 6THGENERATION ANALYZE",
+                "ItemID": 50743821,
+                "CostNet": 184.71,
+                "CostGross": "317.72",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "INVERSE FOREGROUND HUB",
+                "ItemID": 54329876,
+                "CostNet": 122.05,
+                "CostGross": "558.59",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED DYNAMIC PROJECT",
+                "ItemID": 58100600,
+                "CostNet": 239.07,
+                "CostGross": "448.51",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "34.32",
+            "GrossAmount": "1410.19",
+            "NetAmount1": "1141.4"
+        }
+    }
+}

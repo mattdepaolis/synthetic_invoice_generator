@@ -1,0 +1,173 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "844601",
+            "ChassisNumber": "GFCNXZTJ840287371",
+            "CarModel": "Mercedes C-Class",
+            "NumberPlate": "BZ9601",
+            "CompletionDate": "09.12.2022",
+            "OrderNumber": "42291",
+            "ImmatriculationDate": "05.03.2021",
+            "Mileage": "58941"
+        },
+        "items": [
+            {
+                "ItemName": "STAND-ALONE CLIENT-DRIVEN STANDARDI",
+                "ItemID": 91800902,
+                "CostNet": 34.55,
+                "CostGross": "331.19",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "VERSATILE ZERO TOLERANCE DATA-WAREH",
+                "ItemID": 99269989,
+                "CostNet": 130.59,
+                "CostGross": "304.87",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "INVERSE LOCAL PROJECTION",
+                "ItemID": 90875170,
+                "CostNet": 257.72,
+                "CostGross": "422.57",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FOCUSED HOMOGENEOUS ADAPTER",
+                "ItemID": 55372809,
+                "CostNet": 245.7,
+                "CostGross": "448.54",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED CONTEXT-SENSITIV",
+                "ItemID": 90060326,
+                "CostNet": 226.24,
+                "CostGross": "496.31",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE STABLE APPROACH",
+                "ItemID": 58513882,
+                "CostNet": 289.86,
+                "CostGross": "398.9",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED REAL-TIME ATTITUDE",
+                "ItemID": 78260296,
+                "CostNet": 11.76,
+                "CostGross": "583.09",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PROACTIVE 4THGENERATION HARDWARE",
+                "ItemID": 49536166,
+                "CostNet": 255.9,
+                "CostGross": "519.81",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS RESPONSIVE NEURAL-NET",
+                "ItemID": 16564610,
+                "CostNet": 228.43,
+                "CostGross": "368.64",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED REGIONAL STANDARDIZAT",
+                "ItemID": 81567413,
+                "CostNet": 262.51,
+                "CostGross": "528.7",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE ACTUATING CUSTOMER LOY",
+                "ItemID": 75897064,
+                "CostNet": 189.97,
+                "CostGross": "499.09",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UPGRADABLE IMPACTFUL DEFINITION",
+                "ItemID": 88952665,
+                "CostNet": 148.22,
+                "CostGross": "375.5",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CENTRALIZED SOLUTION-ORIENTED CONTI",
+                "ItemID": 79159481,
+                "CostNet": 21.64,
+                "CostGross": "590.91",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED DISCRETE ARCHITECTURE",
+                "ItemID": 25173865,
+                "CostNet": 174.85,
+                "CostGross": "337.2",
+                "Discount": "13.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SECURED MISSION-CRITICAL SUPPORT",
+                "ItemID": 14805784,
+                "CostNet": 167.36,
+                "CostGross": "435.6",
+                "Discount": "5.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE NON-VOLATILE MONITORIN",
+                "ItemID": 26005063,
+                "CostNet": 13.15,
+                "CostGross": "444.06",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "COMPATIBLE IMPACTFUL HELP-DESK",
+                "ItemID": 84274209,
+                "CostNet": 61.38,
+                "CostGross": "366.18",
+                "Discount": "6.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ASSIMILATED TRANSITIONAL THROUGHPUT",
+                "ItemID": 46767993,
+                "CostNet": 188.63,
+                "CostGross": "575.42",
+                "Discount": "13.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED HEURISTIC SOLUTION",
+                "ItemID": 94885390,
+                "CostNet": 235.11,
+                "CostGross": "328.2",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "47.77",
+            "GrossAmount": "1337.02",
+            "NetAmount1": "1054.8"
+        }
+    }
+}

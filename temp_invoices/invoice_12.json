@@ -1,0 +1,125 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "122974",
+            "ChassisNumber": "WKVJRZWQ936435371",
+            "CarModel": "Dodge Charger",
+            "NumberPlate": "GT5472",
+            "CompletionDate": "27.09.2022",
+            "OrderNumber": "34268",
+            "ImmatriculationDate": "08.01.2023",
+            "Mileage": "34018"
+        },
+        "items": [
+            {
+                "ItemName": "RE-CONTEXTUALIZED COMPOSITE SUPPORT",
+                "ItemID": 63401217,
+                "CostNet": 50.4,
+                "CostGross": "344.24",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DEVOLVED HOLISTIC ACCESS",
+                "ItemID": 99354652,
+                "CostNet": 158.25,
+                "CostGross": "392.25",
+                "Discount": "2.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED 4THGENERATION SOFTWAR",
+                "ItemID": 18353710,
+                "CostNet": 50.66,
+                "CostGross": "448.59",
+                "Discount": "1.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "REALIGNED MODULAR FRAMEWORK",
+                "ItemID": 89620925,
+                "CostNet": 179.28,
+                "CostGross": "500.53",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PERSEVERING FAULT-TOLERANT PROTOCOL",
+                "ItemID": 70975542,
+                "CostNet": 214.73,
+                "CostGross": "426.42",
+                "Discount": "14.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE FRESH-THINKING COMPLEX",
+                "ItemID": 29427930,
+                "CostNet": 193.37,
+                "CostGross": "595.06",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED HOMOGENEOUS TOOLSET",
+                "ItemID": 82946909,
+                "CostNet": 86.77,
+                "CostGross": "372.59",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED 24/7 SUCCESS",
+                "ItemID": 77647166,
+                "CostNet": 224.01,
+                "CostGross": "523.93",
+                "Discount": "6.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC 5THGENERATION MODEL",
+                "ItemID": 32420598,
+                "CostNet": 149.92,
+                "CostGross": "475.04",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DEVOLVED STATIC PROTOCOL",
+                "ItemID": 72459381,
+                "CostNet": 259.24,
+                "CostGross": "321.97",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED CLIENT-SERVER CUST",
+                "ItemID": 33386388,
+                "CostNet": 200.36,
+                "CostGross": "592.07",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE STABLE ACCESS",
+                "ItemID": 23388631,
+                "CostNet": 296.07,
+                "CostGross": "346.43",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PERSISTENT HOLISTIC DEFINITION",
+                "ItemID": 13253746,
+                "CostNet": 157.78,
+                "CostGross": "545.19",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "36.39",
+            "GrossAmount": "678.21",
+            "NetAmount1": "923.73"
+        }
+    }
+}

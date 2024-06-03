@@ -1,0 +1,149 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "973729",
+            "ChassisNumber": "LTKAWEJM411482314",
+            "CarModel": "Maserati Quattroporte",
+            "NumberPlate": "KD4659",
+            "CompletionDate": "03.05.2021",
+            "OrderNumber": "60378",
+            "ImmatriculationDate": "12.07.2021",
+            "Mileage": "79192"
+        },
+        "items": [
+            {
+                "ItemName": "AUTOMATED CONTEXTUALLY-BASED SUPERS",
+                "ItemID": 76289335,
+                "CostNet": 60.42,
+                "CostGross": "327.68",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED COHESIVE METHODOLOGY",
+                "ItemID": 85165427,
+                "CostNet": 285.13,
+                "CostGross": "507.76",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SYNERGIZED EXPLICIT OPEN ARCHITECTU",
+                "ItemID": 65598204,
+                "CostNet": 163.26,
+                "CostGross": "577.3",
+                "Discount": "12.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED HUMAN-RESOURCE MAT",
+                "ItemID": 96331294,
+                "CostNet": 195.34,
+                "CostGross": "587.31",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED CONTENT-BASED GRAP",
+                "ItemID": 52651501,
+                "CostNet": 287.31,
+                "CostGross": "588.19",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE INCREMENTAL ORCHESTRAT",
+                "ItemID": 88685564,
+                "CostNet": 74.97,
+                "CostGross": "323.66",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ASSIMILATED EXPLICIT MIDDLEWARE",
+                "ItemID": 73597200,
+                "CostNet": 297.93,
+                "CostGross": "429.82",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ORGANIC CLIENT-DRIVEN OPEN SYSTEM",
+                "ItemID": 43008362,
+                "CostNet": 28.78,
+                "CostGross": "319.05",
+                "Discount": "9.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED SCALABLE ACCESS",
+                "ItemID": 41787752,
+                "CostNet": 28.19,
+                "CostGross": "538.01",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PROACTIVE CONTEXTUALLY-BASED COMPLE",
+                "ItemID": 94675917,
+                "CostNet": 144.7,
+                "CostGross": "352.94",
+                "Discount": "13.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE DISCRETE PROTOCOL",
+                "ItemID": 81398930,
+                "CostNet": 295.37,
+                "CostGross": "529.65",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ERGONOMIC METHODICAL LOCAL AREA NET",
+                "ItemID": 76779410,
+                "CostNet": 242.96,
+                "CostGross": "474.86",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED DEMAND-DRIVEN CONCE",
+                "ItemID": 33994674,
+                "CostNet": 200.89,
+                "CostGross": "557.25",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL FAULT-TOLERANT INTERF",
+                "ItemID": 67417516,
+                "CostNet": 186.79,
+                "CostGross": "417.92",
+                "Discount": "6.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "FOCUSED DIDACTIC CONTINGENCY",
+                "ItemID": 97146619,
+                "CostNet": 132.56,
+                "CostGross": "410.84",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "AUTOMATED INTERMEDIATE TIME-FRAME",
+                "ItemID": 38489392,
+                "CostNet": 14.06,
+                "CostGross": "382.27",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "43.65",
+            "GrossAmount": "762.28",
+            "NetAmount1": "1430.54"
+        }
+    }
+}

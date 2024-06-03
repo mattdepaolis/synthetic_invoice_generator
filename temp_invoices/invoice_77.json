@@ -1,0 +1,61 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "608185",
+            "ChassisNumber": "ZNUKACGT335342082",
+            "CarModel": "Jaguar F-Type",
+            "NumberPlate": "PM0699",
+            "CompletionDate": "11.10.2020",
+            "OrderNumber": "44526",
+            "ImmatriculationDate": "12.01.2020",
+            "Mileage": "55047"
+        },
+        "items": [
+            {
+                "ItemName": "ERGONOMIC FAULT-TOLERANT PROTOCOL",
+                "ItemID": 70160613,
+                "CostNet": 154.54,
+                "CostGross": "446.33",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DEVOLVED HUMAN-RESOURCE INTRANET",
+                "ItemID": 55657657,
+                "CostNet": 265.53,
+                "CostGross": "482.99",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "AUTOMATED USER-FACING FRAME",
+                "ItemID": 22865557,
+                "CostNet": 228.34,
+                "CostGross": "463.84",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "POLARIZED TERTIARY FORECAST",
+                "ItemID": 70388495,
+                "CostNet": 215.83,
+                "CostGross": "358.43",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SHARABLE CLIENT-DRIVEN MODERATOR",
+                "ItemID": 29796749,
+                "CostNet": 219.98,
+                "CostGross": "419.3",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "47.03",
+            "GrossAmount": "828.67",
+            "NetAmount1": "1357.44"
+        }
+    }
+}

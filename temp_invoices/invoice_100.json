@@ -1,0 +1,173 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "119698",
+            "ChassisNumber": "IHMKGWNH012555710",
+            "CarModel": "Mercedes G-Class",
+            "NumberPlate": "ZO6407",
+            "CompletionDate": "28.07.2021",
+            "OrderNumber": "80360",
+            "ImmatriculationDate": "12.01.2021",
+            "Mileage": "63976"
+        },
+        "items": [
+            {
+                "ItemName": "CLONED INTERACTIVE ENCODING",
+                "ItemID": 32834164,
+                "CostNet": 59.59,
+                "CostGross": "512.22",
+                "Discount": "15.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED UNIFORM COMPLEXITY",
+                "ItemID": 37763700,
+                "CostNet": 226.62,
+                "CostGross": "552.83",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE SOLUTION-ORIENTED FOCU",
+                "ItemID": 21284578,
+                "CostNet": 209.47,
+                "CostGross": "566.84",
+                "Discount": "13.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SHARABLE ASYNCHRONOUS APPROACH",
+                "ItemID": 38037185,
+                "CostNet": 270.6,
+                "CostGross": "517.45",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED BOTTOM-LINE APPRO",
+                "ItemID": 14574102,
+                "CostNet": 156.99,
+                "CostGross": "438.74",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "BALANCED 6THGENERATION POLICY",
+                "ItemID": 87325071,
+                "CostNet": 28.3,
+                "CostGross": "460.39",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE SOLUTION-ORIENTED GRAP",
+                "ItemID": 65950376,
+                "CostNet": 196.2,
+                "CostGross": "432.52",
+                "Discount": "3.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED SYSTEMATIC INFRAS",
+                "ItemID": 64033559,
+                "CostNet": 209.72,
+                "CostGross": "353.13",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "NETWORKED EXECUTIVE MATRIX",
+                "ItemID": 50422416,
+                "CostNet": 176.77,
+                "CostGross": "541.31",
+                "Discount": "14.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE CONTEXTUALLY-BASED MAT",
+                "ItemID": 63877066,
+                "CostNet": 233.8,
+                "CostGross": "424.74",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ADVANCED NON-VOLATILE FUNCTIONALITI",
+                "ItemID": 27402842,
+                "CostNet": 52.68,
+                "CostGross": "494.92",
+                "Discount": "8.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "VIRTUAL CONTENT-BASED DATA-WAREHOUS",
+                "ItemID": 42035823,
+                "CostNet": 70.48,
+                "CostGross": "384.16",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED MISSION-CRITICAL ARTI",
+                "ItemID": 17908419,
+                "CostNet": 218.27,
+                "CostGross": "490.16",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC ZERO-DEFECT INITIATIVE",
+                "ItemID": 66216015,
+                "CostNet": 218.16,
+                "CostGross": "328.34",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "MONITORED 24/7 PORTAL",
+                "ItemID": 95429110,
+                "CostNet": 243.86,
+                "CostGross": "467.66",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "OPTIONAL SCALABLE ORCHESTRATION",
+                "ItemID": 91726863,
+                "CostNet": 168.96,
+                "CostGross": "558.61",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INNOVATIVE SYSTEMATIC GROUPWARE",
+                "ItemID": 31228446,
+                "CostNet": 149.89,
+                "CostGross": "487.99",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS ANALYZING ATTITUDE",
+                "ItemID": 86655607,
+                "CostNet": 238.36,
+                "CostGross": "468.41",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ASSIMILATED LOCAL PROTOCOL",
+                "ItemID": 46967177,
+                "CostNet": 49.06,
+                "CostGross": "473.39",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "33.16",
+            "GrossAmount": "1447.46",
+            "NetAmount1": "962.63"
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "445094",
+            "ChassisNumber": "ONFFAMXG939419926",
+            "CarModel": "Jeep Wrangler",
+            "NumberPlate": "AP3231",
+            "CompletionDate": "04.03.2020",
+            "OrderNumber": "49781",
+            "ImmatriculationDate": "18.10.2021",
+            "Mileage": "62046"
+        },
+        "items": [
+            {
+                "ItemName": "OPERATIVE DYNAMIC APPROACH",
+                "ItemID": 23807471,
+                "CostNet": 140.62,
+                "CostGross": "482.46",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "VISIONARY ZERO ADMINISTRATION EMULA",
+                "ItemID": 73005201,
+                "CostNet": 209.84,
+                "CostGross": "552.97",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "SYNCHRONIZED ATTITUDE-ORIENTED MODE",
+                "ItemID": 48757346,
+                "CostNet": 11.13,
+                "CostGross": "454.73",
+                "Discount": "8.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY HYBRID SUCCESS",
+                "ItemID": 37326756,
+                "CostNet": 299.15,
+                "CostGross": "553.95",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "AUTOMATED DYNAMIC GRAPHICAL USER IN",
+                "ItemID": 59834121,
+                "CostNet": 120.76,
+                "CostGross": "393.1",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "MANDATORY COMPOSITE ATTITUDE",
+                "ItemID": 16049084,
+                "CostNet": 79.02,
+                "CostGross": "373.89",
+                "Discount": "15.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED NEUTRAL HARDWARE",
+                "ItemID": 15566434,
+                "CostNet": 30.22,
+                "CostGross": "360.0",
+                "Discount": "9.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DIVERSE CLIENT-SERVER OPEN SYSTEM",
+                "ItemID": 88199430,
+                "CostNet": 192.88,
+                "CostGross": "430.62",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "DEVOLVED ACTUATING LEVERAGE",
+                "ItemID": 72343190,
+                "CostNet": 146.34,
+                "CostGross": "494.93",
+                "Discount": "9.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "ENTERPRISE-WIDE FAULT-TOLERANT FLEX",
+                "ItemID": 80876643,
+                "CostNet": 139.38,
+                "CostGross": "595.66",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL EVEN-KEELED FLEXIBILI",
+                "ItemID": 60707354,
+                "CostNet": 165.23,
+                "CostGross": "480.95",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE UNIFORM ATTITUDE",
+                "ItemID": 83545353,
+                "CostNet": 79.22,
+                "CostGross": "365.37",
+                "Discount": "7.00%",
+                "Amount": "3.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "36.53",
+            "GrossAmount": "1832.57",
+            "NetAmount1": "1296.54"
+        }
+    }
+}

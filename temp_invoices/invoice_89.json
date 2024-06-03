@@ -1,0 +1,133 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "498739",
+            "ChassisNumber": "HMMUPWTH358419672",
+            "CarModel": "Mercedes C-Class",
+            "NumberPlate": "QX7963",
+            "CompletionDate": "19.03.2021",
+            "OrderNumber": "78667",
+            "ImmatriculationDate": "06.06.2020",
+            "Mileage": "7351"
+        },
+        "items": [
+            {
+                "ItemName": "ORGANIZED STABLE TOOLSET",
+                "ItemID": 63971001,
+                "CostNet": 24.85,
+                "CostGross": "383.89",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED NATIONAL PRICING STRUC",
+                "ItemID": 24496048,
+                "CostNet": 261.83,
+                "CostGross": "524.04",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "STREAMLINED SOLUTION-ORIENTED ARRAY",
+                "ItemID": 48502191,
+                "CostNet": 259.7,
+                "CostGross": "425.52",
+                "Discount": "5.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "PHASED ZERO ADMINISTRATION SUPPORT",
+                "ItemID": 89411240,
+                "CostNet": 166.39,
+                "CostGross": "363.78",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE LEADINGEDGE SUCC",
+                "ItemID": 84524518,
+                "CostNet": 200.24,
+                "CostGross": "485.45",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MULTI-LAYERED ACTUATING MORATORIUM",
+                "ItemID": 82311786,
+                "CostNet": 234.59,
+                "CostGross": "443.54",
+                "Discount": "5.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "PERSISTENT DYNAMIC SERVICE-DESK",
+                "ItemID": 78523354,
+                "CostNet": 204.59,
+                "CostGross": "309.65",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ORGANIZED COHESIVE MODEL",
+                "ItemID": 39069458,
+                "CostNet": 206.75,
+                "CostGross": "481.02",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DEVOLVED HIGH-LEVEL MONITORING",
+                "ItemID": 62847197,
+                "CostNet": 257.95,
+                "CostGross": "398.67",
+                "Discount": "13.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "VISIONARY EXECUTIVE THROUGHPUT",
+                "ItemID": 78927562,
+                "CostNet": 258.53,
+                "CostGross": "499.8",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "INTEGRATED COMPOSITE IMPLEMENTATION",
+                "ItemID": 59663123,
+                "CostNet": 43.74,
+                "CostGross": "359.08",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "AMELIORATED MOBILE ARRAY",
+                "ItemID": 16506259,
+                "CostNet": 153.98,
+                "CostGross": "494.21",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "REALIGNED ASYMMETRIC SUPERSTRUCTURE",
+                "ItemID": 61909640,
+                "CostNet": 216.36,
+                "CostGross": "426.31",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED ASYMMETRIC EXTRANET",
+                "ItemID": 48744339,
+                "CostNet": 146.35,
+                "CostGross": "350.7",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "43.47",
+            "GrossAmount": "1741.78",
+            "NetAmount1": "833.03"
+        }
+    }
+}

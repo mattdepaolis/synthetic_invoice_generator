@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "473882",
+            "ChassisNumber": "CRUFUWTZ633811860",
+            "CarModel": "Mercedes G-Class",
+            "NumberPlate": "AZ0111",
+            "CompletionDate": "27.03.2021",
+            "OrderNumber": "67112",
+            "ImmatriculationDate": "21.11.2022",
+            "Mileage": "58198"
+        },
+        "items": [
+            {
+                "ItemName": "AUTOMATED HOMOGENEOUS SECURED LINE",
+                "ItemID": 99530087,
+                "CostNet": 16.45,
+                "CostGross": "515.58",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "IMPLEMENTED SYSTEM-WORTHY SOLUTION",
+                "ItemID": 86468393,
+                "CostNet": 205.48,
+                "CostGross": "363.14",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE REGIONAL PARALLELISM",
+                "ItemID": 83819347,
+                "CostNet": 267.56,
+                "CostGross": "367.72",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED DIRECTIONAL PARAD",
+                "ItemID": 31479341,
+                "CostNet": 115.87,
+                "CostGross": "554.17",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE ZERO TOLERANCE FORECAST",
+                "ItemID": 86007677,
+                "CostNet": 249.1,
+                "CostGross": "360.18",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED MOBILE FUNCTION",
+                "ItemID": 43024005,
+                "CostNet": 288.72,
+                "CostGross": "598.89",
+                "Discount": "8.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FOCUSED COHESIVE INSTALLATION",
+                "ItemID": 58686481,
+                "CostNet": 77.06,
+                "CostGross": "382.99",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED REGIONAL SOFTWARE",
+                "ItemID": 97563345,
+                "CostNet": 176.09,
+                "CostGross": "515.96",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CLONED LOCAL ALGORITHM",
+                "ItemID": 38846837,
+                "CostNet": 115.61,
+                "CostGross": "372.06",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "SECURED FULL-RANGE SECURED LINE",
+                "ItemID": 29275958,
+                "CostNet": 32.03,
+                "CostGross": "387.24",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "REALIGNED MULTI-TASKING HELP-DESK",
+                "ItemID": 93382469,
+                "CostNet": 200.98,
+                "CostGross": "525.43",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MONITORED EXPLICIT FUNCTIONALITIES",
+                "ItemID": 59766859,
+                "CostNet": 165.08,
+                "CostGross": "388.42",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DIGITIZED CLIENT-DRIVEN MIGRATION",
+                "ItemID": 20979608,
+                "CostNet": 11.13,
+                "CostGross": "437.24",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "COMPATIBLE INTERMEDIATE DEFINITION",
+                "ItemID": 94835362,
+                "CostNet": 135.8,
+                "CostGross": "587.57",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC TERTIARY MIDDLEWARE",
+                "ItemID": 47303633,
+                "CostNet": 289.03,
+                "CostGross": "565.39",
+                "Discount": "1.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "38.05",
+            "GrossAmount": "1204.68",
+            "NetAmount1": "695.97"
+        }
+    }
+}

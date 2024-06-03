@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "695151",
+            "ChassisNumber": "INZDSZZP815800537",
+            "CarModel": "BMW M5",
+            "NumberPlate": "NY7492",
+            "CompletionDate": "25.03.2021",
+            "OrderNumber": "72517",
+            "ImmatriculationDate": "19.06.2021",
+            "Mileage": "1643"
+        },
+        "items": [
+            {
+                "ItemName": "VISION-ORIENTED MISSION-CRITICAL PR",
+                "ItemID": 37382260,
+                "CostNet": 143.78,
+                "CostGross": "331.99",
+                "Discount": "1.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "REDUCED WELL-MODULATED APPROACH",
+                "ItemID": 84615651,
+                "CostNet": 294.49,
+                "CostGross": "406.45",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "NETWORKED DISCRETE INFRASTRUCTURE",
+                "ItemID": 68795848,
+                "CostNet": 204.67,
+                "CostGross": "584.17",
+                "Discount": "15.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP FULL-RANGE DATABASE",
+                "ItemID": 60814048,
+                "CostNet": 240.81,
+                "CostGross": "413.58",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "UP-SIZED GLOBAL HIERARCHY",
+                "ItemID": 42768418,
+                "CostNet": 208.97,
+                "CostGross": "316.18",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "COMPATIBLE SCALABLE ADAPTER",
+                "ItemID": 88784930,
+                "CostNet": 266.15,
+                "CostGross": "431.76",
+                "Discount": "2.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VIRTUAL CONTEXT-SENSITIVE SYNERGY",
+                "ItemID": 94070820,
+                "CostNet": 55.96,
+                "CostGross": "480.26",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE SYSTEM-WORTHY ARRAY",
+                "ItemID": 17911248,
+                "CostNet": 111.5,
+                "CostGross": "403.99",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "10.64",
+            "GrossAmount": "815.08",
+            "NetAmount1": "943.15"
+        }
+    }
+}

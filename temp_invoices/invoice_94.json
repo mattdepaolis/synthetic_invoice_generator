@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "380605",
+            "ChassisNumber": "GLRVEXDS024170886",
+            "CarModel": "Aston Martin Vantage",
+            "NumberPlate": "QY0396",
+            "CompletionDate": "27.06.2020",
+            "OrderNumber": "94407",
+            "ImmatriculationDate": "14.03.2021",
+            "Mileage": "82767"
+        },
+        "items": [
+            {
+                "ItemName": "REDUCED OBJECT-ORIENTED CAPACITY",
+                "ItemID": 65351650,
+                "CostNet": 146.4,
+                "CostGross": "368.33",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MANDATORY SYSTEMATIC MORATORIUM",
+                "ItemID": 27081415,
+                "CostNet": 258.2,
+                "CostGross": "566.93",
+                "Discount": "10.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE DIDACTIC THROUGHPUT",
+                "ItemID": 91051609,
+                "CostNet": 32.76,
+                "CostGross": "514.73",
+                "Discount": "15.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS FAULT-TOLERANT INFO-MED",
+                "ItemID": 20420516,
+                "CostNet": 218.47,
+                "CostGross": "518.3",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ORGANIZED INTERMEDIATE PRICING STRU",
+                "ItemID": 21798051,
+                "CostNet": 34.43,
+                "CostGross": "372.01",
+                "Discount": "11.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "TOTAL HIGH-LEVEL SYSTEM ENGINE",
+                "ItemID": 87605850,
+                "CostNet": 299.2,
+                "CostGross": "586.49",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "SHARABLE MODULAR PROTOCOL",
+                "ItemID": 23188906,
+                "CostNet": 164.48,
+                "CostGross": "550.18",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "UNIVERSAL NEEDS-BASED FORECAST",
+                "ItemID": 68286853,
+                "CostNet": 154.62,
+                "CostGross": "315.37",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "20.99",
+            "GrossAmount": "1989.31",
+            "NetAmount1": "1176.84"
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "862808",
+            "ChassisNumber": "TMQQQSHC573121162",
+            "CarModel": "Tesla Model Y",
+            "NumberPlate": "GH3063",
+            "CompletionDate": "13.06.2020",
+            "OrderNumber": "15046",
+            "ImmatriculationDate": "30.11.2020",
+            "Mileage": "82952"
+        },
+        "items": [
+            {
+                "ItemName": "NETWORKED RESPONSIVE ALGORITHM",
+                "ItemID": 69388983,
+                "CostNet": 240.78,
+                "CostGross": "588.53",
+                "Discount": "3.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED BANDWIDTH-MONITORE",
+                "ItemID": 11540862,
+                "CostNet": 280.41,
+                "CostGross": "470.75",
+                "Discount": "13.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROACTIVE SCALABLE PROJECT",
+                "ItemID": 31506991,
+                "CostNet": 158.32,
+                "CostGross": "330.15",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED ATTITUDE-ORIENTED ",
+                "ItemID": 35360306,
+                "CostNet": 278.36,
+                "CostGross": "587.18",
+                "Discount": "12.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INNOVATIVE WELL-MODULATED ARCHITECT",
+                "ItemID": 37645624,
+                "CostNet": 60.2,
+                "CostGross": "366.16",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "REALIGNED CONTEXTUALLY-BASED INFO-M",
+                "ItemID": 58056982,
+                "CostNet": 147.32,
+                "CostGross": "505.77",
+                "Discount": "2.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED MOTIVATING INSTRUCTIO",
+                "ItemID": 99680655,
+                "CostNet": 179.82,
+                "CostGross": "439.2",
+                "Discount": "9.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SHARABLE EMPOWERING DEFINITION",
+                "ItemID": 48002035,
+                "CostNet": 182.94,
+                "CostGross": "460.65",
+                "Discount": "8.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "SHARABLE MAXIMIZED MORATORIUM",
+                "ItemID": 21181299,
+                "CostNet": 15.85,
+                "CostGross": "563.9",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY HYBRID SERVICE-DESK",
+                "ItemID": 15025825,
+                "CostNet": 216.53,
+                "CostGross": "555.02",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SECURED METHODICAL MATRIX",
+                "ItemID": 15284537,
+                "CostNet": 275.03,
+                "CostGross": "417.93",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "37.69",
+            "GrossAmount": "1735.87",
+            "NetAmount1": "1440.49"
+        }
+    }
+}

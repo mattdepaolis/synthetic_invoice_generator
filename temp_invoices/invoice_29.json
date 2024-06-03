@@ -1,0 +1,197 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "463028",
+            "ChassisNumber": "RNRTLDKP398703822",
+            "CarModel": "Kia Optima",
+            "NumberPlate": "UC5464",
+            "CompletionDate": "12.10.2020",
+            "OrderNumber": "82102",
+            "ImmatriculationDate": "18.07.2021",
+            "Mileage": "59703"
+        },
+        "items": [
+            {
+                "ItemName": "VISIONARY LOGISTICAL INFO-MEDIARIES",
+                "ItemID": 32933294,
+                "CostNet": 107.91,
+                "CostGross": "512.34",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ASSIMILATED INTERACTIVE ABILITY",
+                "ItemID": 16191934,
+                "CostNet": 266.18,
+                "CostGross": "446.59",
+                "Discount": "8.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DIVERSE REGIONAL HELP-DESK",
+                "ItemID": 44948718,
+                "CostNet": 46.03,
+                "CostGross": "586.55",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE STATIC ANALYZER",
+                "ItemID": 89475806,
+                "CostNet": 137.06,
+                "CostGross": "482.05",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL 5THGENERATION PRICING",
+                "ItemID": 61533121,
+                "CostNet": 180.11,
+                "CostGross": "313.03",
+                "Discount": "14.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY FRESH-THINKING CONCEP",
+                "ItemID": 77692038,
+                "CostNet": 73.53,
+                "CostGross": "528.68",
+                "Discount": "13.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INVERSE NEXT GENERATION SYNERGY",
+                "ItemID": 20837413,
+                "CostNet": 254.3,
+                "CostGross": "579.03",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED HOMOGENEOUS FUNCTION",
+                "ItemID": 94567161,
+                "CostNet": 153.6,
+                "CostGross": "511.08",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED HEURISTIC KNOWLEDGEB",
+                "ItemID": 21688908,
+                "CostNet": 230.52,
+                "CostGross": "565.65",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "HORIZONTAL UPWARD-TRENDING ARTIFICI",
+                "ItemID": 53239475,
+                "CostNet": 51.23,
+                "CostGross": "349.88",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ADVANCED SOLUTION-ORIENTED CONTINGE",
+                "ItemID": 20464610,
+                "CostNet": 71.35,
+                "CostGross": "518.49",
+                "Discount": "9.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS OPTIMAL CORE",
+                "ItemID": 70400829,
+                "CostNet": 278.42,
+                "CostGross": "442.25",
+                "Discount": "9.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED CLEAR-THINKING GRAPH",
+                "ItemID": 62980150,
+                "CostNet": 120.23,
+                "CostGross": "366.24",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FRONT-LINE FAULT-TOLERANT INTERNET ",
+                "ItemID": 78723884,
+                "CostNet": 40.97,
+                "CostGross": "334.37",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED COHERENT UTILIZATI",
+                "ItemID": 21198905,
+                "CostNet": 82.12,
+                "CostGross": "326.67",
+                "Discount": "9.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INNOVATIVE WEB-ENABLED MODERATOR",
+                "ItemID": 68862809,
+                "CostNet": 172.96,
+                "CostGross": "446.6",
+                "Discount": "11.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "INTEGRATED INCREMENTAL HELP-DESK",
+                "ItemID": 80517307,
+                "CostNet": 42.18,
+                "CostGross": "494.56",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FOCUSED 6THGENERATION COMPLEXITY",
+                "ItemID": 38237433,
+                "CostNet": 278.78,
+                "CostGross": "308.51",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED BANDWIDTH-MONITORE",
+                "ItemID": 64049938,
+                "CostNet": 151.83,
+                "CostGross": "308.95",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VISIONARY HUMAN-RESOURCE INFRASTRUC",
+                "ItemID": 43577338,
+                "CostNet": 31.62,
+                "CostGross": "327.28",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED 6THGENERATION MORATORI",
+                "ItemID": 28212792,
+                "CostNet": 268.67,
+                "CostGross": "518.65",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED STATIC FUNCTION",
+                "ItemID": 92012329,
+                "CostNet": 136.29,
+                "CostGross": "416.8",
+                "Discount": "7.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "34.55",
+            "GrossAmount": "866.23",
+            "NetAmount1": "1242.81"
+        }
+    }
+}

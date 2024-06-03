@@ -1,0 +1,165 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "933184",
+            "ChassisNumber": "AZDDECMI682323420",
+            "CarModel": "Mercedes C-Class",
+            "NumberPlate": "YT4097",
+            "CompletionDate": "25.04.2024",
+            "OrderNumber": "29733",
+            "ImmatriculationDate": "27.12.2021",
+            "Mileage": "61647"
+        },
+        "items": [
+            {
+                "ItemName": "RE-CONTEXTUALIZED MOBILE SUCCESS",
+                "ItemID": 60823804,
+                "CostNet": 155.47,
+                "CostGross": "551.85",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED REAL-TIME BENCHMARK",
+                "ItemID": 46673837,
+                "CostNet": 51.83,
+                "CostGross": "395.0",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE SYSTEM-WORTHY MO",
+                "ItemID": 91952728,
+                "CostNet": 21.17,
+                "CostGross": "455.37",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED BI-DIRECTIONAL M",
+                "ItemID": 66090217,
+                "CostNet": 233.44,
+                "CostGross": "370.37",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING ANALYZING PARALLELISM",
+                "ItemID": 80818523,
+                "CostNet": 127.12,
+                "CostGross": "570.15",
+                "Discount": "5.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED ANALYZING FRAMEWO",
+                "ItemID": 64027709,
+                "CostNet": 201.69,
+                "CostGross": "530.96",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED ANALYZING ADAPTER",
+                "ItemID": 86506026,
+                "CostNet": 268.08,
+                "CostGross": "332.23",
+                "Discount": "12.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "FOCUSED SOLUTION-ORIENTED ARCHIVE",
+                "ItemID": 66166844,
+                "CostNet": 289.77,
+                "CostGross": "371.37",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED UNIFORM MONITORING",
+                "ItemID": 42833427,
+                "CostNet": 256.25,
+                "CostGross": "455.31",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "INVERSE EXUDING PRICING STRUCTURE",
+                "ItemID": 56667420,
+                "CostNet": 23.26,
+                "CostGross": "432.14",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "INVERSE GLOBAL MONITORING",
+                "ItemID": 73243967,
+                "CostNet": 140.02,
+                "CostGross": "486.36",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE ATTITUDE-ORIENTED CONC",
+                "ItemID": 67621999,
+                "CostNet": 79.89,
+                "CostGross": "372.33",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "AMELIORATED WEB-ENABLED CAPACITY",
+                "ItemID": 75438499,
+                "CostNet": 216.72,
+                "CostGross": "537.09",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM MISSION-CRITICAL CON",
+                "ItemID": 64026800,
+                "CostNet": 222.59,
+                "CostGross": "414.44",
+                "Discount": "1.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED MULTI-STATE TOOLSE",
+                "ItemID": 45060399,
+                "CostNet": 83.89,
+                "CostGross": "511.1",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "TOTAL 4THGENERATION PRICING STRUCTU",
+                "ItemID": 76729512,
+                "CostNet": 214.85,
+                "CostGross": "410.17",
+                "Discount": "12.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ADVANCED INTANGIBLE ARCHIVE",
+                "ItemID": 76179424,
+                "CostNet": 139.97,
+                "CostGross": "308.07",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE MODULAR KNOWLEDGE USER",
+                "ItemID": 41044183,
+                "CostNet": 35.35,
+                "CostGross": "383.53",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "13.68",
+            "GrossAmount": "1687.02",
+            "NetAmount1": "1052.17"
+        }
+    }
+}

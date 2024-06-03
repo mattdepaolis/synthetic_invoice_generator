@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "475662",
+            "ChassisNumber": "FCRZUZKJ448085280",
+            "CarModel": "Audi Q8",
+            "NumberPlate": "BB3710",
+            "CompletionDate": "10.03.2020",
+            "OrderNumber": "63910",
+            "ImmatriculationDate": "03.08.2020",
+            "Mileage": "96999"
+        },
+        "items": [
+            {
+                "ItemName": "UPGRADABLE SYSTEMATIC ORCHESTRATION",
+                "ItemID": 44661812,
+                "CostNet": 164.31,
+                "CostGross": "334.07",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ROBUST TANGIBLE FOCUS GROUP",
+                "ItemID": 98960165,
+                "CostNet": 55.33,
+                "CostGross": "426.44",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SWITCHABLE NON-VOLATILE MORATORIUM",
+                "ItemID": 22018669,
+                "CostNet": 133.48,
+                "CostGross": "579.68",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY EXPLICIT WORKFORCE",
+                "ItemID": 63030041,
+                "CostNet": 286.04,
+                "CostGross": "305.86",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SYNERGIZED BI-DIRECTIONAL PRODUCT",
+                "ItemID": 28574950,
+                "CostNet": 287.14,
+                "CostGross": "425.75",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "BALANCED CLIENT-SERVER PARALLELISM",
+                "ItemID": 77973820,
+                "CostNet": 285.77,
+                "CostGross": "434.7",
+                "Discount": "4.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "ADVANCED OPTIMIZING APPLICATION",
+                "ItemID": 89345869,
+                "CostNet": 119.15,
+                "CostGross": "378.62",
+                "Discount": "15.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ERGONOMIC NATIONAL SYNERGY",
+                "ItemID": 50286942,
+                "CostNet": 192.71,
+                "CostGross": "419.06",
+                "Discount": "13.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "OPTIONAL 24HOUR PORTAL",
+                "ItemID": 82632671,
+                "CostNet": 275.92,
+                "CostGross": "531.35",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ERGONOMIC MOTIVATING TASK-FORCE",
+                "ItemID": 21724261,
+                "CostNet": 182.58,
+                "CostGross": "552.95",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PERSISTENT BACKGROUND PRODUCTIVITY",
+                "ItemID": 63495951,
+                "CostNet": 246.09,
+                "CostGross": "442.65",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED HUMAN-RESOURCE CONCE",
+                "ItemID": 74509054,
+                "CostNet": 274.5,
+                "CostGross": "569.17",
+                "Discount": "2.00%",
+                "Amount": "10.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "47.42",
+            "GrossAmount": "1066.17",
+            "NetAmount1": "1357.84"
+        }
+    }
+}

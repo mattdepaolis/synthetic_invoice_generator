@@ -1,0 +1,125 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "230785",
+            "ChassisNumber": "FPHFCVJR674387011",
+            "CarModel": "Porsche 911",
+            "NumberPlate": "TK2747",
+            "CompletionDate": "23.03.2023",
+            "OrderNumber": "34933",
+            "ImmatriculationDate": "09.03.2023",
+            "Mileage": "37798"
+        },
+        "items": [
+            {
+                "ItemName": "BUSINESS-FOCUSED RESPONSIVE TOOLSET",
+                "ItemID": 37271467,
+                "CostNet": 137.95,
+                "CostGross": "382.97",
+                "Discount": "12.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "OPERATIVE 24/7 KNOWLEDGEBASE",
+                "ItemID": 49831429,
+                "CostNet": 34.79,
+                "CostGross": "575.13",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "REALIGNED FOREGROUND ATTITUDE",
+                "ItemID": 25300657,
+                "CostNet": 140.73,
+                "CostGross": "440.62",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED ANALYZING GROUPWAR",
+                "ItemID": 46983911,
+                "CostNet": 21.49,
+                "CostGross": "401.3",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED EXUDING ACCESS",
+                "ItemID": 77137376,
+                "CostNet": 34.87,
+                "CostGross": "566.86",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED BANDWIDTH-MONITORED GR",
+                "ItemID": 27394347,
+                "CostNet": 25.09,
+                "CostGross": "300.79",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS HIGH-LEVEL OPEN SYSTEM",
+                "ItemID": 22860237,
+                "CostNet": 121.63,
+                "CostGross": "331.58",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED NON-VOLATILE HIER",
+                "ItemID": 78721296,
+                "CostNet": 129.36,
+                "CostGross": "454.78",
+                "Discount": "11.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "INNOVATIVE DYNAMIC PRODUCTIVITY",
+                "ItemID": 22049191,
+                "CostNet": 90.42,
+                "CostGross": "386.1",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ADAPTIVE CLEAR-THINKING GRAPHICAL U",
+                "ItemID": 36930457,
+                "CostNet": 60.01,
+                "CostGross": "557.64",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED CLEAR-THINKING FOCU",
+                "ItemID": 47495911,
+                "CostNet": 142.04,
+                "CostGross": "597.69",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "INNOVATIVE BACKGROUND BUDGETARY MAN",
+                "ItemID": 45641117,
+                "CostNet": 221.75,
+                "CostGross": "488.31",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ORGANIC HYBRID MORATORIUM",
+                "ItemID": 95756852,
+                "CostNet": 158.64,
+                "CostGross": "505.23",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "43.95",
+            "GrossAmount": "1187.42",
+            "NetAmount1": "1478.42"
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "100237",
+            "ChassisNumber": "PLHZBDRQ415815797",
+            "CarModel": "Kia Optima",
+            "NumberPlate": "KE3640",
+            "CompletionDate": "30.06.2021",
+            "OrderNumber": "36574",
+            "ImmatriculationDate": "07.02.2021",
+            "Mileage": "16661"
+        },
+        "items": [
+            {
+                "ItemName": "REACTIVE DEMAND-DRIVEN COLLABORATIO",
+                "ItemID": 73557473,
+                "CostNet": 65.79,
+                "CostGross": "586.29",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED CLEAR-THINKING SERVI",
+                "ItemID": 75397955,
+                "CostNet": 157.83,
+                "CostGross": "491.76",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ORGANIZED RECIPROCAL WEBSITE",
+                "ItemID": 70696974,
+                "CostNet": 16.7,
+                "CostGross": "359.71",
+                "Discount": "5.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM CONTEXTUALLY-BASED F",
+                "ItemID": 82859030,
+                "CostNet": 137.29,
+                "CostGross": "520.77",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "STREAMLINED RADICAL PROTOCOL",
+                "ItemID": 63690447,
+                "CostNet": 58.92,
+                "CostGross": "345.63",
+                "Discount": "3.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ENTERPRISE-WIDE WEB-ENABLED COLLABO",
+                "ItemID": 11291665,
+                "CostNet": 173.31,
+                "CostGross": "511.5",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED ASYNCHRONOUS ARCHIVE",
+                "ItemID": 82202055,
+                "CostNet": 253.37,
+                "CostGross": "536.07",
+                "Discount": "3.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "REACTIVE VALUE-ADDED KNOWLEDGE USER",
+                "ItemID": 23237943,
+                "CostNet": 209.48,
+                "CostGross": "377.24",
+                "Discount": "15.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "SHARABLE USER-FACING MATRIX",
+                "ItemID": 15392588,
+                "CostNet": 40.66,
+                "CostGross": "572.34",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED TANGIBLE CONTINGENCY",
+                "ItemID": 11204831,
+                "CostNet": 157.47,
+                "CostGross": "455.63",
+                "Discount": "2.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "SEAMLESS LEADINGEDGE INTERNET SOLUT",
+                "ItemID": 12717918,
+                "CostNet": 222.42,
+                "CostGross": "481.13",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE STATIC PORTAL",
+                "ItemID": 88646809,
+                "CostNet": 53.8,
+                "CostGross": "555.47",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "EXPANDED SOLUTION-ORIENTED PARALLEL",
+                "ItemID": 87779379,
+                "CostNet": 166.94,
+                "CostGross": "314.12",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP BIFURCATED ATTITUDE",
+                "ItemID": 48770924,
+                "CostNet": 143.15,
+                "CostGross": "557.07",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROFOUND LEADINGEDGE KNOWLEDGE USER",
+                "ItemID": 35628492,
+                "CostNet": 279.98,
+                "CostGross": "320.47",
+                "Discount": "1.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROFOUND METHODICAL MATRICES",
+                "ItemID": 54381528,
+                "CostNet": 39.3,
+                "CostGross": "589.52",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ORGANIZED FRESH-THINKING ALLIANCE",
+                "ItemID": 34228306,
+                "CostNet": 46.29,
+                "CostGross": "331.63",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "PERSEVERING EVEN-KEELED MORATORIUM",
+                "ItemID": 42109318,
+                "CostNet": 83.41,
+                "CostGross": "302.22",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ADAPTIVE 5THGENERATION ACCESS",
+                "ItemID": 84738581,
+                "CostNet": 174.24,
+                "CostGross": "360.21",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "REACTIVE IMPACTFUL DATA-WAREHOUSE",
+                "ItemID": 23733563,
+                "CostNet": 114.77,
+                "CostGross": "400.1",
+                "Discount": "11.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ORGANIC HIGH-LEVEL TIME-FRAME",
+                "ItemID": 29532976,
+                "CostNet": 57.27,
+                "CostGross": "396.65",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "25.14",
+            "GrossAmount": "691.54",
+            "NetAmount1": "1035.26"
+        }
+    }
+}

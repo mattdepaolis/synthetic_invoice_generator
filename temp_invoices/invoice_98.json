@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "750169",
+            "ChassisNumber": "KYZGUSPU007255210",
+            "CarModel": "Tesla Model S",
+            "NumberPlate": "QJ1283",
+            "CompletionDate": "04.09.2021",
+            "OrderNumber": "34493",
+            "ImmatriculationDate": "11.02.2021",
+            "Mileage": "83936"
+        },
+        "items": [
+            {
+                "ItemName": "DIVERSE WELL-MODULATED SUCCESS",
+                "ItemID": 78248734,
+                "CostNet": 52.17,
+                "CostGross": "486.33",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "ROBUST ASYMMETRIC MIGRATION",
+                "ItemID": 41084750,
+                "CostNet": 181.57,
+                "CostGross": "303.78",
+                "Discount": "15.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED ASYMMETRIC MATRIX",
+                "ItemID": 41986048,
+                "CostNet": 132.27,
+                "CostGross": "475.35",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL CLEAR-THINKING APPLICAT",
+                "ItemID": 31458636,
+                "CostNet": 74.29,
+                "CostGross": "599.77",
+                "Discount": "3.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP INTERMEDIATE MIDDLEWARE",
+                "ItemID": 10874008,
+                "CostNet": 38.1,
+                "CostGross": "377.92",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ORGANIZED DYNAMIC ALGORITHM",
+                "ItemID": 17893607,
+                "CostNet": 155.33,
+                "CostGross": "330.58",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "INTUITIVE HYBRID EMULATION",
+                "ItemID": 33166293,
+                "CostNet": 44.89,
+                "CostGross": "482.02",
+                "Discount": "8.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY 24/7 STRATEGY",
+                "ItemID": 65503924,
+                "CostNet": 282.28,
+                "CostGross": "400.12",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "STAND-ALONE LEADINGEDGE PRODUCTIVIT",
+                "ItemID": 25836594,
+                "CostNet": 274.79,
+                "CostGross": "570.46",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "FOCUSED RECIPROCAL SERVICE-DESK",
+                "ItemID": 62782503,
+                "CostNet": 126.53,
+                "CostGross": "523.98",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "INNOVATIVE REAL-TIME MIDDLEWARE",
+                "ItemID": 76232716,
+                "CostNet": 191.92,
+                "CostGross": "306.4",
+                "Discount": "12.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED TANGIBLE PARALLELISM",
+                "ItemID": 42437665,
+                "CostNet": 98.65,
+                "CostGross": "339.43",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "41.8",
+            "GrossAmount": "1672.01",
+            "NetAmount1": "1022.24"
+        }
+    }
+}

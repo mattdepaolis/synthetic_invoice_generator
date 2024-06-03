@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "223013",
+            "ChassisNumber": "TNDHEWGL265137580",
+            "CarModel": "Audi A4",
+            "NumberPlate": "AI4153",
+            "CompletionDate": "16.06.2020",
+            "OrderNumber": "97181",
+            "ImmatriculationDate": "06.01.2021",
+            "Mileage": "3749"
+        },
+        "items": [
+            {
+                "ItemName": "FUNCTION-BASED NEXT GENERATION FUNC",
+                "ItemID": 71380771,
+                "CostNet": 230.62,
+                "CostGross": "588.0",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED LOGISTICAL MIDDLEWA",
+                "ItemID": 20738325,
+                "CostNet": 18.75,
+                "CostGross": "549.87",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ENHANCED MISSION-CRITICAL CONCEPT",
+                "ItemID": 57570870,
+                "CostNet": 92.51,
+                "CostGross": "484.8",
+                "Discount": "11.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "EXTENDED EXUDING APPROACH",
+                "ItemID": 51766399,
+                "CostNet": 53.56,
+                "CostGross": "367.99",
+                "Discount": "9.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "ASSIMILATED SOLUTION-ORIENTED OPEN ",
+                "ItemID": 12466445,
+                "CostNet": 216.14,
+                "CostGross": "529.88",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "VIRTUAL MOBILE BENCHMARK",
+                "ItemID": 47644380,
+                "CostNet": 59.35,
+                "CostGross": "313.4",
+                "Discount": "6.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP WELL-MODULATED INFRASTR",
+                "ItemID": 92694749,
+                "CostNet": 269.94,
+                "CostGross": "329.91",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED CONTEXT-SENSITIVE",
+                "ItemID": 53318960,
+                "CostNet": 153.0,
+                "CostGross": "490.23",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UP-SIZED NEUTRAL ABILITY",
+                "ItemID": 85401922,
+                "CostNet": 100.75,
+                "CostGross": "439.97",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "AUTOMATED MULTI-STATE ENCRYPTION",
+                "ItemID": 75642310,
+                "CostNet": 233.97,
+                "CostGross": "359.28",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SECURED COHERENT THROUGHPUT",
+                "ItemID": 22336458,
+                "CostNet": 191.05,
+                "CostGross": "322.53",
+                "Discount": "5.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE COHESIVE EXTRANET",
+                "ItemID": 92411368,
+                "CostNet": 159.05,
+                "CostGross": "491.77",
+                "Discount": "14.00%",
+                "Amount": "10.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "15.03",
+            "GrossAmount": "1324.96",
+            "NetAmount1": "437.28"
+        }
+    }
+}

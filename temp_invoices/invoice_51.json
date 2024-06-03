@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "439979",
+            "ChassisNumber": "ITNTVCUJ829856325",
+            "CarModel": "Tesla Model S",
+            "NumberPlate": "UV6618",
+            "CompletionDate": "25.01.2023",
+            "OrderNumber": "62576",
+            "ImmatriculationDate": "12.03.2022",
+            "Mileage": "59342"
+        },
+        "items": [
+            {
+                "ItemName": "INTEGRATED IMPACTFUL ARRAY",
+                "ItemID": 89413568,
+                "CostNet": 63.86,
+                "CostGross": "507.71",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DIGITIZED LOGISTICAL PROJECTION",
+                "ItemID": 42486917,
+                "CostNet": 165.04,
+                "CostGross": "477.33",
+                "Discount": "1.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ERGONOMIC CONTEXT-SENSITIVE POLICY",
+                "ItemID": 10194539,
+                "CostNet": 86.08,
+                "CostGross": "534.93",
+                "Discount": "13.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING MODULAR PORTAL",
+                "ItemID": 90313563,
+                "CostNet": 278.11,
+                "CostGross": "535.6",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "REALIGNED REGIONAL SERVICE-DESK",
+                "ItemID": 11599936,
+                "CostNet": 233.17,
+                "CostGross": "305.81",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "VISIONARY ENCOMPASSING WEBSITE",
+                "ItemID": 18839151,
+                "CostNet": 100.05,
+                "CostGross": "388.36",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PROACTIVE TANGIBLE HELP-DESK",
+                "ItemID": 82021590,
+                "CostNet": 12.04,
+                "CostGross": "388.79",
+                "Discount": "9.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "STAND-ALONE METHODICAL PROCESS IMPR",
+                "ItemID": 60234775,
+                "CostNet": 169.83,
+                "CostGross": "301.54",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL RECIPROCAL PRODUCT",
+                "ItemID": 93940953,
+                "CostNet": 196.84,
+                "CostGross": "355.04",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL FRESH-THINKING SUPERSTR",
+                "ItemID": 63432889,
+                "CostNet": 173.71,
+                "CostGross": "412.56",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED STABLE MORATORIUM",
+                "ItemID": 46445693,
+                "CostNet": 30.58,
+                "CostGross": "461.61",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ENHANCED EMPOWERING ARRAY",
+                "ItemID": 52876755,
+                "CostNet": 175.32,
+                "CostGross": "424.71",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED 6THGENERATION INTERFACE",
+                "ItemID": 88788169,
+                "CostNet": 120.14,
+                "CostGross": "355.65",
+                "Discount": "3.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "UP-SIZED CLEAR-THINKING GRAPHICAL U",
+                "ItemID": 77011839,
+                "CostNet": 231.45,
+                "CostGross": "364.32",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "AMELIORATED RESPONSIVE HUB",
+                "ItemID": 16446557,
+                "CostNet": 149.58,
+                "CostGross": "577.83",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "38.71",
+            "GrossAmount": "1083.99",
+            "NetAmount1": "1263.37"
+        }
+    }
+}

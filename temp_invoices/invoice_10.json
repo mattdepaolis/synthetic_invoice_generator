@@ -1,0 +1,109 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "612881",
+            "ChassisNumber": "NNQMPYQQ717240920",
+            "CarModel": "Hyundai Elantra",
+            "NumberPlate": "XT1349",
+            "CompletionDate": "25.02.2023",
+            "OrderNumber": "36670",
+            "ImmatriculationDate": "17.02.2024",
+            "Mileage": "73419"
+        },
+        "items": [
+            {
+                "ItemName": "DEVOLVED NEUTRAL SOFTWARE",
+                "ItemID": 72288101,
+                "CostNet": 144.1,
+                "CostGross": "582.29",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED DIDACTIC OPEN SYSTEM",
+                "ItemID": 61163471,
+                "CostNet": 164.37,
+                "CostGross": "513.54",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED UPWARD-TRENDING KN",
+                "ItemID": 69253627,
+                "CostNet": 161.35,
+                "CostGross": "342.79",
+                "Discount": "12.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "SWITCHABLE WELL-MODULATED DATABASE",
+                "ItemID": 56915583,
+                "CostNet": 212.03,
+                "CostGross": "306.76",
+                "Discount": "8.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ASSIMILATED COHESIVE DATA-WAREHOUSE",
+                "ItemID": 59719343,
+                "CostNet": 152.72,
+                "CostGross": "469.05",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED NON-VOLATILE DATA-",
+                "ItemID": 74064747,
+                "CostNet": 107.04,
+                "CostGross": "477.94",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "AMELIORATED RADICAL PARADIGM",
+                "ItemID": 96972720,
+                "CostNet": 202.13,
+                "CostGross": "403.95",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY FULL-RANGE SYNERGY",
+                "ItemID": 51937355,
+                "CostNet": 106.18,
+                "CostGross": "465.28",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ADVANCED OPTIMAL ALLIANCE",
+                "ItemID": 65986258,
+                "CostNet": 270.62,
+                "CostGross": "334.99",
+                "Discount": "1.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED 24/7 LEVERAGE",
+                "ItemID": 29146894,
+                "CostNet": 72.74,
+                "CostGross": "333.77",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED RECIPROCAL CIRCUIT",
+                "ItemID": 16776743,
+                "CostNet": 298.04,
+                "CostGross": "441.19",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "10.61",
+            "GrossAmount": "1773.11",
+            "NetAmount1": "591.09"
+        }
+    }
+}

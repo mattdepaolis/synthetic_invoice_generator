@@ -1,0 +1,149 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "376766",
+            "ChassisNumber": "WAFPHNMK655344930",
+            "CarModel": "Mazda 3",
+            "NumberPlate": "EL9948",
+            "CompletionDate": "17.08.2020",
+            "OrderNumber": "20719",
+            "ImmatriculationDate": "06.06.2020",
+            "Mileage": "13474"
+        },
+        "items": [
+            {
+                "ItemName": "PRE-EMPTIVE TERTIARY INTRANET",
+                "ItemID": 44052325,
+                "CostNet": 29.47,
+                "CostGross": "399.36",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE EXPLICIT PROTOCOL",
+                "ItemID": 12050071,
+                "CostNet": 39.5,
+                "CostGross": "486.99",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE ANALYZING PRODUCT",
+                "ItemID": 40727991,
+                "CostNet": 123.91,
+                "CostGross": "318.02",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SYNERGIZED CLIENT-SERVER PROCESS IM",
+                "ItemID": 49179647,
+                "CostNet": 142.15,
+                "CostGross": "583.86",
+                "Discount": "14.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "REDUCED BI-DIRECTIONAL METHODOLOGY",
+                "ItemID": 76476386,
+                "CostNet": 288.65,
+                "CostGross": "554.05",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "VISIONARY REAL-TIME MODEL",
+                "ItemID": 12038604,
+                "CostNet": 206.12,
+                "CostGross": "481.7",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "MONITORED HOMOGENEOUS ALGORITHM",
+                "ItemID": 39314222,
+                "CostNet": 204.35,
+                "CostGross": "550.51",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE DIDACTIC HIERARCHY",
+                "ItemID": 65875626,
+                "CostNet": 231.95,
+                "CostGross": "373.54",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "REDUCED BI-DIRECTIONAL DATABASE",
+                "ItemID": 63006495,
+                "CostNet": 133.4,
+                "CostGross": "451.6",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ROBUST GLOBAL DEFINITION",
+                "ItemID": 62741276,
+                "CostNet": 39.11,
+                "CostGross": "310.84",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE REAL-TIME SYSTEM ENGIN",
+                "ItemID": 66190439,
+                "CostNet": 243.71,
+                "CostGross": "403.35",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC MOBILE THROUGHPUT",
+                "ItemID": 66503429,
+                "CostNet": 178.03,
+                "CostGross": "371.87",
+                "Discount": "14.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SEAMLESS FRESH-THINKING FUNCTIONALI",
+                "ItemID": 31391758,
+                "CostNet": 166.15,
+                "CostGross": "418.74",
+                "Discount": "11.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC IMPACTFUL SOFTWARE",
+                "ItemID": 18551793,
+                "CostNet": 251.21,
+                "CostGross": "532.02",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "VIRTUAL MAXIMIZED SOLUTION",
+                "ItemID": 97685361,
+                "CostNet": 92.54,
+                "CostGross": "559.26",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL OBJECT-ORIENTED MATRICE",
+                "ItemID": 33352989,
+                "CostNet": 33.94,
+                "CostGross": "454.63",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "46.74",
+            "GrossAmount": "1112.78",
+            "NetAmount1": "1001.39"
+        }
+    }
+}

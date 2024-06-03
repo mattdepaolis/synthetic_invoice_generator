@@ -1,0 +1,125 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "120287",
+            "ChassisNumber": "HGDLFQUU315487600",
+            "CarModel": "Jaguar F-Type",
+            "NumberPlate": "JP2379",
+            "CompletionDate": "09.05.2023",
+            "OrderNumber": "48995",
+            "ImmatriculationDate": "14.04.2022",
+            "Mileage": "27059"
+        },
+        "items": [
+            {
+                "ItemName": "SHARABLE CONTEXT-SENSITIVE PORTAL",
+                "ItemID": 37243983,
+                "CostNet": 44.12,
+                "CostGross": "311.03",
+                "Discount": "7.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED COMPOSITE UTILIZATIO",
+                "ItemID": 60455469,
+                "CostNet": 210.47,
+                "CostGross": "506.49",
+                "Discount": "11.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "INTUITIVE RECIPROCAL THROUGHPUT",
+                "ItemID": 84930440,
+                "CostNet": 185.76,
+                "CostGross": "529.78",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED OPTIMAL OPEN ARCHITEC",
+                "ItemID": 88896742,
+                "CostNet": 251.79,
+                "CostGross": "310.37",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING INTANGIBLE COMPLEXITY",
+                "ItemID": 89187250,
+                "CostNet": 22.42,
+                "CostGross": "526.54",
+                "Discount": "1.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "AUTOMATED ATTITUDE-ORIENTED MATRICE",
+                "ItemID": 53593545,
+                "CostNet": 52.23,
+                "CostGross": "362.49",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "REDUCED LOGISTICAL ARCHIVE",
+                "ItemID": 54306465,
+                "CostNet": 178.38,
+                "CostGross": "394.17",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED RECIPROCAL FUNCTION",
+                "ItemID": 34756178,
+                "CostNet": 164.49,
+                "CostGross": "563.58",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED WELL-MODULATED COR",
+                "ItemID": 84774791,
+                "CostNet": 170.2,
+                "CostGross": "313.42",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "VISIONARY SECONDARY HELP-DESK",
+                "ItemID": 33185529,
+                "CostNet": 292.26,
+                "CostGross": "408.44",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SYNCHRONIZED GRID-ENABLED FLEXIBILI",
+                "ItemID": 54960342,
+                "CostNet": 83.86,
+                "CostGross": "469.5",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "ERGONOMIC HOLISTIC WEBSITE",
+                "ItemID": 55087192,
+                "CostNet": 135.9,
+                "CostGross": "490.98",
+                "Discount": "2.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "AMELIORATED COHERENT SOLUTION",
+                "ItemID": 42043012,
+                "CostNet": 34.98,
+                "CostGross": "523.66",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "42.31",
+            "GrossAmount": "570.39",
+            "NetAmount1": "1339.65"
+        }
+    }
+}

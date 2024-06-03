@@ -1,0 +1,109 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "337088",
+            "ChassisNumber": "LQJBOBDF373236206",
+            "CarModel": "Volvo XC90",
+            "NumberPlate": "IR1638",
+            "CompletionDate": "04.02.2020",
+            "OrderNumber": "30177",
+            "ImmatriculationDate": "11.01.2020",
+            "Mileage": "56535"
+        },
+        "items": [
+            {
+                "ItemName": "UP-SIZED CLIENT-DRIVEN HUB",
+                "ItemID": 16102111,
+                "CostNet": 145.71,
+                "CostGross": "592.23",
+                "Discount": "15.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "ENTERPRISE-WIDE COHESIVE CAPABILITY",
+                "ItemID": 49798146,
+                "CostNet": 109.5,
+                "CostGross": "574.61",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "SYNCHRONIZED NEXT GENERATION ENCRYP",
+                "ItemID": 97543080,
+                "CostNet": 84.87,
+                "CostGross": "352.36",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PERSISTENT SCALABLE DATABASE",
+                "ItemID": 70804572,
+                "CostNet": 297.6,
+                "CostGross": "316.21",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "EXTENDED SECONDARY GRAPHICAL USER I",
+                "ItemID": 40596521,
+                "CostNet": 81.58,
+                "CostGross": "478.08",
+                "Discount": "15.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "TOTAL HOMOGENEOUS PRODUCTIVITY",
+                "ItemID": 58680505,
+                "CostNet": 108.99,
+                "CostGross": "471.09",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "CLONED INTANGIBLE TIME-FRAME",
+                "ItemID": 96314420,
+                "CostNet": 274.13,
+                "CostGross": "529.26",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL UPWARD-TRENDING MODEL",
+                "ItemID": 27745850,
+                "CostNet": 255.4,
+                "CostGross": "435.39",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "OPTIMIZED DISCRETE SUPERSTRUCTURE",
+                "ItemID": 58338847,
+                "CostNet": 281.74,
+                "CostGross": "538.5",
+                "Discount": "9.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED INTANGIBLE MATRICES",
+                "ItemID": 48741983,
+                "CostNet": 108.51,
+                "CostGross": "581.89",
+                "Discount": "9.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED ECO-CENTRIC DATA-WARE",
+                "ItemID": 89312836,
+                "CostNet": 123.16,
+                "CostGross": "300.74",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "49.66",
+            "GrossAmount": "629.18",
+            "NetAmount1": "1405.26"
+        }
+    }
+}

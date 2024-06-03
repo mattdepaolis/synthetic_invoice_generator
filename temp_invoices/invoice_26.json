@@ -1,0 +1,101 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "301245",
+            "ChassisNumber": "IRCVGKSN777980935",
+            "CarModel": "Audi Q8",
+            "NumberPlate": "LH3600",
+            "CompletionDate": "04.01.2020",
+            "OrderNumber": "43863",
+            "ImmatriculationDate": "15.07.2023",
+            "Mileage": "66374"
+        },
+        "items": [
+            {
+                "ItemName": "VERSATILE EVEN-KEELED LEVERAGE",
+                "ItemID": 97783086,
+                "CostNet": 255.16,
+                "CostGross": "375.89",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC CLEAR-THINKING CONCEPT",
+                "ItemID": 36553128,
+                "CostNet": 10.53,
+                "CostGross": "347.56",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ENHANCED INCREMENTAL CAPACITY",
+                "ItemID": 72174618,
+                "CostNet": 229.15,
+                "CostGross": "490.93",
+                "Discount": "3.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED NEEDS-BASED UTILIZ",
+                "ItemID": 17381215,
+                "CostNet": 62.74,
+                "CostGross": "342.83",
+                "Discount": "5.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "STREAMLINED SCALABLE SUCCESS",
+                "ItemID": 58597548,
+                "CostNet": 45.8,
+                "CostGross": "338.31",
+                "Discount": "14.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INTUITIVE CONTENT-BASED CONCEPT",
+                "ItemID": 32022991,
+                "CostNet": 104.28,
+                "CostGross": "475.45",
+                "Discount": "15.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "AUTOMATED FRESH-THINKING ALGORITHM",
+                "ItemID": 27070791,
+                "CostNet": 173.61,
+                "CostGross": "484.13",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "INTEGRATED CONTEXT-SENSITIVE ABILIT",
+                "ItemID": 13927239,
+                "CostNet": 37.2,
+                "CostGross": "353.05",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE LOGISTICAL PORTAL",
+                "ItemID": 80122828,
+                "CostNet": 281.87,
+                "CostGross": "356.97",
+                "Discount": "2.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED MISSION-CRITICAL HIERAR",
+                "ItemID": 88798925,
+                "CostNet": 75.15,
+                "CostGross": "566.59",
+                "Discount": "14.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "29.28",
+            "GrossAmount": "530.46",
+            "NetAmount1": "1115.57"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "576179",
+            "ChassisNumber": "SPDJSZDW166614891",
+            "CarModel": "Porsche 911",
+            "NumberPlate": "BB2752",
+            "CompletionDate": "14.02.2023",
+            "OrderNumber": "21359",
+            "ImmatriculationDate": "21.07.2022",
+            "Mileage": "68327"
+        },
+        "items": [
+            {
+                "ItemName": "EXCLUSIVE HOMOGENEOUS ARTIFICIAL IN",
+                "ItemID": 49100756,
+                "CostNet": 190.17,
+                "CostGross": "471.83",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY HYBRID CONGLOMERATION",
+                "ItemID": 58567808,
+                "CostNet": 292.55,
+                "CostGross": "492.99",
+                "Discount": "14.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "REDUCED MODULAR ALLIANCE",
+                "ItemID": 65144084,
+                "CostNet": 251.78,
+                "CostGross": "315.44",
+                "Discount": "7.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "EXTENDED COHESIVE GROUPWARE",
+                "ItemID": 73700323,
+                "CostNet": 179.7,
+                "CostGross": "508.16",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "INNOVATIVE LOGISTICAL PRICING STRUC",
+                "ItemID": 15972340,
+                "CostNet": 215.9,
+                "CostGross": "554.04",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED ZERO-DEFECT INFRAS",
+                "ItemID": 91181643,
+                "CostNet": 191.52,
+                "CostGross": "331.9",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "30.5",
+            "GrossAmount": "978.63",
+            "NetAmount1": "841.88"
+        }
+    }
+}

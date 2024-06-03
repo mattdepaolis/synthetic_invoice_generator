@@ -1,0 +1,157 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "672568",
+            "ChassisNumber": "HSTQBRHX338097889",
+            "CarModel": "Subaru Impreza",
+            "NumberPlate": "RH4869",
+            "CompletionDate": "25.09.2021",
+            "OrderNumber": "15755",
+            "ImmatriculationDate": "29.10.2022",
+            "Mileage": "82194"
+        },
+        "items": [
+            {
+                "ItemName": "MANAGED CONTEXT-SENSITIVE ALLIANCE",
+                "ItemID": 49201047,
+                "CostNet": 243.55,
+                "CostGross": "374.67",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED DIRECTIONAL DEFINI",
+                "ItemID": 28018062,
+                "CostNet": 165.04,
+                "CostGross": "547.59",
+                "Discount": "6.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "MANAGED BACKGROUND MODERATOR",
+                "ItemID": 23722861,
+                "CostNet": 13.28,
+                "CostGross": "374.64",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FRONT-LINE 6THGENERATION INTERNET S",
+                "ItemID": 72901589,
+                "CostNet": 294.8,
+                "CostGross": "361.92",
+                "Discount": "7.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED GRID-ENABLED OPEN ARCH",
+                "ItemID": 25437381,
+                "CostNet": 116.64,
+                "CostGross": "559.29",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE HYBRID SERVICE-DESK",
+                "ItemID": 38734269,
+                "CostNet": 123.12,
+                "CostGross": "397.09",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED MODULAR INSTRUCT",
+                "ItemID": 39251724,
+                "CostNet": 57.77,
+                "CostGross": "555.87",
+                "Discount": "11.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC EMPOWERING CAPACITY",
+                "ItemID": 41071517,
+                "CostNet": 265.96,
+                "CostGross": "348.3",
+                "Discount": "1.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS NEXT GENERATION MONITOR",
+                "ItemID": 10292689,
+                "CostNet": 171.16,
+                "CostGross": "578.79",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ENHANCED NON-VOLATILE CUSTOMER LOYA",
+                "ItemID": 93223842,
+                "CostNet": 251.49,
+                "CostGross": "532.97",
+                "Discount": "8.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED VALUE-ADDED LOCAL AR",
+                "ItemID": 40717852,
+                "CostNet": 111.02,
+                "CostGross": "496.1",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VISIONARY UPWARD-TRENDING ACCESS",
+                "ItemID": 92651504,
+                "CostNet": 161.66,
+                "CostGross": "325.91",
+                "Discount": "1.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE 5THGENERATION CONCEPT",
+                "ItemID": 49504960,
+                "CostNet": 114.56,
+                "CostGross": "571.59",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED ACTUATING POLICY",
+                "ItemID": 96967772,
+                "CostNet": 290.21,
+                "CostGross": "567.52",
+                "Discount": "5.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "HORIZONTAL NATIONAL GRAPHICAL USER ",
+                "ItemID": 44477580,
+                "CostNet": 142.53,
+                "CostGross": "304.09",
+                "Discount": "2.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL LOGISTICAL BENCHMARK",
+                "ItemID": 66526123,
+                "CostNet": 260.19,
+                "CostGross": "561.06",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CLONED ASYMMETRIC ANALYZER",
+                "ItemID": 44199575,
+                "CostNet": 132.65,
+                "CostGross": "306.36",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "43.32",
+            "GrossAmount": "1731.23",
+            "NetAmount1": "908.79"
+        }
+    }
+}

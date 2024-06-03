@@ -1,0 +1,133 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "253363",
+            "ChassisNumber": "YITRLHOQ212112512",
+            "CarModel": "Lamborghini Huracan",
+            "NumberPlate": "WZ7329",
+            "CompletionDate": "18.12.2020",
+            "OrderNumber": "61652",
+            "ImmatriculationDate": "14.02.2021",
+            "Mileage": "60432"
+        },
+        "items": [
+            {
+                "ItemName": "CLONED ACTUATING MIDDLEWARE",
+                "ItemID": 44945999,
+                "CostNet": 253.41,
+                "CostGross": "437.84",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED BACKGROUND FIRMWAR",
+                "ItemID": 59305827,
+                "CostNet": 135.09,
+                "CostGross": "556.75",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC 5THGENERATION SOFTWARE",
+                "ItemID": 53239572,
+                "CostNet": 93.11,
+                "CostGross": "574.9",
+                "Discount": "5.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED 6THGENERATION PORTAL",
+                "ItemID": 17644520,
+                "CostNet": 99.66,
+                "CostGross": "388.41",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MANAGED EXPLICIT LEVERAGE",
+                "ItemID": 53164321,
+                "CostNet": 50.23,
+                "CostGross": "404.67",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED FAULT-TOLERANT HIERA",
+                "ItemID": 66596744,
+                "CostNet": 250.88,
+                "CostGross": "348.65",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED DIDACTIC FUNCTIO",
+                "ItemID": 98795486,
+                "CostNet": 90.25,
+                "CostGross": "450.32",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED CLEAR-THINKING MOD",
+                "ItemID": 59079564,
+                "CostNet": 128.55,
+                "CostGross": "596.63",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PERSEVERING HOLISTIC PARALLELISM",
+                "ItemID": 70931977,
+                "CostNet": 93.05,
+                "CostGross": "537.63",
+                "Discount": "1.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FOCUSED METHODICAL ALLIANCE",
+                "ItemID": 85365219,
+                "CostNet": 174.97,
+                "CostGross": "381.89",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ORGANIC MISSION-CRITICAL INFRASTRUC",
+                "ItemID": 25628916,
+                "CostNet": 160.83,
+                "CostGross": "332.03",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED FOREGROUND PARADIGM",
+                "ItemID": 12624706,
+                "CostNet": 166.28,
+                "CostGross": "459.75",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "OPTIMIZED DIDACTIC SYNERGY",
+                "ItemID": 32850223,
+                "CostNet": 57.41,
+                "CostGross": "521.83",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DEVOLVED METHODICAL BENCHMARK",
+                "ItemID": 79477462,
+                "CostNet": 88.12,
+                "CostGross": "382.93",
+                "Discount": "13.00%",
+                "Amount": "3.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "30.96",
+            "GrossAmount": "902.31",
+            "NetAmount1": "1238.91"
+        }
+    }
+}

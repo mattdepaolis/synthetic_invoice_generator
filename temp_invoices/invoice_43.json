@@ -1,0 +1,101 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "849033",
+            "ChassisNumber": "TEOQWWSM431452507",
+            "CarModel": "Toyota Corolla",
+            "NumberPlate": "SF8572",
+            "CompletionDate": "07.02.2021",
+            "OrderNumber": "72502",
+            "ImmatriculationDate": "23.06.2022",
+            "Mileage": "76833"
+        },
+        "items": [
+            {
+                "ItemName": "DEVOLVED ANALYZING POLICY",
+                "ItemID": 24834431,
+                "CostNet": 192.04,
+                "CostGross": "527.37",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE SYSTEMATIC OPEN ARCHIT",
+                "ItemID": 79997202,
+                "CostNet": 54.55,
+                "CostGross": "344.56",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CLONED MAXIMIZED TIME-FRAME",
+                "ItemID": 59378764,
+                "CostNet": 87.19,
+                "CostGross": "537.51",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED MULTI-TASKING SYSTEM",
+                "ItemID": 61649977,
+                "CostNet": 250.5,
+                "CostGross": "322.0",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DIGITIZED ZERO ADMINISTRATION IMPLE",
+                "ItemID": 94430046,
+                "CostNet": 250.3,
+                "CostGross": "402.11",
+                "Discount": "3.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "ORGANIC ZERO ADMINISTRATION ALLIANC",
+                "ItemID": 12981213,
+                "CostNet": 258.52,
+                "CostGross": "304.1",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "PROACTIVE HEURISTIC FOCUS GROUP",
+                "ItemID": 13758244,
+                "CostNet": 74.77,
+                "CostGross": "308.44",
+                "Discount": "14.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "INTUITIVE TANGIBLE ENCODING",
+                "ItemID": 16378765,
+                "CostNet": 292.07,
+                "CostGross": "387.96",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FACE-TO-FACE UNIFORM CONGLOMERATION",
+                "ItemID": 70120300,
+                "CostNet": 13.38,
+                "CostGross": "476.69",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED DIDACTIC CORE",
+                "ItemID": 85363416,
+                "CostNet": 38.64,
+                "CostGross": "523.76",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "49.01",
+            "GrossAmount": "993.53",
+            "NetAmount1": "845.11"
+        }
+    }
+}

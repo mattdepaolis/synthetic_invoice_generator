@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "363726",
+            "ChassisNumber": "EBUJCDWY551384361",
+            "CarModel": "Dodge Charger",
+            "NumberPlate": "FH4361",
+            "CompletionDate": "29.06.2020",
+            "OrderNumber": "54871",
+            "ImmatriculationDate": "23.04.2023",
+            "Mileage": "70189"
+        },
+        "items": [
+            {
+                "ItemName": "CUSTOMIZABLE GRID-ENABLED PRODUCTIV",
+                "ItemID": 58351835,
+                "CostNet": 275.64,
+                "CostGross": "340.75",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPERATIVE TANGIBLE HARDWARE",
+                "ItemID": 52563828,
+                "CostNet": 235.82,
+                "CostGross": "353.49",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "REALIGNED STATIC FORECAST",
+                "ItemID": 35536167,
+                "CostNet": 140.19,
+                "CostGross": "399.82",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ENHANCED DISCRETE DEFINITION",
+                "ItemID": 85388409,
+                "CostNet": 119.8,
+                "CostGross": "371.18",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ORGANIZED OBJECT-ORIENTED SOFTWARE",
+                "ItemID": 12934465,
+                "CostNet": 243.4,
+                "CostGross": "486.79",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "STAND-ALONE MAXIMIZED TIME-FRAME",
+                "ItemID": 50247543,
+                "CostNet": 93.7,
+                "CostGross": "499.21",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "GRASS-ROOTS ATTITUDE-ORIENTED CAPAB",
+                "ItemID": 26221595,
+                "CostNet": 236.88,
+                "CostGross": "300.45",
+                "Discount": "5.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "MANDATORY ASYNCHRONOUS CONGLOMERATI",
+                "ItemID": 90100404,
+                "CostNet": 287.51,
+                "CostGross": "449.39",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "31.46",
+            "GrossAmount": "595.44",
+            "NetAmount1": "496.46"
+        }
+    }
+}

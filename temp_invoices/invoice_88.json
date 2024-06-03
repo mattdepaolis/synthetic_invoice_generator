@@ -1,0 +1,173 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "291325",
+            "ChassisNumber": "AJZUXRGR222694725",
+            "CarModel": "Nissan Maxima",
+            "NumberPlate": "TK7760",
+            "CompletionDate": "08.08.2021",
+            "OrderNumber": "89258",
+            "ImmatriculationDate": "14.11.2021",
+            "Mileage": "46794"
+        },
+        "items": [
+            {
+                "ItemName": "REACTIVE INCREMENTAL TASK-FORCE",
+                "ItemID": 71215141,
+                "CostNet": 51.5,
+                "CostGross": "363.18",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MULTI-LAYERED VALUE-ADDED DATABASE",
+                "ItemID": 96301205,
+                "CostNet": 33.99,
+                "CostGross": "456.53",
+                "Discount": "1.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "INVERSE COHESIVE SOLUTION",
+                "ItemID": 94616977,
+                "CostNet": 103.74,
+                "CostGross": "546.21",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPERATIVE HYBRID OPEN SYSTEM",
+                "ItemID": 65637571,
+                "CostNet": 193.22,
+                "CostGross": "430.52",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PROACTIVE DIDACTIC EMULATION",
+                "ItemID": 23064486,
+                "CostNet": 34.85,
+                "CostGross": "480.01",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ASSIMILATED SYSTEMIC LEVERAGE",
+                "ItemID": 50787249,
+                "CostNet": 218.29,
+                "CostGross": "527.06",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "ROBUST BACKGROUND PORTAL",
+                "ItemID": 28571472,
+                "CostNet": 247.3,
+                "CostGross": "384.15",
+                "Discount": "5.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED HOLISTIC SOFTWARE",
+                "ItemID": 21120198,
+                "CostNet": 133.21,
+                "CostGross": "322.74",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "COMPATIBLE DEMAND-DRIVEN FORECAST",
+                "ItemID": 33334673,
+                "CostNet": 247.41,
+                "CostGross": "341.8",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED SYSTEMATIC CONTING",
+                "ItemID": 88267706,
+                "CostNet": 40.56,
+                "CostGross": "376.02",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED TANGIBLE ALLIANCE",
+                "ItemID": 36404448,
+                "CostNet": 234.83,
+                "CostGross": "427.43",
+                "Discount": "6.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "REDUCED MISSION-CRITICAL TOOLSET",
+                "ItemID": 96423253,
+                "CostNet": 153.91,
+                "CostGross": "545.42",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "EXTENDED MAXIMIZED CAPACITY",
+                "ItemID": 92443927,
+                "CostNet": 254.33,
+                "CostGross": "416.64",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "INNOVATIVE 4THGENERATION INFO-MEDIA",
+                "ItemID": 71333203,
+                "CostNet": 64.9,
+                "CostGross": "359.84",
+                "Discount": "13.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROFIT-FOCUSED ATTITUDE-ORIENTED EN",
+                "ItemID": 99926234,
+                "CostNet": 235.5,
+                "CostGross": "528.95",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PERSEVERING ECO-CENTRIC ATTITUDE",
+                "ItemID": 62973187,
+                "CostNet": 289.85,
+                "CostGross": "491.98",
+                "Discount": "7.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE MULTIMEDIA PARALLELISM",
+                "ItemID": 30080626,
+                "CostNet": 274.67,
+                "CostGross": "328.08",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FOCUSED SOLUTION-ORIENTED PARADIGM",
+                "ItemID": 59898708,
+                "CostNet": 197.34,
+                "CostGross": "584.47",
+                "Discount": "4.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "UP-SIZED RECIPROCAL PARADIGM",
+                "ItemID": 94286331,
+                "CostNet": 220.02,
+                "CostGross": "387.99",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "24.93",
+            "GrossAmount": "699.06",
+            "NetAmount1": "1176.91"
+        }
+    }
+}

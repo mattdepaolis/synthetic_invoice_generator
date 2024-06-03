@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "744597",
+            "ChassisNumber": "MRLLULCZ806471685",
+            "CarModel": "Jaguar F-Type",
+            "NumberPlate": "HD4174",
+            "CompletionDate": "09.09.2023",
+            "OrderNumber": "24989",
+            "ImmatriculationDate": "11.09.2020",
+            "Mileage": "86872"
+        },
+        "items": [
+            {
+                "ItemName": "UPGRADABLE 6THGENERATION CUSTOMER L",
+                "ItemID": 85128578,
+                "CostNet": 27.45,
+                "CostGross": "358.44",
+                "Discount": "2.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED REGIONAL FUNCTION",
+                "ItemID": 31358654,
+                "CostNet": 95.9,
+                "CostGross": "335.2",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC UPWARD-TRENDING METHODO",
+                "ItemID": 11984881,
+                "CostNet": 72.65,
+                "CostGross": "320.8",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DIVERSE 4THGENERATION DATA-WAREHOUS",
+                "ItemID": 98122391,
+                "CostNet": 220.47,
+                "CostGross": "553.55",
+                "Discount": "6.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED MAXIMIZED SECURED",
+                "ItemID": 31944355,
+                "CostNet": 90.52,
+                "CostGross": "556.08",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PERSISTENT 4THGENERATION PRODUCT",
+                "ItemID": 96646078,
+                "CostNet": 140.78,
+                "CostGross": "462.3",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PROFOUND OPTIMIZING ENCRYPTION",
+                "ItemID": 75033857,
+                "CostNet": 59.81,
+                "CostGross": "362.09",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED HUMAN-RESOURCE FOCUS G",
+                "ItemID": 31915036,
+                "CostNet": 292.58,
+                "CostGross": "347.93",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED NEXT GENERATION FRAMEWOR",
+                "ItemID": 32175417,
+                "CostNet": 162.71,
+                "CostGross": "455.32",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED EXPLICIT SERVICE-DESK",
+                "ItemID": 45174903,
+                "CostNet": 222.27,
+                "CostGross": "465.87",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED GRID-ENABLED MIGR",
+                "ItemID": 11042234,
+                "CostNet": 91.88,
+                "CostGross": "528.75",
+                "Discount": "12.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED INTERMEDIATE KNOWLEDG",
+                "ItemID": 97241795,
+                "CostNet": 187.16,
+                "CostGross": "459.34",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "36.7",
+            "GrossAmount": "1030.4",
+            "NetAmount1": "1448.18"
+        }
+    }
+}

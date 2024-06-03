@@ -1,0 +1,109 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "921416",
+            "ChassisNumber": "EYMFRGND595469168",
+            "CarModel": "Maserati Quattroporte",
+            "NumberPlate": "LC8572",
+            "CompletionDate": "03.02.2022",
+            "OrderNumber": "50967",
+            "ImmatriculationDate": "12.12.2022",
+            "Mileage": "44391"
+        },
+        "items": [
+            {
+                "ItemName": "FUNDAMENTAL 24HOUR TASK-FORCE",
+                "ItemID": 62794258,
+                "CostNet": 258.24,
+                "CostGross": "532.79",
+                "Discount": "3.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE RECIPROCAL CIRCUIT",
+                "ItemID": 36625337,
+                "CostNet": 147.32,
+                "CostGross": "509.42",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM FRESH-THINKING CAPAC",
+                "ItemID": 64648676,
+                "CostNet": 16.67,
+                "CostGross": "555.69",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY ACTUATING ABILITY",
+                "ItemID": 59318026,
+                "CostNet": 30.17,
+                "CostGross": "567.07",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CENTRALIZED EXECUTIVE FRAMEWORK",
+                "ItemID": 43581374,
+                "CostNet": 23.24,
+                "CostGross": "549.86",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "SYNCHRONIZED NATIONAL COLLABORATION",
+                "ItemID": 16948681,
+                "CostNet": 146.54,
+                "CostGross": "538.62",
+                "Discount": "8.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "FRONT-LINE RECIPROCAL INTRANET",
+                "ItemID": 71618752,
+                "CostNet": 283.04,
+                "CostGross": "542.76",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "BALANCED HEURISTIC PROTOCOL",
+                "ItemID": 50447386,
+                "CostNet": 182.61,
+                "CostGross": "521.47",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DIVERSE MULTI-TASKING PROJECTION",
+                "ItemID": 19852943,
+                "CostNet": 263.14,
+                "CostGross": "419.51",
+                "Discount": "12.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE SYSTEMATIC FRAME",
+                "ItemID": 36565888,
+                "CostNet": 160.97,
+                "CostGross": "562.1",
+                "Discount": "10.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "OPERATIVE HUMAN-RESOURCE FRAME",
+                "ItemID": 36852709,
+                "CostNet": 78.73,
+                "CostGross": "565.39",
+                "Discount": "8.00%",
+                "Amount": "10.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "47.8",
+            "GrossAmount": "1543.04",
+            "NetAmount1": "1302.76"
+        }
+    }
+}

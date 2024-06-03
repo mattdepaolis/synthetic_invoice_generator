@@ -1,0 +1,181 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "997472",
+            "ChassisNumber": "EHNDFMKR364442241",
+            "CarModel": "Jeep Wrangler",
+            "NumberPlate": "HD2587",
+            "CompletionDate": "02.04.2021",
+            "OrderNumber": "59140",
+            "ImmatriculationDate": "28.05.2021",
+            "Mileage": "36827"
+        },
+        "items": [
+            {
+                "ItemName": "SHARABLE FULL-RANGE LOCAL AREA NETW",
+                "ItemID": 11716708,
+                "CostNet": 33.63,
+                "CostGross": "454.64",
+                "Discount": "14.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE NON-VOLATILE WEBSITE",
+                "ItemID": 91200000,
+                "CostNet": 174.84,
+                "CostGross": "474.61",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "PUBLIC-KEY HOMOGENEOUS FRAME",
+                "ItemID": 67184243,
+                "CostNet": 249.49,
+                "CostGross": "464.42",
+                "Discount": "3.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE MOTIVATING WEBSITE",
+                "ItemID": 75806469,
+                "CostNet": 157.72,
+                "CostGross": "448.58",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED ATTITUDE-ORIENTED ",
+                "ItemID": 48436200,
+                "CostNet": 25.09,
+                "CostGross": "492.6",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "REALIGNED ATTITUDE-ORIENTED CONCEPT",
+                "ItemID": 58269114,
+                "CostNet": 102.94,
+                "CostGross": "468.77",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED STABLE CIRCUIT",
+                "ItemID": 16312292,
+                "CostNet": 21.26,
+                "CostGross": "514.31",
+                "Discount": "15.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "VISIONARY NEXT GENERATION SYNERGY",
+                "ItemID": 55864658,
+                "CostNet": 162.98,
+                "CostGross": "562.11",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ADVANCED TRANSITIONAL POLICY",
+                "ItemID": 84723790,
+                "CostNet": 115.34,
+                "CostGross": "301.04",
+                "Discount": "1.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OPERATIVE GRID-ENABLED HARDWARE",
+                "ItemID": 91688363,
+                "CostNet": 49.1,
+                "CostGross": "591.07",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED ASYNCHRONOUS GRAPHIC ",
+                "ItemID": 80407413,
+                "CostNet": 100.79,
+                "CostGross": "515.15",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "OPEN-ARCHITECTED CLIENT-SERVER SUPP",
+                "ItemID": 30973621,
+                "CostNet": 11.62,
+                "CostGross": "374.14",
+                "Discount": "6.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "BALANCED BACKGROUND EMULATION",
+                "ItemID": 50590218,
+                "CostNet": 50.14,
+                "CostGross": "308.12",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SWITCHABLE LOGISTICAL MATRICES",
+                "ItemID": 21819114,
+                "CostNet": 85.21,
+                "CostGross": "331.55",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ENTERPRISE-WIDE CLIENT-SERVER ANALY",
+                "ItemID": 71926565,
+                "CostNet": 39.78,
+                "CostGross": "567.69",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE CLIENT-SERVER ALLIANCE",
+                "ItemID": 43156861,
+                "CostNet": 277.13,
+                "CostGross": "512.73",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED MULTI-STATE MIDDLEW",
+                "ItemID": 42462427,
+                "CostNet": 58.77,
+                "CostGross": "458.26",
+                "Discount": "2.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "ENHANCED COMPOSITE CUSTOMER LOYALTY",
+                "ItemID": 21953820,
+                "CostNet": 165.21,
+                "CostGross": "501.92",
+                "Discount": "15.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ENHANCED HEURISTIC INITIATIVE",
+                "ItemID": 30336722,
+                "CostNet": 53.82,
+                "CostGross": "506.35",
+                "Discount": "9.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL RADICAL PRODUCTIVITY",
+                "ItemID": 73740535,
+                "CostNet": 278.69,
+                "CostGross": "520.95",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "30.35",
+            "GrossAmount": "684.05",
+            "NetAmount1": "1344.67"
+        }
+    }
+}

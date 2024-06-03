@@ -1,0 +1,133 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "740143",
+            "ChassisNumber": "AZTTCUJQ869396543",
+            "CarModel": "Rolls Royce Phantom",
+            "NumberPlate": "NN6183",
+            "CompletionDate": "21.05.2021",
+            "OrderNumber": "35160",
+            "ImmatriculationDate": "10.07.2022",
+            "Mileage": "78643"
+        },
+        "items": [
+            {
+                "ItemName": "BALANCED METHODICAL STRUCTURE",
+                "ItemID": 32179456,
+                "CostNet": 275.34,
+                "CostGross": "540.63",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ENHANCED CONTEXTUALLY-BASED PROTOCO",
+                "ItemID": 27086841,
+                "CostNet": 202.12,
+                "CostGross": "348.2",
+                "Discount": "12.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SWITCHABLE RADICAL SUCCESS",
+                "ItemID": 16709192,
+                "CostNet": 29.22,
+                "CostGross": "556.95",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PERSEVERING IMPACTFUL ORCHESTRATION",
+                "ItemID": 56469305,
+                "CostNet": 253.2,
+                "CostGross": "550.48",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "INTUITIVE NEEDS-BASED EMULATION",
+                "ItemID": 36399573,
+                "CostNet": 96.32,
+                "CostGross": "394.4",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DEVOLVED GRID-ENABLED CAPABILITY",
+                "ItemID": 37696974,
+                "CostNet": 257.83,
+                "CostGross": "501.32",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PERSISTENT GLOBAL ATTITUDE",
+                "ItemID": 39533990,
+                "CostNet": 272.87,
+                "CostGross": "362.02",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PHASED SYSTEMATIC INFRASTRUCTURE",
+                "ItemID": 92986323,
+                "CostNet": 288.5,
+                "CostGross": "387.57",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED FRESH-THINKING COR",
+                "ItemID": 99205093,
+                "CostNet": 276.6,
+                "CostGross": "390.42",
+                "Discount": "2.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE HOLISTIC PROTOCOL",
+                "ItemID": 99264222,
+                "CostNet": 276.1,
+                "CostGross": "386.42",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "TOTAL EXPLICIT DATABASE",
+                "ItemID": 68932268,
+                "CostNet": 258.76,
+                "CostGross": "475.65",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CUSTOMIZABLE NEEDS-BASED SERVICE-DE",
+                "ItemID": 79503691,
+                "CostNet": 189.32,
+                "CostGross": "323.81",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED EXUDING INSTRUCT",
+                "ItemID": 43571459,
+                "CostNet": 280.5,
+                "CostGross": "408.28",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED ATTITUDE-ORIENTED S",
+                "ItemID": 60419464,
+                "CostNet": 16.57,
+                "CostGross": "583.34",
+                "Discount": "11.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "25.3",
+            "GrossAmount": "991.37",
+            "NetAmount1": "649.73"
+        }
+    }
+}

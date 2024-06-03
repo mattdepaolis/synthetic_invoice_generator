@@ -1,0 +1,165 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "589286",
+            "ChassisNumber": "XQLVMNDT149118733",
+            "CarModel": "Toyota Corolla",
+            "NumberPlate": "NH6006",
+            "CompletionDate": "04.04.2022",
+            "OrderNumber": "13508",
+            "ImmatriculationDate": "14.06.2022",
+            "Mileage": "83875"
+        },
+        "items": [
+            {
+                "ItemName": "REALIGNED CONTENT-BASED CONTINGENCY",
+                "ItemID": 17623206,
+                "CostNet": 60.61,
+                "CostGross": "449.21",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC BANDWIDTH-MONITORED ME",
+                "ItemID": 68109125,
+                "CostNet": 289.28,
+                "CostGross": "408.5",
+                "Discount": "5.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM SYSTEMIC EXTRANET",
+                "ItemID": 15767211,
+                "CostNet": 27.18,
+                "CostGross": "572.96",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY GLOBAL SOFTWARE",
+                "ItemID": 39515158,
+                "CostNet": 11.44,
+                "CostGross": "359.34",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "UNIVERSAL 5THGENERATION FUNCTION",
+                "ItemID": 65964842,
+                "CostNet": 251.46,
+                "CostGross": "446.35",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL HUMAN-RESOURCE MORATORI",
+                "ItemID": 70663821,
+                "CostNet": 219.18,
+                "CostGross": "420.59",
+                "Discount": "4.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "FULLY-CONFIGURABLE DEMAND-DRIVEN MO",
+                "ItemID": 14080671,
+                "CostNet": 241.24,
+                "CostGross": "408.82",
+                "Discount": "15.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "AUTOMATED MISSION-CRITICAL SYNERGY",
+                "ItemID": 12840905,
+                "CostNet": 122.98,
+                "CostGross": "490.34",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE USER-FACING HUB",
+                "ItemID": 25966448,
+                "CostNet": 231.91,
+                "CostGross": "450.92",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE SYSTEMIC LOCAL AREA NE",
+                "ItemID": 84029832,
+                "CostNet": 265.19,
+                "CostGross": "315.63",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED WELL-MODULATED NEURAL-NE",
+                "ItemID": 47223722,
+                "CostNet": 184.31,
+                "CostGross": "475.43",
+                "Discount": "13.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED CONTENT-BASED GROUPWARE",
+                "ItemID": 44487154,
+                "CostNet": 292.3,
+                "CostGross": "480.42",
+                "Discount": "11.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "AUTOMATED NATIONAL TOOLSET",
+                "ItemID": 59005230,
+                "CostNet": 285.6,
+                "CostGross": "561.71",
+                "Discount": "7.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED TANGIBLE INTRANET",
+                "ItemID": 37257073,
+                "CostNet": 121.02,
+                "CostGross": "553.95",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ASSIMILATED CONTEXT-SENSITIVE SOFTW",
+                "ItemID": 94894854,
+                "CostNet": 251.06,
+                "CostGross": "476.48",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED REAL-TIME SYNERGY",
+                "ItemID": 62393374,
+                "CostNet": 129.86,
+                "CostGross": "538.81",
+                "Discount": "7.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED SYSTEMIC DATA-WAREH",
+                "ItemID": 67138200,
+                "CostNet": 75.72,
+                "CostGross": "520.11",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "BALANCED VALUE-ADDED PROJECTION",
+                "ItemID": 19630235,
+                "CostNet": 299.09,
+                "CostGross": "551.57",
+                "Discount": "6.00%",
+                "Amount": "8.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "46.01",
+            "GrossAmount": "501.37",
+            "NetAmount1": "1221.34"
+        }
+    }
+}

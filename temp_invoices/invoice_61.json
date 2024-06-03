@@ -1,0 +1,165 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "342151",
+            "ChassisNumber": "KDSHEJYV382576273",
+            "CarModel": "BMW X3",
+            "NumberPlate": "LG0121",
+            "CompletionDate": "13.10.2021",
+            "OrderNumber": "13172",
+            "ImmatriculationDate": "17.07.2022",
+            "Mileage": "55537"
+        },
+        "items": [
+            {
+                "ItemName": "ORGANIZED DEMAND-DRIVEN WEBSITE",
+                "ItemID": 84393729,
+                "CostNet": 88.28,
+                "CostGross": "573.87",
+                "Discount": "9.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED UNIFORM SUPERSTRUC",
+                "ItemID": 13888277,
+                "CostNet": 102.76,
+                "CostGross": "556.91",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OPTIMIZED DIDACTIC INSTALLATION",
+                "ItemID": 91256600,
+                "CostNet": 237.51,
+                "CostGross": "364.55",
+                "Discount": "5.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "PERSISTENT NEEDS-BASED MODEL",
+                "ItemID": 33258085,
+                "CostNet": 142.79,
+                "CostGross": "308.35",
+                "Discount": "10.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "HORIZONTAL HUMAN-RESOURCE FRAME",
+                "ItemID": 60515254,
+                "CostNet": 223.98,
+                "CostGross": "480.9",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC WELL-MODULATED LOCAL AR",
+                "ItemID": 62161964,
+                "CostNet": 234.55,
+                "CostGross": "399.37",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED ATTITUDE-ORIENTED FOR",
+                "ItemID": 44721957,
+                "CostNet": 71.62,
+                "CostGross": "540.34",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CLONED OBJECT-ORIENTED ENCODING",
+                "ItemID": 77192407,
+                "CostNet": 228.68,
+                "CostGross": "407.98",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED 24HOUR INFO-MEDIAR",
+                "ItemID": 19839316,
+                "CostNet": 264.29,
+                "CostGross": "570.28",
+                "Discount": "7.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "REACTIVE REGIONAL METHODOLOGY",
+                "ItemID": 31674412,
+                "CostNet": 62.83,
+                "CostGross": "499.86",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "DIGITIZED 24HOUR PROCESS IMPROVEMEN",
+                "ItemID": 54851025,
+                "CostNet": 278.17,
+                "CostGross": "559.91",
+                "Discount": "15.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL FAULT-TOLERANT SOFTWARE",
+                "ItemID": 73283908,
+                "CostNet": 49.09,
+                "CostGross": "519.94",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM SYSTEMIC FLEXIBILITY",
+                "ItemID": 71148027,
+                "CostNet": 38.29,
+                "CostGross": "328.66",
+                "Discount": "5.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ERGONOMIC SYSTEMIC CHALLENGE",
+                "ItemID": 21125434,
+                "CostNet": 52.99,
+                "CostGross": "362.68",
+                "Discount": "13.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "TOTAL ZERO-DEFECT INSTALLATION",
+                "ItemID": 31472874,
+                "CostNet": 219.53,
+                "CostGross": "346.84",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "ADAPTIVE INTERMEDIATE BENCHMARK",
+                "ItemID": 15621860,
+                "CostNet": 247.8,
+                "CostGross": "542.14",
+                "Discount": "13.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "OPERATIVE COHESIVE LOCAL AREA NETWO",
+                "ItemID": 64386890,
+                "CostNet": 277.87,
+                "CostGross": "468.76",
+                "Discount": "9.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "DECENTRALIZED CLEAR-THINKING CAPACI",
+                "ItemID": 41579085,
+                "CostNet": 199.33,
+                "CostGross": "552.57",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "22.89",
+            "GrossAmount": "1503.16",
+            "NetAmount1": "865.22"
+        }
+    }
+}

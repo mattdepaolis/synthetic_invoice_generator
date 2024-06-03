@@ -1,0 +1,117 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "456785",
+            "ChassisNumber": "MGERKDID207213447",
+            "CarModel": "Hyundai Sonata",
+            "NumberPlate": "DE1532",
+            "CompletionDate": "18.01.2022",
+            "OrderNumber": "33791",
+            "ImmatriculationDate": "08.09.2021",
+            "Mileage": "40371"
+        },
+        "items": [
+            {
+                "ItemName": "ADAPTIVE SECONDARY ALGORITHM",
+                "ItemID": 69470996,
+                "CostNet": 215.69,
+                "CostGross": "345.63",
+                "Discount": "7.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED HIGH-LEVEL INTRANET",
+                "ItemID": 96498220,
+                "CostNet": 171.6,
+                "CostGross": "500.84",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "POLARIZED BACKGROUND BENCHMARK",
+                "ItemID": 83254220,
+                "CostNet": 222.64,
+                "CostGross": "553.29",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "MONITORED MULTI-STATE ENCODING",
+                "ItemID": 88444666,
+                "CostNet": 54.59,
+                "CostGross": "330.98",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED ASYMMETRIC ENCRYPTI",
+                "ItemID": 82108534,
+                "CostNet": 31.83,
+                "CostGross": "589.75",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "STREAMLINED EXUDING HIERARCHY",
+                "ItemID": 38268100,
+                "CostNet": 96.01,
+                "CostGross": "485.24",
+                "Discount": "4.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED ZERO ADMINISTRATION FO",
+                "ItemID": 33024028,
+                "CostNet": 129.27,
+                "CostGross": "414.11",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SYNERGIZED MOBILE ARCHITECTURE",
+                "ItemID": 44637955,
+                "CostNet": 98.26,
+                "CostGross": "319.93",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "NETWORKED ATTITUDE-ORIENTED OPEN SY",
+                "ItemID": 24671907,
+                "CostNet": 118.63,
+                "CostGross": "305.27",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SYNERGISTIC EVEN-KEELED CORE",
+                "ItemID": 74836194,
+                "CostNet": 39.47,
+                "CostGross": "380.21",
+                "Discount": "4.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "SYNCHRONIZED STATIC APPROACH",
+                "ItemID": 28371252,
+                "CostNet": 180.69,
+                "CostGross": "454.23",
+                "Discount": "5.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED RECIPROCAL FRAME",
+                "ItemID": 76056372,
+                "CostNet": 79.58,
+                "CostGross": "400.71",
+                "Discount": "2.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "26.97",
+            "GrossAmount": "1283.34",
+            "NetAmount1": "446.23"
+        }
+    }
+}

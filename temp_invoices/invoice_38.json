@@ -1,0 +1,101 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "894288",
+            "ChassisNumber": "HFQFJGMX960546205",
+            "CarModel": "Nissan Maxima",
+            "NumberPlate": "PW4478",
+            "CompletionDate": "22.09.2020",
+            "OrderNumber": "23010",
+            "ImmatriculationDate": "22.07.2021",
+            "Mileage": "11766"
+        },
+        "items": [
+            {
+                "ItemName": "TOTAL REAL-TIME MIDDLEWARE",
+                "ItemID": 43203657,
+                "CostNet": 222.55,
+                "CostGross": "323.99",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED UPWARD-TRENDING GRA",
+                "ItemID": 57864239,
+                "CostNet": 194.77,
+                "CostGross": "597.75",
+                "Discount": "15.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL CLEAR-THINKING FRAMEW",
+                "ItemID": 81486849,
+                "CostNet": 75.53,
+                "CostGross": "531.63",
+                "Discount": "1.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED FAULT-TOLERANT MORAT",
+                "ItemID": 43161220,
+                "CostNet": 123.48,
+                "CostGross": "474.42",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING NON-VOLATILE FUNCTION",
+                "ItemID": 27356520,
+                "CostNet": 162.73,
+                "CostGross": "332.15",
+                "Discount": "8.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "EXPANDED MOBILE OPEN ARCHITECTURE",
+                "ItemID": 28576777,
+                "CostNet": 203.35,
+                "CostGross": "345.75",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FOCUSED EXECUTIVE FIRMWARE",
+                "ItemID": 49449959,
+                "CostNet": 184.74,
+                "CostGross": "543.91",
+                "Discount": "9.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ADAPTIVE 24HOUR FIRMWARE",
+                "ItemID": 92431460,
+                "CostNet": 275.61,
+                "CostGross": "456.84",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED 3RDGENERATION DEFINITION",
+                "ItemID": 78522335,
+                "CostNet": 199.96,
+                "CostGross": "394.5",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED RESPONSIVE FRAME",
+                "ItemID": 85950731,
+                "CostNet": 221.31,
+                "CostGross": "369.58",
+                "Discount": "2.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "20.35",
+            "GrossAmount": "771.41",
+            "NetAmount1": "976.85"
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "472818",
+            "ChassisNumber": "DGBHQVRG707047597",
+            "CarModel": "Ferrari 488",
+            "NumberPlate": "WE5428",
+            "CompletionDate": "10.09.2022",
+            "OrderNumber": "72659",
+            "ImmatriculationDate": "29.01.2022",
+            "Mileage": "94180"
+        },
+        "items": [
+            {
+                "ItemName": "REACTIVE CONTENT-BASED CONGLOMERATI",
+                "ItemID": 46943362,
+                "CostNet": 216.56,
+                "CostGross": "424.23",
+                "Discount": "5.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "SWITCHABLE COMPOSITE ENCODING",
+                "ItemID": 67972747,
+                "CostNet": 243.82,
+                "CostGross": "485.4",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UNIVERSAL ANALYZING CHALLENGE",
+                "ItemID": 28162996,
+                "CostNet": 220.75,
+                "CostGross": "306.75",
+                "Discount": "5.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "IMPLEMENTED STABLE MATRICES",
+                "ItemID": 70486095,
+                "CostNet": 137.74,
+                "CostGross": "548.34",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MANDATORY RADICAL ATTITUDE",
+                "ItemID": 46701016,
+                "CostNet": 184.97,
+                "CostGross": "307.6",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE UNIFORM NEURAL-NET",
+                "ItemID": 34569677,
+                "CostNet": 43.58,
+                "CostGross": "433.35",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "INNOVATIVE SYSTEMIC INTERNET SOLUTI",
+                "ItemID": 94028910,
+                "CostNet": 132.63,
+                "CostGross": "581.57",
+                "Discount": "2.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ORGANIC CLIENT-DRIVEN STRATEGY",
+                "ItemID": 23423960,
+                "CostNet": 162.77,
+                "CostGross": "579.67",
+                "Discount": "7.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "FUNCTION-BASED EXUDING STANDARDIZAT",
+                "ItemID": 16166551,
+                "CostNet": 117.37,
+                "CostGross": "350.13",
+                "Discount": "14.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "DIGITIZED FULL-RANGE WORKFORCE",
+                "ItemID": 36045265,
+                "CostNet": 226.68,
+                "CostGross": "536.12",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "COMPATIBLE DEMAND-DRIVEN MODEL",
+                "ItemID": 33101728,
+                "CostNet": 150.89,
+                "CostGross": "519.22",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED ECO-CENTRIC ALLIANCE",
+                "ItemID": 68047407,
+                "CostNet": 111.61,
+                "CostGross": "378.45",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "REDUCED MULTIMEDIA HIERARCHY",
+                "ItemID": 86264189,
+                "CostNet": 64.26,
+                "CostGross": "467.86",
+                "Discount": "5.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MONITORED DEMAND-DRIVEN STRUCTURE",
+                "ItemID": 13413551,
+                "CostNet": 254.33,
+                "CostGross": "466.72",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "ADVANCED USER-FACING COLLABORATION",
+                "ItemID": 97838235,
+                "CostNet": 133.54,
+                "CostGross": "343.91",
+                "Discount": "3.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED SYSTEMIC ORCHESTRAT",
+                "ItemID": 84217645,
+                "CostNet": 18.03,
+                "CostGross": "422.44",
+                "Discount": "2.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED DEMAND-DRIVEN CUST",
+                "ItemID": 44779824,
+                "CostNet": 274.38,
+                "CostGross": "418.08",
+                "Discount": "15.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "IMPLEMENTED SCALABLE DATABASE",
+                "ItemID": 12177794,
+                "CostNet": 23.52,
+                "CostGross": "494.27",
+                "Discount": "2.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "14.98",
+            "GrossAmount": "1908.98",
+            "NetAmount1": "842.87"
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "932710",
+            "ChassisNumber": "OPYTGZQO719911470",
+            "CarModel": "Volvo XC90",
+            "NumberPlate": "JI8558",
+            "CompletionDate": "19.03.2022",
+            "OrderNumber": "97141",
+            "ImmatriculationDate": "15.08.2020",
+            "Mileage": "49463"
+        },
+        "items": [
+            {
+                "ItemName": "VISIONARY CLIENT-SERVER INSTALLATIO",
+                "ItemID": 58629649,
+                "CostNet": 191.38,
+                "CostGross": "452.72",
+                "Discount": "14.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "EXPANDED ACTUATING ARRAY",
+                "ItemID": 89713744,
+                "CostNet": 208.57,
+                "CostGross": "498.18",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DIGITIZED GRID-ENABLED METHODOLOGY",
+                "ItemID": 37064230,
+                "CostNet": 248.45,
+                "CostGross": "434.82",
+                "Discount": "6.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM HOLISTIC SOLUTION",
+                "ItemID": 58546584,
+                "CostNet": 69.8,
+                "CostGross": "381.81",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CLONED EXECUTIVE THROUGHPUT",
+                "ItemID": 30266627,
+                "CostNet": 113.9,
+                "CostGross": "398.38",
+                "Discount": "15.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "HORIZONTAL CONTENT-BASED STRUCTURE",
+                "ItemID": 99722214,
+                "CostNet": 29.69,
+                "CostGross": "372.09",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PROACTIVE CONTENT-BASED ENCRYPTION",
+                "ItemID": 54220444,
+                "CostNet": 200.75,
+                "CostGross": "356.32",
+                "Discount": "10.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM BANDWIDTH-MONITORED ",
+                "ItemID": 77419847,
+                "CostNet": 59.37,
+                "CostGross": "555.44",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED INTANGIBLE ANALYZER",
+                "ItemID": 25349170,
+                "CostNet": 66.32,
+                "CostGross": "591.32",
+                "Discount": "3.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED MAXIMIZED KNOWLEDGE",
+                "ItemID": 94486087,
+                "CostNet": 16.37,
+                "CostGross": "554.46",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CUSTOMER-FOCUSED REGIONAL MATRICES",
+                "ItemID": 72285507,
+                "CostNet": 264.3,
+                "CostGross": "441.11",
+                "Discount": "2.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "STREAMLINED OBJECT-ORIENTED SOFTWAR",
+                "ItemID": 75382908,
+                "CostNet": 295.69,
+                "CostGross": "422.06",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "EXCLUSIVE OBJECT-ORIENTED GRAPHICAL",
+                "ItemID": 28145251,
+                "CostNet": 148.51,
+                "CostGross": "409.7",
+                "Discount": "12.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED 24HOUR MODEL",
+                "ItemID": 40347002,
+                "CostNet": 86.79,
+                "CostGross": "560.14",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "SEAMLESS BIFURCATED MORATORIUM",
+                "ItemID": 98499696,
+                "CostNet": 88.66,
+                "CostGross": "446.55",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "18.62",
+            "GrossAmount": "1725.21",
+            "NetAmount1": "1002.04"
+        }
+    }
+}

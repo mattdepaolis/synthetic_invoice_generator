@@ -1,0 +1,69 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "931520",
+            "ChassisNumber": "TGAZMSTA211128673",
+            "CarModel": "Volkswagen Golf",
+            "NumberPlate": "HC6593",
+            "CompletionDate": "09.05.2021",
+            "OrderNumber": "55806",
+            "ImmatriculationDate": "14.08.2021",
+            "Mileage": "31505"
+        },
+        "items": [
+            {
+                "ItemName": "DISTRIBUTED BIFURCATED EXTRANET",
+                "ItemID": 80951261,
+                "CostNet": 279.56,
+                "CostGross": "498.23",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ERGONOMIC INCREMENTAL SYNERGY",
+                "ItemID": 47156161,
+                "CostNet": 22.69,
+                "CostGross": "488.81",
+                "Discount": "11.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "INVERSE MOTIVATING ALLIANCE",
+                "ItemID": 39198916,
+                "CostNet": 31.52,
+                "CostGross": "526.29",
+                "Discount": "10.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "ORGANIC NEUTRAL OPEN SYSTEM",
+                "ItemID": 38512132,
+                "CostNet": 282.4,
+                "CostGross": "487.87",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "INTEGRATED ATTITUDE-ORIENTED ENCRYP",
+                "ItemID": 39445916,
+                "CostNet": 94.47,
+                "CostGross": "377.65",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED INCREMENTAL SOLUTION",
+                "ItemID": 54001638,
+                "CostNet": 289.78,
+                "CostGross": "457.15",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "35.61",
+            "GrossAmount": "1405.49",
+            "NetAmount1": "1431.57"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "841878",
+            "ChassisNumber": "VXETLQEH628305516",
+            "CarModel": "Honda Accord",
+            "NumberPlate": "HN7898",
+            "CompletionDate": "11.03.2022",
+            "OrderNumber": "28157",
+            "ImmatriculationDate": "13.09.2021",
+            "Mileage": "3024"
+        },
+        "items": [
+            {
+                "ItemName": "CROSS-GROUP TERTIARY PORTAL",
+                "ItemID": 91918364,
+                "CostNet": 63.16,
+                "CostGross": "373.02",
+                "Discount": "3.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MULTI-LAYERED STATIC ACCESS",
+                "ItemID": 74444547,
+                "CostNet": 121.82,
+                "CostGross": "394.63",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "SYNERGIZED NON-VOLATILE MATRICES",
+                "ItemID": 80166227,
+                "CostNet": 12.31,
+                "CostGross": "342.02",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE HOMOGENEOUS MIDDLEWARE",
+                "ItemID": 16582727,
+                "CostNet": 26.92,
+                "CostGross": "577.32",
+                "Discount": "1.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "SYNERGIZED FULL-RANGE CONCEPT",
+                "ItemID": 12656284,
+                "CostNet": 209.49,
+                "CostGross": "523.28",
+                "Discount": "6.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "QUALITY-FOCUSED SYSTEMATIC FLEXIBIL",
+                "ItemID": 42737379,
+                "CostNet": 99.52,
+                "CostGross": "550.65",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "MULTI-TIERED SYSTEMIC GROUPWARE",
+                "ItemID": 61607086,
+                "CostNet": 52.85,
+                "CostGross": "494.02",
+                "Discount": "5.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY ZERO-DEFECT BENCHMARK",
+                "ItemID": 18489939,
+                "CostNet": 278.24,
+                "CostGross": "505.27",
+                "Discount": "2.00%",
+                "Amount": "5.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "24.0",
+            "GrossAmount": "506.82",
+            "NetAmount1": "1365.49"
+        }
+    }
+}

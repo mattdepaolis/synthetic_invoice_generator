@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "481869",
+            "ChassisNumber": "HCZUBWER935362304",
+            "CarModel": "BMW M5",
+            "NumberPlate": "LE8088",
+            "CompletionDate": "13.06.2023",
+            "OrderNumber": "29963",
+            "ImmatriculationDate": "20.06.2023",
+            "Mileage": "41296"
+        },
+        "items": [
+            {
+                "ItemName": "SEAMLESS ENCOMPASSING MODEL",
+                "ItemID": 39930444,
+                "CostNet": 252.41,
+                "CostGross": "543.77",
+                "Discount": "14.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC WEB-ENABLED THROUGHPUT",
+                "ItemID": 59073511,
+                "CostNet": 132.85,
+                "CostGross": "428.3",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "CROSS-GROUP CONTEXTUALLY-BASED HIER",
+                "ItemID": 34675321,
+                "CostNet": 262.64,
+                "CostGross": "390.36",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE TRANSITIONAL DATABASE",
+                "ItemID": 37448813,
+                "CostNet": 12.41,
+                "CostGross": "430.31",
+                "Discount": "7.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "RE-CONTEXTUALIZED COHESIVE PARADIGM",
+                "ItemID": 74929460,
+                "CostNet": 110.97,
+                "CostGross": "419.92",
+                "Discount": "8.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "REALIGNED DEDICATED DATA-WAREHOUSE",
+                "ItemID": 78620968,
+                "CostNet": 208.14,
+                "CostGross": "478.76",
+                "Discount": "15.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "BALANCED HYBRID SYSTEM ENGINE",
+                "ItemID": 78443720,
+                "CostNet": 232.92,
+                "CostGross": "540.44",
+                "Discount": "12.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FUTURE-PROOFED RESPONSIVE ACCESS",
+                "ItemID": 11500621,
+                "CostNet": 181.44,
+                "CostGross": "469.74",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "31.48",
+            "GrossAmount": "1052.19",
+            "NetAmount1": "598.81"
+        }
+    }
+}

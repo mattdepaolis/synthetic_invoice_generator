@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "261562",
+            "ChassisNumber": "IUFGDDEQ773667861",
+            "CarModel": "Ferrari 488",
+            "NumberPlate": "GX1336",
+            "CompletionDate": "12.12.2020",
+            "OrderNumber": "99839",
+            "ImmatriculationDate": "19.02.2020",
+            "Mileage": "29165"
+        },
+        "items": [
+            {
+                "ItemName": "POLARIZED CONTENT-BASED PRICING STR",
+                "ItemID": 34689517,
+                "CostNet": 283.9,
+                "CostGross": "521.27",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "DE-ENGINEERED EXECUTIVE INTERNET SO",
+                "ItemID": 71514713,
+                "CostNet": 86.62,
+                "CostGross": "529.3",
+                "Discount": "1.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "MULTI-CHANNELED 24/7 LOCAL AREA NET",
+                "ItemID": 82934053,
+                "CostNet": 272.75,
+                "CostGross": "440.07",
+                "Discount": "10.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED IMPACTFUL CUSTOMER ",
+                "ItemID": 48816911,
+                "CostNet": 281.03,
+                "CostGross": "580.46",
+                "Discount": "6.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "ADVANCED ATTITUDE-ORIENTED TASK-FOR",
+                "ItemID": 83117403,
+                "CostNet": 42.22,
+                "CostGross": "398.89",
+                "Discount": "13.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING ZERO TOLERANCE INFRAS",
+                "ItemID": 35377149,
+                "CostNet": 209.46,
+                "CostGross": "322.21",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "STAND-ALONE SYSTEMATIC PRODUCT",
+                "ItemID": 22035481,
+                "CostNet": 53.54,
+                "CostGross": "451.72",
+                "Discount": "14.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED DEMAND-DRIVEN PROCESS IM",
+                "ItemID": 99022573,
+                "CostNet": 150.48,
+                "CostGross": "325.7",
+                "Discount": "8.00%",
+                "Amount": "7.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "36.11",
+            "GrossAmount": "960.77",
+            "NetAmount1": "588.44"
+        }
+    }
+}

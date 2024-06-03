@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "315039",
+            "ChassisNumber": "NVDEAMLT941649078",
+            "CarModel": "Tesla Model S",
+            "NumberPlate": "GS7813",
+            "CompletionDate": "27.10.2021",
+            "OrderNumber": "26744",
+            "ImmatriculationDate": "13.07.2022",
+            "Mileage": "23049"
+        },
+        "items": [
+            {
+                "ItemName": "MULTI-LAYERED DIRECTIONAL ARCHITECT",
+                "ItemID": 92771174,
+                "CostNet": 261.29,
+                "CostGross": "524.41",
+                "Discount": "13.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "DISTRIBUTED NON-VOLATILE INTRANET",
+                "ItemID": 28520595,
+                "CostNet": 255.53,
+                "CostGross": "319.52",
+                "Discount": "13.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED HOMOGENEOUS INTERFACE",
+                "ItemID": 46269278,
+                "CostNet": 196.51,
+                "CostGross": "497.25",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "ROBUST VALUE-ADDED GRAPHICAL USER I",
+                "ItemID": 17095286,
+                "CostNet": 44.73,
+                "CostGross": "340.32",
+                "Discount": "7.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FRONT-LINE FOREGROUND SOFTWARE",
+                "ItemID": 63961447,
+                "CostNet": 27.29,
+                "CostGross": "377.46",
+                "Discount": "4.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "FRONT-LINE OPTIMIZING TASK-FORCE",
+                "ItemID": 44853857,
+                "CostNet": 192.75,
+                "CostGross": "550.86",
+                "Discount": "4.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "USER-CENTRIC INTERMEDIATE FIRMWARE",
+                "ItemID": 75873404,
+                "CostNet": 115.54,
+                "CostGross": "464.89",
+                "Discount": "6.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PHASED FRESH-THINKING COLLABORATION",
+                "ItemID": 66321338,
+                "CostNet": 45.72,
+                "CostGross": "435.68",
+                "Discount": "1.00%",
+                "Amount": "3.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "22.8",
+            "GrossAmount": "1757.95",
+            "NetAmount1": "1461.52"
+        }
+    }
+}

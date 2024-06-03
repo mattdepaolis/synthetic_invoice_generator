@@ -1,0 +1,85 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "392694",
+            "ChassisNumber": "KQOAGHSG560654411",
+            "CarModel": "Volkswagen Passat",
+            "NumberPlate": "MQ4790",
+            "CompletionDate": "18.03.2022",
+            "OrderNumber": "96104",
+            "ImmatriculationDate": "08.04.2023",
+            "Mileage": "23860"
+        },
+        "items": [
+            {
+                "ItemName": "ASSIMILATED SYSTEM-WORTHY CHALLENGE",
+                "ItemID": 66622184,
+                "CostNet": 128.84,
+                "CostGross": "310.18",
+                "Discount": "11.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PROFOUND INTERACTIVE SERVICE-DESK",
+                "ItemID": 56637875,
+                "CostNet": 15.84,
+                "CostGross": "409.25",
+                "Discount": "14.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED BACKGROUND APPLICATION",
+                "ItemID": 77644870,
+                "CostNet": 182.2,
+                "CostGross": "398.45",
+                "Discount": "11.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "ASSIMILATED WELL-MODULATED ALLIANCE",
+                "ItemID": 65151989,
+                "CostNet": 269.32,
+                "CostGross": "539.8",
+                "Discount": "14.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UPGRADABLE COHERENT ENCODING",
+                "ItemID": 64131149,
+                "CostNet": 276.38,
+                "CostGross": "445.36",
+                "Discount": "9.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "STAND-ALONE 3RDGENERATION STANDARDI",
+                "ItemID": 24225342,
+                "CostNet": 35.76,
+                "CostGross": "580.08",
+                "Discount": "6.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ORGANIC DISINTERMEDIATE MODERATOR",
+                "ItemID": 36743721,
+                "CostNet": 42.66,
+                "CostGross": "474.56",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL EXUDING DEFINITION",
+                "ItemID": 61614702,
+                "CostNet": 98.99,
+                "CostGross": "454.85",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "47.92",
+            "GrossAmount": "594.03",
+            "NetAmount1": "1125.22"
+        }
+    }
+}

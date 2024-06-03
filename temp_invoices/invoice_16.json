@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "252152",
+            "ChassisNumber": "ECSNSOLE568248023",
+            "CarModel": "Land Rover Discovery",
+            "NumberPlate": "XG0534",
+            "CompletionDate": "08.11.2022",
+            "OrderNumber": "71653",
+            "ImmatriculationDate": "28.09.2022",
+            "Mileage": "30058"
+        },
+        "items": [
+            {
+                "ItemName": "SYNCHRONIZED EXECUTIVE SUPERSTRUCTU",
+                "ItemID": 69715815,
+                "CostNet": 226.9,
+                "CostGross": "311.82",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MONITORED STABLE ADAPTER",
+                "ItemID": 93800284,
+                "CostNet": 49.62,
+                "CostGross": "552.08",
+                "Discount": "9.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM NEUTRAL CUSTOMER LOY",
+                "ItemID": 56320571,
+                "CostNet": 263.4,
+                "CostGross": "494.68",
+                "Discount": "7.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "UNIVERSAL BI-DIRECTIONAL SUCCESS",
+                "ItemID": 53033769,
+                "CostNet": 108.83,
+                "CostGross": "430.71",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "MONITORED LOGISTICAL MIDDLEWARE",
+                "ItemID": 75219750,
+                "CostNet": 263.91,
+                "CostGross": "323.41",
+                "Discount": "5.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "MANDATORY TERTIARY CORE",
+                "ItemID": 31688408,
+                "CostNet": 215.43,
+                "CostGross": "591.85",
+                "Discount": "11.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "USER-FRIENDLY NON-VOLATILE SERVICE-",
+                "ItemID": 12054131,
+                "CostNet": 253.78,
+                "CostGross": "507.76",
+                "Discount": "8.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROACTIVE UPWARD-TRENDING ALLIANCE",
+                "ItemID": 29369422,
+                "CostNet": 63.64,
+                "CostGross": "309.04",
+                "Discount": "7.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "BALANCED COHERENT MONITORING",
+                "ItemID": 18076446,
+                "CostNet": 250.27,
+                "CostGross": "530.26",
+                "Discount": "2.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED TERTIARY STRATEGY",
+                "ItemID": 67858203,
+                "CostNet": 250.09,
+                "CostGross": "339.87",
+                "Discount": "13.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "UP-SIZED LOGISTICAL INITIATIVE",
+                "ItemID": 68322880,
+                "CostNet": 153.54,
+                "CostGross": "367.74",
+                "Discount": "3.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PERSEVERING HOLISTIC ARCHITECTURE",
+                "ItemID": 97363349,
+                "CostNet": 269.14,
+                "CostGross": "413.56",
+                "Discount": "10.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "OPEN-SOURCE BACKGROUND INTERFACE",
+                "ItemID": 44440130,
+                "CostNet": 299.33,
+                "CostGross": "513.99",
+                "Discount": "10.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "CONFIGURABLE TANGIBLE DATA-WAREHOUS",
+                "ItemID": 64887369,
+                "CostNet": 68.84,
+                "CostGross": "306.38",
+                "Discount": "6.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "UP-SIZED NON-VOLATILE FIRMWARE",
+                "ItemID": 80870261,
+                "CostNet": 17.74,
+                "CostGross": "401.45",
+                "Discount": "2.00%",
+                "Amount": "9.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "48.57",
+            "GrossAmount": "1764.81",
+            "NetAmount1": "713.26"
+        }
+    }
+}

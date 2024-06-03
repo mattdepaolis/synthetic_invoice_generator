@@ -1,0 +1,141 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "587054",
+            "ChassisNumber": "JGFXRFYB628585476",
+            "CarModel": "Volvo XC90",
+            "NumberPlate": "TA2775",
+            "CompletionDate": "16.12.2020",
+            "OrderNumber": "68689",
+            "ImmatriculationDate": "25.03.2022",
+            "Mileage": "65281"
+        },
+        "items": [
+            {
+                "ItemName": "SYNERGISTIC SCALABLE ADAPTER",
+                "ItemID": 86675240,
+                "CostNet": 16.27,
+                "CostGross": "559.4",
+                "Discount": "2.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "RIGHT-SIZED BANDWIDTH-MONITORED FIR",
+                "ItemID": 62429367,
+                "CostNet": 214.65,
+                "CostGross": "525.7",
+                "Discount": "7.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "DOWN-SIZED ATTITUDE-ORIENTED KNOWLE",
+                "ItemID": 56650204,
+                "CostNet": 299.85,
+                "CostGross": "574.14",
+                "Discount": "4.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "INTEGRATED EXUDING LEVERAGE",
+                "ItemID": 90018622,
+                "CostNet": 73.59,
+                "CostGross": "470.45",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "RE-ENGINEERED SCALABLE KNOWLEDGEBAS",
+                "ItemID": 12964364,
+                "CostNet": 150.75,
+                "CostGross": "328.6",
+                "Discount": "15.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "STAND-ALONE MODULAR FRAMEWORK",
+                "ItemID": 23146644,
+                "CostNet": 200.12,
+                "CostGross": "550.29",
+                "Discount": "7.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PHASED BANDWIDTH-MONITORED ABILITY",
+                "ItemID": 81681285,
+                "CostNet": 149.09,
+                "CostGross": "332.52",
+                "Discount": "6.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "OPERATIVE ATTITUDE-ORIENTED MONITOR",
+                "ItemID": 77240156,
+                "CostNet": 208.76,
+                "CostGross": "319.07",
+                "Discount": "4.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "VIRTUAL COMPOSITE APPROACH",
+                "ItemID": 91422045,
+                "CostNet": 170.43,
+                "CostGross": "354.8",
+                "Discount": "3.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "VISION-ORIENTED SECONDARY FRAMEWORK",
+                "ItemID": 63890525,
+                "CostNet": 240.32,
+                "CostGross": "446.49",
+                "Discount": "14.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "ERGONOMIC WEB-ENABLED CUSTOMER LOYA",
+                "ItemID": 33304944,
+                "CostNet": 206.87,
+                "CostGross": "497.83",
+                "Discount": "12.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "TEAM-ORIENTED BANDWIDTH-MONITORED C",
+                "ItemID": 25669967,
+                "CostNet": 149.14,
+                "CostGross": "347.33",
+                "Discount": "4.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "REVERSE-ENGINEERED ASYMMETRIC FOREC",
+                "ItemID": 73286730,
+                "CostNet": 144.61,
+                "CostGross": "311.7",
+                "Discount": "10.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "STAND-ALONE LOCAL MIGRATION",
+                "ItemID": 57317250,
+                "CostNet": 232.86,
+                "CostGross": "354.65",
+                "Discount": "9.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "REACTIVE RESPONSIVE PROCESS IMPROVE",
+                "ItemID": 62338986,
+                "CostNet": 138.94,
+                "CostGross": "513.95",
+                "Discount": "5.00%",
+                "Amount": "6.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "31.15",
+            "GrossAmount": "1339.02",
+            "NetAmount1": "913.79"
+        }
+    }
+}

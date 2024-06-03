@@ -1,0 +1,125 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "413172",
+            "ChassisNumber": "SHZEUPVA934021127",
+            "CarModel": "Ford Mustang",
+            "NumberPlate": "BL1837",
+            "CompletionDate": "15.01.2022",
+            "OrderNumber": "87912",
+            "ImmatriculationDate": "09.05.2023",
+            "Mileage": "88196"
+        },
+        "items": [
+            {
+                "ItemName": "PROGRAMMABLE RESPONSIVE WORKFORCE",
+                "ItemID": 51065250,
+                "CostNet": 282.46,
+                "CostGross": "509.94",
+                "Discount": "12.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED HIGH-LEVEL PRODUCT",
+                "ItemID": 98452740,
+                "CostNet": 31.22,
+                "CostGross": "536.1",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "PROFOUND REGIONAL BENCHMARK",
+                "ItemID": 64016990,
+                "CostNet": 163.05,
+                "CostGross": "563.04",
+                "Discount": "5.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "OPTIMIZED OPTIMAL INFO-MEDIARIES",
+                "ItemID": 12419616,
+                "CostNet": 246.17,
+                "CostGross": "454.84",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "REDUCED MODULAR ATTITUDE",
+                "ItemID": 88579644,
+                "CostNet": 154.62,
+                "CostGross": "426.21",
+                "Discount": "4.00%",
+                "Amount": "6.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM USER-FACING MODERATO",
+                "ItemID": 27911422,
+                "CostNet": 51.96,
+                "CostGross": "378.34",
+                "Discount": "13.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "BALANCED REGIONAL MATRIX",
+                "ItemID": 82678885,
+                "CostNet": 36.84,
+                "CostGross": "507.27",
+                "Discount": "9.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "BUSINESS-FOCUSED BOTTOM-LINE FUNCTI",
+                "ItemID": 66112791,
+                "CostNet": 179.14,
+                "CostGross": "588.28",
+                "Discount": "8.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "SYNERGIZED REGIONAL SOFTWARE",
+                "ItemID": 67939325,
+                "CostNet": 66.38,
+                "CostGross": "477.44",
+                "Discount": "11.00%",
+                "Amount": "3.00"
+            },
+            {
+                "ItemName": "FOCUSED EVEN-KEELED PROTOCOL",
+                "ItemID": 54574681,
+                "CostNet": 34.97,
+                "CostGross": "430.62",
+                "Discount": "13.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING GLOBAL HARDWARE",
+                "ItemID": 31349952,
+                "CostNet": 130.78,
+                "CostGross": "529.25",
+                "Discount": "3.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "PROACTIVE SYSTEM-WORTHY FUNCTION",
+                "ItemID": 20323233,
+                "CostNet": 12.21,
+                "CostGross": "328.29",
+                "Discount": "12.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "UP-SIZED MOTIVATING COLLABORATION",
+                "ItemID": 21787543,
+                "CostNet": 105.68,
+                "CostGross": "568.43",
+                "Discount": "13.00%",
+                "Amount": "1.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "12.02",
+            "GrossAmount": "1555.31",
+            "NetAmount1": "1200.71"
+        }
+    }
+}

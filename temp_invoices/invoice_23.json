@@ -1,0 +1,101 @@
+{
+    "gt_parse": {
+        "header": {
+            "InvoiceNumber": "212766",
+            "ChassisNumber": "LDXEJPAV295528973",
+            "CarModel": "Alfa Romeo Giulia",
+            "NumberPlate": "XC1664",
+            "CompletionDate": "11.07.2022",
+            "OrderNumber": "81019",
+            "ImmatriculationDate": "28.03.2021",
+            "Mileage": "22819"
+        },
+        "items": [
+            {
+                "ItemName": "RE-ENGINEERED BIFURCATED COLLABORAT",
+                "ItemID": 57932890,
+                "CostNet": 149.14,
+                "CostGross": "533.97",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "MULTI-LATERAL TANGIBLE MIGRATION",
+                "ItemID": 69655601,
+                "CostNet": 181.3,
+                "CostGross": "516.35",
+                "Discount": "7.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL LOGISTICAL HARDWARE",
+                "ItemID": 24040514,
+                "CostNet": 287.37,
+                "CostGross": "451.59",
+                "Discount": "8.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "MANAGED INCREMENTAL PRICING STRUCTU",
+                "ItemID": 36556468,
+                "CostNet": 219.36,
+                "CostGross": "305.42",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "OPTIONAL WELL-MODULATED BUDGETARY M",
+                "ItemID": 40608638,
+                "CostNet": 69.42,
+                "CostGross": "478.28",
+                "Discount": "9.00%",
+                "Amount": "2.00"
+            },
+            {
+                "ItemName": "CENTRALIZED FOREGROUND TASK-FORCE",
+                "ItemID": 47306095,
+                "CostNet": 220.83,
+                "CostGross": "391.63",
+                "Discount": "5.00%",
+                "Amount": "10.00"
+            },
+            {
+                "ItemName": "SELF-ENABLING TERTIARY FIRMWARE",
+                "ItemID": 88032568,
+                "CostNet": 170.92,
+                "CostGross": "352.09",
+                "Discount": "6.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROGRAMMABLE BACKGROUND ALLIANCE",
+                "ItemID": 49767966,
+                "CostNet": 211.64,
+                "CostGross": "457.36",
+                "Discount": "2.00%",
+                "Amount": "8.00"
+            },
+            {
+                "ItemName": "REACTIVE 24/7 SOLUTION",
+                "ItemID": 46379008,
+                "CostNet": 114.46,
+                "CostGross": "335.37",
+                "Discount": "7.00%",
+                "Amount": "4.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE LOGISTICAL FRAME",
+                "ItemID": 42425223,
+                "CostNet": 93.36,
+                "CostGross": "396.21",
+                "Discount": "4.00%",
+                "Amount": "4.00"
+            }
+        ],
+        "summary": {
+            "TaxAmount1": "33.78",
+            "GrossAmount": "1048.91",
+            "NetAmount1": "531.72"
+        }
+    }
+}
