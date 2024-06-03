@@ -1,85 +1,149 @@
 {
     "gt_parse": {
         "header": {
-            "InvoiceNumber": "601688",
-            "ChassisNumber": "HSGKXNHI351788965",
-            "CarModel": "Hyundai Sonata",
-            "NumberPlate": "BA9062",
-            "CompletionDate": "05.08.2023",
-            "OrderNumber": "32011",
-            "ImmatriculationDate": "24.04.2021",
-            "Mileage": "60276"
+            "InvoiceNumber": "839309",
+            "ChassisNumber": "FTLEMVGP130365728",
+            "CarModel": "Subaru Impreza",
+            "NumberPlate": "RI4018",
+            "CompletionDate": "02.04.2021",
+            "OrderNumber": "10036",
+            "ImmatriculationDate": "23.11.2021",
+            "Mileage": "90028"
         },
         "items": [
             {
-                "ItemName": "PHASED FOREGROUND DATA-WAREHOUSE",
-                "ItemID": 79994558,
-                "CostNet": 26.63,
-                "CostGross": "443.71",
-                "Discount": "3.00%",
-                "Amount": "7.00"
+                "ItemName": "FACE-TO-FACE ATTITUDE-ORIENTED PROJ",
+                "ItemID": 73143574,
+                "CostNet": 230.42,
+                "CostGross": "580.71",
+                "Discount": "6.00%",
+                "Amount": "8.00"
             },
             {
-                "ItemName": "NETWORKED MULTIMEDIA MIGRATION",
-                "ItemID": 32189774,
-                "CostNet": 137.83,
-                "CostGross": "525.0",
-                "Discount": "6.00%",
+                "ItemName": "COMPATIBLE COHESIVE PRODUCTIVITY",
+                "ItemID": 91390232,
+                "CostNet": 233.09,
+                "CostGross": "349.14",
+                "Discount": "10.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "FUNDAMENTAL IMPACTFUL BENCHMARK",
+                "ItemID": 37741725,
+                "CostNet": 298.4,
+                "CostGross": "388.35",
+                "Discount": "9.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ENHANCED ENCOMPASSING LEVERAGE",
+                "ItemID": 19307280,
+                "CostNet": 192.22,
+                "CostGross": "422.18",
+                "Discount": "10.00%",
+                "Amount": "1.00"
+            },
+            {
+                "ItemName": "ENHANCED RECIPROCAL ALLIANCE",
+                "ItemID": 56734747,
+                "CostNet": 106.44,
+                "CostGross": "435.56",
+                "Discount": "7.00%",
                 "Amount": "5.00"
             },
             {
-                "ItemName": "INTEGRATED IMPACTFUL METHODOLOGY",
-                "ItemID": 83797032,
-                "CostNet": 41.29,
-                "CostGross": "373.77",
-                "Discount": "8.00%",
-                "Amount": "8.00"
+                "ItemName": "PERSEVERING OPTIMAL TIME-FRAME",
+                "ItemID": 82231654,
+                "CostNet": 93.79,
+                "CostGross": "350.55",
+                "Discount": "11.00%",
+                "Amount": "6.00"
             },
             {
-                "ItemName": "FUNDAMENTAL SYSTEMATIC NEURAL-NET",
-                "ItemID": 90812553,
-                "CostNet": 85.93,
-                "CostGross": "438.79",
-                "Discount": "4.00%",
-                "Amount": "8.00"
+                "ItemName": "FULLY-CONFIGURABLE FULL-RANGE OPEN ",
+                "ItemID": 37884093,
+                "CostNet": 44.38,
+                "CostGross": "503.82",
+                "Discount": "10.00%",
+                "Amount": "7.00"
             },
             {
-                "ItemName": "MULTI-TIERED UNIFORM FLEXIBILITY",
-                "ItemID": 90393435,
-                "CostNet": 159.21,
-                "CostGross": "395.25",
-                "Discount": "8.00%",
-                "Amount": "8.00"
+                "ItemName": "FRONT-LINE NATIONAL KNOWLEDGEBASE",
+                "ItemID": 43406085,
+                "CostNet": 51.62,
+                "CostGross": "350.1",
+                "Discount": "11.00%",
+                "Amount": "3.00"
             },
             {
-                "ItemName": "AMELIORATED DIDACTIC PARALLELISM",
-                "ItemID": 14849377,
-                "CostNet": 46.96,
-                "CostGross": "304.56",
+                "ItemName": "POLARIZED SECONDARY GRAPHIC INTERFA",
+                "ItemID": 56724134,
+                "CostNet": 218.72,
+                "CostGross": "364.85",
+                "Discount": "5.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "CROSS-PLATFORM VALUE-ADDED INSTRUCT",
+                "ItemID": 79870333,
+                "CostNet": 165.1,
+                "CostGross": "306.78",
+                "Discount": "9.00%",
+                "Amount": "7.00"
+            },
+            {
+                "ItemName": "OBJECT-BASED EXPLICIT FRAME",
+                "ItemID": 72298435,
+                "CostNet": 297.83,
+                "CostGross": "420.99",
                 "Discount": "6.00%",
                 "Amount": "7.00"
             },
             {
-                "ItemName": "RE-CONTEXTUALIZED EXUDING ORCHESTRA",
-                "ItemID": 24571692,
-                "CostNet": 93.79,
-                "CostGross": "514.1",
-                "Discount": "8.00%",
-                "Amount": "4.00"
+                "ItemName": "ASSIMILATED EXUDING GRAPHICAL USER ",
+                "ItemID": 90556667,
+                "CostNet": 99.5,
+                "CostGross": "562.0",
+                "Discount": "10.00%",
+                "Amount": "5.00"
             },
             {
-                "ItemName": "UPGRADABLE INTERACTIVE INTRANET",
-                "ItemID": 10871697,
-                "CostNet": 68.27,
-                "CostGross": "547.11",
-                "Discount": "15.00%",
+                "ItemName": "DISTRIBUTED REGIONAL BENCHMARK",
+                "ItemID": 47937054,
+                "CostNet": 141.39,
+                "CostGross": "508.93",
+                "Discount": "12.00%",
                 "Amount": "9.00"
+            },
+            {
+                "ItemName": "TRIPLE-BUFFERED ASYNCHRONOUS WORKFO",
+                "ItemID": 18699934,
+                "CostNet": 79.89,
+                "CostGross": "348.29",
+                "Discount": "8.00%",
+                "Amount": "9.00"
+            },
+            {
+                "ItemName": "PRE-EMPTIVE MULTI-STATE GROUPWARE",
+                "ItemID": 36625695,
+                "CostNet": 251.19,
+                "CostGross": "576.62",
+                "Discount": "12.00%",
+                "Amount": "5.00"
+            },
+            {
+                "ItemName": "PROGRESSIVE ATTITUDE-ORIENTED ALLIA",
+                "ItemID": 11570965,
+                "CostNet": 276.96,
+                "CostGross": "370.77",
+                "Discount": "13.00%",
+                "Amount": "4.00"
             }
         ],
         "summary": {
-            "TaxAmount1": "44.97",
-            "GrossAmount": "1266.19",
-            "NetAmount1": "1368.56"
+            "TaxAmount1": "36.5",
+            "GrossAmount": "1318.52",
+            "NetAmount1": "863.09"
         }
     }
 }
