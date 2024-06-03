@@ -1,4 +1,4 @@
-# Invoice Generator App
+# Synthetic Invoice Generator App
 This Streamlit application generates synthetic garage invoice data for model training purposes. It allows users to specify the number of invoices to generate and select between different invoice templates. The generated invoices include both PDF and JSON formats, with structured data for header, items, and summary sections.
 
 The generated JSON format adheres to the required annotation specifications for training data used in Donut 🍩: Document Understanding Transformer.
