@@ -3,7 +3,7 @@ This Streamlit application generates synthetic garage invoice data for model tra
 
 The generated JSON format adheres to the required annotation specifications for training data used in Donut 🍩: Document Understanding Transformer.
 
-![Logo](./invoices/invoice.png)
+![Logo](./images/invoice.png)
 
 ## Features
 - Generate multiple invoices in PDF format.
