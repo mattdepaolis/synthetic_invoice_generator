@@ -48,6 +48,7 @@ invoice-generator-app/
 ├── app.py                     # Main application file
 ├── requirements.txt           # Python dependencies
 ├── pdf_generation_module.py   # Module for generating garage invoices
+├── images/                    # Image of a generated invoice
 ├── temp_invoices/             # Temporary directory for storing generated files
 ├── README.md                  # This README file
 └── .gitignore                 # Git ignore file
