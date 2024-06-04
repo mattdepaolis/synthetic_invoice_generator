@@ -35,6 +35,11 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
+4. Run Streamlit app:
+```bash
+streamlit run app.py
+```
+
 ## Usage
 1. Open the Streamlit app in your web browser.
 2. Use the sidebar to select the invoice template and enter the number of invoices you want to generate.
